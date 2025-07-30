@@ -6,6 +6,156 @@
   "feed_url": "./latest_posts.json",
   "items": [
     {
+      "id": "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration",
+      "title": "Cedana (YC S23) Is Hiring a Systems Engineer",
+      "content_text": "Article URL: https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration Comments URL: https://news.ycombinator.com/item?id=44733086 Points: 0 # Comments: 0",
+      "url": "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration",
+      "date_published": "Wed, 30 Jul 2025 12:00:30 +0000",
+      "external_url": "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44732995",
+      "title": "Ask HN: Why is \"Tea\" still on the App Store after so many data breaches?",
+      "content_text": "Furthermore, it’s being promoted in the “Top Charts” while the “App Privacy” card says they only collect email addresses. Comments URL: https://news.ycombinator.com/item?id=44732995 Points: 23 # Comments: 6",
+      "url": "https://news.ycombinator.com/item?id=44732995",
+      "date_published": "Wed, 30 Jul 2025 11:47:02 +0000",
+      "external_url": "https://news.ycombinator.com/item?id=44732995",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security",
+      "title": "Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger",
+      "content_text": "Article URL: https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security Comments URL: https://news.ycombinator.com/item?id=44732937 Points: 21 # Comments: 3",
+      "url": "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security",
+      "date_published": "Wed, 30 Jul 2025 11:38:10 +0000",
+      "external_url": "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/",
+      "title": "Moneybadger and Peach Payments partner to enable Bitcoin payments",
+      "content_text": "Article URL: https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/ Comments URL: https://news.ycombinator.com/item?id=44732700 Points: 7 # Comments: 0",
+      "url": "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/",
+      "date_published": "Wed, 30 Jul 2025 10:50:39 +0000",
+      "external_url": "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "title": "Qwen3 30B-A3B",
+      "content_text": "Article URL: https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507 Comments URL: https://news.ycombinator.com/item?id=44732659 Points: 10 # Comments: 2",
+      "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "date_published": "Wed, 30 Jul 2025 10:42:11 +0000",
+      "external_url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
+      "title": "From XML to JSON to CBOR",
+      "content_text": "Article URL: https://cborbook.com/introduction/from_xml_to_json_to_cbor.html Comments URL: https://news.ycombinator.com/item?id=44732593 Points: 8 # Comments: 2",
+      "url": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
+      "date_published": "Wed, 30 Jul 2025 10:31:12 +0000",
+      "external_url": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cd0dgkjgzvjo?at_medium=RSS&at_campaign=rss",
+      "title": "Dating safety app Tea suspends messaging after hack",
+      "content_text": "It comes after a hack which exposed thousands of members' images, posts and comments.",
+      "url": "https://www.bbc.com/news/articles/cd0dgkjgzvjo?at_medium=RSS&at_campaign=rss",
+      "date_published": "Wed, 30 Jul 2025 10:01:32 GMT",
+      "external_url": "https://www.bbc.com/news/articles/cd0dgkjgzvjo?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "News"
+      ],
+      "_source": {
+        "feed_title": "BBC Technology",
+        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+      }
+    },
+    {
+      "id": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
+      "title": "A major AI training data set contains millions of examples of personal data",
+      "content_text": "Article URL: https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/ Comments URL: https://news.ycombinator.com/item?id=44732464 Points: 42 # Comments: 26",
+      "url": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
+      "date_published": "Wed, 30 Jul 2025 09:59:09 +0000",
+      "external_url": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
+      "title": "Sleep all comes down to the mitochondria",
+      "content_text": "Article URL: https://www.science.org/content/blog-post/it-all-comes-down-mitochondria Comments URL: https://news.ycombinator.com/item?id=44732020 Points: 147 # Comments: 43",
+      "url": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
+      "date_published": "Wed, 30 Jul 2025 08:34:10 +0000",
+      "external_url": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/",
+      "title": "State Capacity and Eight Parking Spaces",
+      "content_text": "Article URL: https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/ Comments URL: https://news.ycombinator.com/item?id=44731424 Points: 17 # Comments: 7",
+      "url": "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/",
+      "date_published": "Wed, 30 Jul 2025 06:37:39 +0000",
+      "external_url": "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cpv0zkxx0njo?at_medium=RSS&at_campaign=rss",
       "title": "YouTube to be included in Australia's teen social media ban",
       "content_text": "The Australian government says the world-first ban is aimed at protecting youth from online harm.",
@@ -23,7 +173,7 @@
     {
       "id": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
       "title": "M8.7 earthquake in Western Pacific, tsunami warning issued",
-      "content_text": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive Comments URL: https://news.ycombinator.com/item?id=44729865 Points: 539 # Comments: 142",
+      "content_text": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive Comments URL: https://news.ycombinator.com/item?id=44729865 Points: 735 # Comments: 189",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
       "date_published": "Wed, 30 Jul 2025 00:38:25 +0000",
       "external_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
@@ -38,7 +188,7 @@
     {
       "id": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/",
       "title": "Two Birds with One Tone: I/Q Signals and Fourier Transform",
-      "content_text": "Article URL: https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/ Comments URL: https://news.ycombinator.com/item?id=44729302 Points: 41 # Comments: 6",
+      "content_text": "Article URL: https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/ Comments URL: https://news.ycombinator.com/item?id=44729302 Points: 83 # Comments: 18",
       "url": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/",
       "date_published": "Tue, 29 Jul 2025 23:09:04 +0000",
       "external_url": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/",
@@ -53,7 +203,7 @@
     {
       "id": "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/",
       "title": "URL-Driven State in HTMX",
-      "content_text": "Article URL: https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/ Comments URL: https://news.ycombinator.com/item?id=44728833 Points: 146 # Comments: 55",
+      "content_text": "Article URL: https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/ Comments URL: https://news.ycombinator.com/item?id=44728833 Points: 227 # Comments: 117",
       "url": "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/",
       "date_published": "Tue, 29 Jul 2025 22:09:48 +0000",
       "external_url": "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/",
@@ -66,24 +216,9 @@
       }
     },
     {
-      "id": "https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire",
-      "title": "CodeCrafters (YC S22) is hiring first Marketing Person",
-      "content_text": "Article URL: https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire Comments URL: https://news.ycombinator.com/item?id=44728513 Points: 0 # Comments: 0",
-      "url": "https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire",
-      "date_published": "Tue, 29 Jul 2025 21:34:28 +0000",
-      "external_url": "https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/",
       "title": "RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession",
-      "content_text": "Article URL: https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/ Comments URL: https://news.ycombinator.com/item?id=44728188 Points: 204 # Comments: 39",
+      "content_text": "Article URL: https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/ Comments URL: https://news.ycombinator.com/item?id=44728188 Points: 317 # Comments: 64",
       "url": "https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/",
       "date_published": "Tue, 29 Jul 2025 20:57:47 +0000",
       "external_url": "https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/",
@@ -96,69 +231,24 @@
       }
     },
     {
-      "id": "https://arxiv.org/abs/2507.12856",
-      "title": "Supervised fine tuning on curated data is reinforcement learning",
-      "content_text": "Article URL: https://arxiv.org/abs/2507.12856 Comments URL: https://news.ycombinator.com/item?id=44727788 Points: 53 # Comments: 14",
-      "url": "https://arxiv.org/abs/2507.12856",
-      "date_published": "Tue, 29 Jul 2025 20:18:23 +0000",
-      "external_url": "https://arxiv.org/abs/2507.12856",
+      "id": "https://www.bbc.co.uk/sounds/play/w3ct6zp1?at_medium=RSS&at_campaign=rss",
+      "title": "Tech Life",
+      "content_text": "What will the era of Agentic AI offer us ?",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct6zp1?at_medium=RSS&at_campaign=rss",
+      "date_published": "Tue, 29 Jul 2025 19:32:00 GMT",
+      "external_url": "https://www.bbc.co.uk/sounds/play/w3ct6zp1?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Technology"
+        "News"
       ],
       "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation",
-      "title": "Dropbox Passwords discontinuation",
-      "content_text": "Article URL: https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation Comments URL: https://news.ycombinator.com/item?id=44727653 Points: 57 # Comments: 38",
-      "url": "https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation",
-      "date_published": "Tue, 29 Jul 2025 20:03:29 +0000",
-      "external_url": "https://help.dropbox.com/en-us/installs/dropbox-passwords-discontinuation",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/",
-      "title": "More honey bees dying, even as antibiotic use halves",
-      "content_text": "Article URL: https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/ Comments URL: https://news.ycombinator.com/item?id=44727420 Points: 184 # Comments: 120",
-      "url": "https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/",
-      "date_published": "Tue, 29 Jul 2025 19:37:05 +0000",
-      "external_url": "https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://maruos.com/",
-      "title": "Maru OS – Use your phone as your PC",
-      "content_text": "Article URL: https://maruos.com/ Comments URL: https://news.ycombinator.com/item?id=44727298 Points: 228 # Comments: 151",
-      "url": "https://maruos.com/",
-      "date_published": "Tue, 29 Jul 2025 19:24:40 +0000",
-      "external_url": "https://maruos.com/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
+        "feed_title": "BBC Technology",
+        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
       }
     },
     {
       "id": "https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand",
       "title": "How the brain increases blood flow on demand",
-      "content_text": "Article URL: https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand Comments URL: https://news.ycombinator.com/item?id=44727191 Points: 94 # Comments: 41",
+      "content_text": "Article URL: https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand Comments URL: https://news.ycombinator.com/item?id=44727191 Points: 137 # Comments: 61",
       "url": "https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand",
       "date_published": "Tue, 29 Jul 2025 19:13:32 +0000",
       "external_url": "https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand",
@@ -173,7 +263,7 @@
     {
       "id": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
       "title": "A month using XMPP (using Snikket) for every call and chat (2023)",
-      "content_text": "Article URL: https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/ Comments URL: https://news.ycombinator.com/item?id=44726731 Points: 94 # Comments: 53",
+      "content_text": "Article URL: https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/ Comments URL: https://news.ycombinator.com/item?id=44726731 Points: 128 # Comments: 83",
       "url": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
       "date_published": "Tue, 29 Jul 2025 18:24:23 +0000",
       "external_url": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
@@ -186,24 +276,9 @@
       }
     },
     {
-      "id": "https://github.com/jarulraj/periodic-table",
-      "title": "Elements of System Design",
-      "content_text": "Article URL: https://github.com/jarulraj/periodic-table Comments URL: https://news.ycombinator.com/item?id=44726280 Points: 104 # Comments: 34",
-      "url": "https://github.com/jarulraj/periodic-table",
-      "date_published": "Tue, 29 Jul 2025 17:44:58 +0000",
-      "external_url": "https://github.com/jarulraj/periodic-table",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.acm.org/publications/openaccess",
       "title": "ACM Transitions to Full Open Access",
-      "content_text": "Article URL: https://www.acm.org/publications/openaccess Comments URL: https://news.ycombinator.com/item?id=44725966 Points: 191 # Comments: 16",
+      "content_text": "Article URL: https://www.acm.org/publications/openaccess Comments URL: https://news.ycombinator.com/item?id=44725966 Points: 298 # Comments: 28",
       "url": "https://www.acm.org/publications/openaccess",
       "date_published": "Tue, 29 Jul 2025 17:17:58 +0000",
       "external_url": "https://www.acm.org/publications/openaccess",
@@ -218,7 +293,7 @@
     {
       "id": "https://openai.com/index/chatgpt-study-mode/",
       "title": "Study mode",
-      "content_text": "Article URL: https://openai.com/index/chatgpt-study-mode/ Comments URL: https://news.ycombinator.com/item?id=44725764 Points: 810 # Comments: 562",
+      "content_text": "Article URL: https://openai.com/index/chatgpt-study-mode/ Comments URL: https://news.ycombinator.com/item?id=44725764 Points: 975 # Comments: 697",
       "url": "https://openai.com/index/chatgpt-study-mode/",
       "date_published": "Tue, 29 Jul 2025 17:01:14 +0000",
       "external_url": "https://openai.com/index/chatgpt-study-mode/",
@@ -233,7 +308,7 @@
     {
       "id": "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/",
       "title": "Learning basic electronics by building fireflies",
-      "content_text": "Article URL: http://a64.in/posts/learning-basic-electronics-by-building-fireflies/ Comments URL: https://news.ycombinator.com/item?id=44725757 Points: 214 # Comments: 58",
+      "content_text": "Article URL: http://a64.in/posts/learning-basic-electronics-by-building-fireflies/ Comments URL: https://news.ycombinator.com/item?id=44725757 Points: 285 # Comments: 71",
       "url": "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/",
       "date_published": "Tue, 29 Jul 2025 17:00:43 +0000",
       "external_url": "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/",
@@ -278,7 +353,7 @@
     {
       "id": "https://news.ycombinator.com/item?id=44725306",
       "title": "Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker",
-      "content_text": "Hi HN! We're Yujong, John, Duck, and Sung from Hyprnote (https://hyprnote.com). We're building an open-source, privacy-first AI note-taking app that runs fully on-device. Think of it as an open-source Granola. No Zoom bots, no cloud APIs, no data ever leaves your machine.Source code: https://github.com/fastrepl/hyprnote Demo video: https://hyprnote.com/demoWe built Hyprnote because some of our friends told us that their companies banned certain meeting notetakers due to data concerns, or they simply felt uncomfortable sending data to unknown servers. So they went back to manual note-taking - losing focus during meetings and wasting time afterward.We asked: could we build something just as useful, but completely local?Hyprnote is a desktop app that transcribes and summarizes meetings on-device. It captures both your mic input and system audio, so you don't need to invite bots. It generates a summary based on the notes you take. Everything runs on local AI models by default, using Whisper and HyprLLM. HyprLLM is our proof-of-concept model fine-tuned from Qwen3 1.7B. We learned that summarizing meetings is a very nuanced task and that a model's raw intelligence (or weight) doesn't matter THAT much. We'll release more details on evaluation and training once we finish the 2nd iteration of the model (still not that good we can make it a lot better).Whisper inference: https://github.com/fastrepl/hyprnote/blob/main/crates/whispe...AEC inference: https://github.com/fastrepl/hyprnote/blob/main/crates/aec/sr...LLM inference: https://github.com/fastrepl/hyprnote/blob/main/crates/llama/...We also learned that for some folks, having full data controllability was as important as privacy. So we support custom endpoints, allowing users to bring in their company's internal LLM. For teams that need integrations, collaboration, or admin controls, we're working on an optional server component that can be self-hosted. Lastly, we're exploring ways to make Hyprnote work like VSCode, so you can install extensions and build your own workflows around your meetings.We believe privacy-first tools, powered by local models, are going to unlock the next wave of real-world AI apps.We're here and looking forward to your comments! Comments URL: https://news.ycombinator.com/item?id=44725306 Points: 174 # Comments: 85",
+      "content_text": "Hi HN! We're Yujong, John, Duck, and Sung from Hyprnote (https://hyprnote.com). We're building an open-source, privacy-first AI note-taking app that runs fully on-device. Think of it as an open-source Granola. No Zoom bots, no cloud APIs, no data ever leaves your machine.Source code: https://github.com/fastrepl/hyprnote Demo video: https://hyprnote.com/demoWe built Hyprnote because some of our friends told us that their companies banned certain meeting notetakers due to data concerns, or they simply felt uncomfortable sending data to unknown servers. So they went back to manual note-taking - losing focus during meetings and wasting time afterward.We asked: could we build something just as useful, but completely local?Hyprnote is a desktop app that transcribes and summarizes meetings on-device. It captures both your mic input and system audio, so you don't need to invite bots. It generates a summary based on the notes you take. Everything runs on local AI models by default, using Whisper and HyprLLM. HyprLLM is our proof-of-concept model fine-tuned from Qwen3 1.7B. We learned that summarizing meetings is a very nuanced task and that a model's raw intelligence (or weight) doesn't matter THAT much. We'll release more details on evaluation and training once we finish the 2nd iteration of the model (still not that good we can make it a lot better).Whisper inference: https://github.com/fastrepl/hyprnote/blob/main/crates/whispe...AEC inference: https://github.com/fastrepl/hyprnote/blob/main/crates/aec/sr...LLM inference: https://github.com/fastrepl/hyprnote/blob/main/crates/llama/...We also learned that for some folks, having full data controllability was as important as privacy. So we support custom endpoints, allowing users to bring in their company's internal LLM. For teams that need integrations, collaboration, or admin controls, we're working on an optional server component that can be self-hosted. Lastly, we're exploring ways to make Hyprnote work like VSCode, so you can install extensions and build your own workflows around your meetings.We believe privacy-first tools, powered by local models, are going to unlock the next wave of real-world AI apps.We're here and looking forward to your comments! Comments URL: https://news.ycombinator.com/item?id=44725306 Points: 213 # Comments: 119",
       "url": "https://news.ycombinator.com/item?id=44725306",
       "date_published": "Tue, 29 Jul 2025 16:24:08 +0000",
       "external_url": "https://news.ycombinator.com/item?id=44725306",
@@ -293,55 +368,10 @@
     {
       "id": "https://www.kathaaverse.com/",
       "title": "Show HN: I built an AI that turns any book into a text adventure game",
-      "content_text": "It's a web app that uses AI to turn any book into a playable text adventure. Your favorite book, but your choices, hence your story. You can even \"remix\" the genre like playing Dune as a noir detective story.Note: Work in progress. Suggestions are welcome. Comments URL: https://news.ycombinator.com/item?id=44725202 Points: 220 # Comments: 87",
+      "content_text": "It's a web app that uses AI to turn any book into a playable text adventure. Your favorite book, but your choices, hence your story. You can even \"remix\" the genre like playing Dune as a noir detective story.Note: Work in progress. Suggestions are welcome. Comments URL: https://news.ycombinator.com/item?id=44725202 Points: 266 # Comments: 102",
       "url": "https://www.kathaaverse.com/",
       "date_published": "Tue, 29 Jul 2025 16:17:14 +0000",
       "external_url": "https://www.kathaaverse.com/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.science.org/content/article/scienceadviser-cats-confuse-ai",
-      "title": "Irrelevant facts about cats added to math problems increase LLM errors by 300%",
-      "content_text": "Article URL: https://www.science.org/content/article/scienceadviser-cats-confuse-ai Comments URL: https://news.ycombinator.com/item?id=44724238 Points: 360 # Comments: 170",
-      "url": "https://www.science.org/content/article/scienceadviser-cats-confuse-ai",
-      "date_published": "Tue, 29 Jul 2025 14:59:18 +0000",
-      "external_url": "https://www.science.org/content/article/scienceadviser-cats-confuse-ai",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://observablehq.com/notebook-kit/",
-      "title": "Observable Notebooks 2.0 Technology Preview",
-      "content_text": "Article URL: https://observablehq.com/notebook-kit/ Comments URL: https://news.ycombinator.com/item?id=44724068 Points: 201 # Comments: 45",
-      "url": "https://observablehq.com/notebook-kit/",
-      "date_published": "Tue, 29 Jul 2025 14:44:00 +0000",
-      "external_url": "https://observablehq.com/notebook-kit/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://biffweb.com/p/structuring-large-codebases/",
-      "title": "Structuring large Clojure codebases with Biff",
-      "content_text": "Article URL: https://biffweb.com/p/structuring-large-codebases/ Comments URL: https://news.ycombinator.com/item?id=44723818 Points: 67 # Comments: 4",
-      "url": "https://biffweb.com/p/structuring-large-codebases/",
-      "date_published": "Tue, 29 Jul 2025 14:26:47 +0000",
-      "external_url": "https://biffweb.com/p/structuring-large-codebases/",
       "tags": [
         "Technology"
       ],
@@ -723,36 +753,6 @@
       "_source": {
         "feed_title": "BBC Technology",
         "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c1k81lj8nvpo?at_medium=RSS&at_campaign=rss",
-      "title": "As porn sites apply new age checks, will users hand over personal ID?",
-      "content_text": "All websites hosting pornography will have to check the age of their users from Friday.",
-      "url": "https://www.bbc.com/news/articles/c1k81lj8nvpo?at_medium=RSS&at_campaign=rss",
-      "date_published": "Thu, 24 Jul 2025 02:25:59 GMT",
-      "external_url": "https://www.bbc.com/news/articles/c1k81lj8nvpo?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "News"
-      ],
-      "_source": {
-        "feed_title": "BBC Technology",
-        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1",
-      "title": "It's a Beelink, baby",
-      "content_text": "It's only been two months since I discovered the power and joy of this new generation of mini PCs. My journey started out with a Minisforum UM870, which is a lovely machine, but since then, I've come to really appreciate the work of Beelink. In a crowded market for mini PCs, Beelink stands out with their superior build quality, their class-leading cooling and silent operation, and their use of fully Linux-compatible components (the UM870 shipped with a MediaTek bluetooth/wifi card that doesn't work with Linux!). It's the complete package at three super compelling price points.For $289, you can get the EQR5, which runs an 8-core AMD Zen3 5825U that puts out 1723/6419 in Geekbench, and comes with 16GB RAM and 500GB NVMe. I've run Omarchy on it, and it flies. For me, the main drawback was the lack of a DisplayPort, which kept me from using it with an Apple display, and the fact that the SER8 exists. But if you're on a budget, and you're fine with HDMI only, it's a wild bargain.For $499, you can get the SER8. That's the price-to-performance sweet spot in the range. It uses the excellent 8-core AMD Zen4 8745HS that puts out 2595/12985 in Geekbench (~M4 multi-core numbers!), and runs our HEY test suite with 30,000 assertions almost as fast as an M4 Max! At that price, you get 32GB RAM + 1TB NVMe, as well as a DisplayPort, so it works with both the Apple 5K Studio Display and the Apple 6K XDR Display (you just need the right cable). Main drawback is limited wifi/bluetooth range, but Beelink tells me there's a fix on the way for that.For $929, you can get the SER9 HX370. This is the top dog in this form factor. It uses the incredible 12-core AMD Zen5 HX370 that hits 2990/15611 in Geekbench, and runs our HEY test suite faster than any Apple M chip I've ever tested. The built-in graphics are also very capable. Enough to play a ton of games at 1080p. It also sorted the SER8's current wifi/bluetooth range issue.I ran the SER8 as my main computer for a while, but now I'm using the SER9, and I just about never feel like I need anything more. Yes, the Framework Desktop, with its insane AMD Max 395+ chip, is even more bonkers. It almost cuts the HEY test suite time in half(!), but it's also $1,795, and not yet generally available. (But preorders are open for the ballers!).Whichever machine fits your budget, it's frankly incredible that we have this kind of performance and efficiency available at these prices with all of these Beelinks drawing less than 10 watt at idle and no more than 100 watt at peak!So it's no wonder that Beelink has been selling these units like hotcakes since I started talking about them on X as the ideal, cheap Omarchy desktop computers. It's such a symbiotic relationship. There are a ton of programmers who have become Linux curious, and Beelink offers no-brainer options to give that a try at a bargain.I just love when that happens. The perfect intersection of hardware, software, and timing. That's what we got here. It's a Beelink, baby!(And no, before you ask, I don't get any royalties, there's no affiliate link, and I don't own any shares in Beelink. I just love discovering great technology and seeing people start their Linux journey with an awesome, affordable computer!)",
-      "url": "https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1",
-      "date_published": "2025-07-23T18:03:06Z",
-      "external_url": "https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1",
-      "tags": [
-        "Blogs"
-      ],
-      "_source": {
-        "feed_title": "David Heinemeier Hansson",
-        "feed_url": "https://world.hey.com/dhh/feed.atom"
       }
     }
   ]

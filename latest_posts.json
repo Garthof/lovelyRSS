@@ -6,12 +6,12 @@
   "feed_url": "./latest_posts.json",
   "items": [
     {
-      "id": "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration",
-      "title": "Cedana (YC S23) Is Hiring a Systems Engineer",
-      "content_text": "Article URL: https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration Comments URL: https://news.ycombinator.com/item?id=44733086 Points: 0 # Comments: 0",
-      "url": "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration",
-      "date_published": "Wed, 30 Jul 2025 12:00:30 +0000",
-      "external_url": "https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration",
+      "id": "https://www.catherinejue.com/fast",
+      "title": "Fast",
+      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 6 # Comments: 1",
+      "url": "https://www.catherinejue.com/fast",
+      "date_published": "Wed, 30 Jul 2025 17:21:17 +0000",
+      "external_url": "https://www.catherinejue.com/fast",
       "tags": [
         "Technology"
       ],
@@ -21,12 +21,12 @@
       }
     },
     {
-      "id": "https://news.ycombinator.com/item?id=44732995",
-      "title": "Ask HN: Why is \"Tea\" still on the App Store after so many data breaches?",
-      "content_text": "Furthermore, it’s being promoted in the “Top Charts” while the “App Privacy” card says they only collect email addresses. Comments URL: https://news.ycombinator.com/item?id=44732995 Points: 23 # Comments: 6",
-      "url": "https://news.ycombinator.com/item?id=44732995",
-      "date_published": "Wed, 30 Jul 2025 11:47:02 +0000",
-      "external_url": "https://news.ycombinator.com/item?id=44732995",
+      "id": "https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae",
+      "title": "Artie (YC S23) Is Hiring Founding AEs",
+      "content_text": "Article URL: https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae Comments URL: https://news.ycombinator.com/item?id=44736673 Points: 0 # Comments: 0",
+      "url": "https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae",
+      "date_published": "Wed, 30 Jul 2025 17:01:10 +0000",
+      "external_url": "https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae",
       "tags": [
         "Technology"
       ],
@@ -36,12 +36,12 @@
       }
     },
     {
-      "id": "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security",
-      "title": "Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger",
-      "content_text": "Article URL: https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security Comments URL: https://news.ycombinator.com/item?id=44732937 Points: 21 # Comments: 3",
-      "url": "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security",
-      "date_published": "Wed, 30 Jul 2025 11:38:10 +0000",
-      "external_url": "https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security",
+      "id": "https://theamericanscholar.org/whats-not-to-like/",
+      "title": "What's Not to Like?",
+      "content_text": "Article URL: https://theamericanscholar.org/whats-not-to-like/ Comments URL: https://news.ycombinator.com/item?id=44736668 Points: 7 # Comments: 3",
+      "url": "https://theamericanscholar.org/whats-not-to-like/",
+      "date_published": "Wed, 30 Jul 2025 17:00:42 +0000",
+      "external_url": "https://theamericanscholar.org/whats-not-to-like/",
       "tags": [
         "Technology"
       ],
@@ -51,12 +51,12 @@
       }
     },
     {
-      "id": "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/",
-      "title": "Moneybadger and Peach Payments partner to enable Bitcoin payments",
-      "content_text": "Article URL: https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/ Comments URL: https://news.ycombinator.com/item?id=44732700 Points: 7 # Comments: 0",
-      "url": "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/",
-      "date_published": "Wed, 30 Jul 2025 10:50:39 +0000",
-      "external_url": "https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/",
+      "id": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
+      "title": "Australia widens teen social media ban to YouTube, scraps exemption",
+      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 29 # Comments: 16",
+      "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
+      "date_published": "Wed, 30 Jul 2025 16:59:09 +0000",
+      "external_url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
       "tags": [
         "Technology"
       ],
@@ -66,12 +66,12 @@
       }
     },
     {
-      "id": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
-      "title": "Qwen3 30B-A3B",
-      "content_text": "Article URL: https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507 Comments URL: https://news.ycombinator.com/item?id=44732659 Points: 10 # Comments: 2",
-      "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
-      "date_published": "Wed, 30 Jul 2025 10:42:11 +0000",
-      "external_url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
+      "id": "https://github.com/charmbracelet/crush",
+      "title": "Crush: Glamourous AI coding agent for your favourite terminal",
+      "content_text": "Article URL: https://github.com/charmbracelet/crush Comments URL: https://news.ycombinator.com/item?id=44736176 Points: 150 # Comments: 79",
+      "url": "https://github.com/charmbracelet/crush",
+      "date_published": "Wed, 30 Jul 2025 16:18:14 +0000",
+      "external_url": "https://github.com/charmbracelet/crush",
       "tags": [
         "Technology"
       ],
@@ -81,12 +81,252 @@
       }
     },
     {
-      "id": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
-      "title": "From XML to JSON to CBOR",
-      "content_text": "Article URL: https://cborbook.com/introduction/from_xml_to_json_to_cbor.html Comments URL: https://news.ycombinator.com/item?id=44732593 Points: 8 # Comments: 2",
-      "url": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
-      "date_published": "Wed, 30 Jul 2025 10:31:12 +0000",
-      "external_url": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
+      "id": "https://www.wiz.io/blog/critical-vulnerability-base44",
+      "title": "Critical Vulnerability in AI Vibe Coding platform Base44",
+      "content_text": "Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 23 # Comments: 11",
+      "url": "https://www.wiz.io/blog/critical-vulnerability-base44",
+      "date_published": "Wed, 30 Jul 2025 16:12:32 +0000",
+      "external_url": "https://www.wiz.io/blog/critical-vulnerability-base44",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://optician-sans.com/",
+      "title": "Optician Sans – A free font based on historical eye charts and optotypes",
+      "content_text": "Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 54 # Comments: 6",
+      "url": "https://optician-sans.com/",
+      "date_published": "Wed, 30 Jul 2025 16:11:58 +0000",
+      "external_url": "https://optician-sans.com/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/",
+      "title": "A practical guide on how to use the GitHub MCP server",
+      "content_text": "Upgrade from a local MCP Docker image to GitHub’s hosted server and automate pull requests, continuous integration, and security triage in minutes — no tokens required. The post A practical guide on how to use the GitHub MCP server appeared first on The GitHub Blog.",
+      "url": "https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/",
+      "date_published": "Wed, 30 Jul 2025 16:00:00 +0000",
+      "external_url": "https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "GitHub Blog",
+        "feed_url": "https://github.blog/feed/"
+      }
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44735843",
+      "title": "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
+      "content_text": "Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called \"rubrics,\" which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 52 # Comments: 14",
+      "url": "https://news.ycombinator.com/item?id=44735843",
+      "date_published": "Wed, 30 Jul 2025 15:54:02 +0000",
+      "external_url": "https://news.ycombinator.com/item?id=44735843",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
+      "title": "Words about Arrays and Tables",
+      "content_text": "Article URL: https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/ Comments URL: https://news.ycombinator.com/item?id=44735334 Points: 38 # Comments: 10",
+      "url": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
+      "date_published": "Wed, 30 Jul 2025 15:15:30 +0000",
+      "external_url": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
+      "title": "Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons",
+      "content_text": "I've been working on this for a while now, and I'm happy to share!I've been into launching weather balloons for a few years. One aspect of the hobby that really drew me in was the tracking side of things. Tracking systems let you follow the balloon's position throughout the flight and, most importantly, know exactly where it lands so you can recover the instrumentation. APRS is what I started out using during my first few years in the hobby, after I got my amateur radio license in 2020 (W0MXX). I designed a few small boards using the trackuino (https://github.com/trackuino/trackuino) firmware (while breaking 3 $70 radio modules along the way).I then got into recovering radiosondes, which are launched twice per day by the NWS and can be reprogrammed using RS41ng (https://github.com/mikaelnousiainen/RS41ng) to run many amateur radio tracking protocols. I was a bit dissatisfied with how large and heavy the radiosonde trackers were, so I designed my own tracking system, called Tiny4FSK.Tiny4FSK is a flight computer with built-in tracking using the Horus Binary v2 tracking system. This protocol was developed by the Project Horus team specifically for high-altitude balloons, and it brings features like high transmit rates, forward error correction, and excellent weak-signal performance in an open source package. It's designed to be as compact as possible and can run on a single AA battery for upwards of 17 hours.The main board comes with header rows that allow for out-of-the-box expansion. I developed a shield that supports the BME280 environmental sensor, the ICM-20948 9-axis IMU, and more via the Qwiic connector. It also features an OLED display for basic diagnostics.While I've pretty much polished the main tracking procedures (and have tested on multiple flights), I'm still developing the IMU code using a lightweight Kalman filter. Additionally, there isn't yet a wide network of Horus Binary decoding stations like the APRS network has (I-gates), but I hope that by promoting this protocol, more stations will pop up. This means that if you're not in an area with many receive stations, you'll need to set up your own using either Horus-GUI (https://github.com/projecthorus/horus-gui) or horusdemodlib (https://github.com/projecthorus/horusdemodlib).One issue I’m still working on is improving RF signal strength. Although the protocol is decodable in very low-noise environments, the transmit power appears to be lower than that of a typical radiosonde. This could be due to several factors: limited current on a weak power source (signal is stronger when powered from a bench supply), off-tuned filtering/matching, or not paying enough attention to the antenna. I'm planning to run more simulations to figure this out. That said, the signal is still decodable from the ground even at max altitude (~100,000 feet).On the more technical side, Tiny4FSK uses: - the SAMD21 microcontroller, which is an ARM Cortex-M0+ MCU - the TPS61200 boost converter, which is adjusted to output 3.3v - Si4063 radio module, which I use on the 70cm band - ATGM336H gps module - pretty cheap GPS module which works in airborne mode (>18km) - integrated BME280 temperature, pressure, and humidity sensor The code uses the Arduino framework to make it accessible to beginners.All flights using Horus Binary v2, including reprogrammed radiosondes, other custom trackers, and Tiny4FSK show up in real-time on Sondehub Amateur (https://amateur.sondehub.org). Flight data can be found in the /Media/Data folder on Github (there's several missing flights on there though).Thanks for reading, hope I didn’t mess anything up too badly in the post! -Max Comments URL: https://news.ycombinator.com/item?id=44734983 Points: 13 # Comments: 10",
+      "url": "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
+      "date_published": "Wed, 30 Jul 2025 14:51:10 +0000",
+      "external_url": "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more",
+      "title": "NMDA Receptor Antagonists: Slightly More Than You Wanted to Know",
+      "content_text": "Article URL: https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more Comments URL: https://news.ycombinator.com/item?id=44734260 Points: 22 # Comments: 8",
+      "url": "https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more",
+      "date_published": "Wed, 30 Jul 2025 13:55:25 +0000",
+      "external_url": "https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.doist.dev/bitmapist/",
+      "title": "Bitmapist: We built an open-source cohorts analytics tool that saved millions",
+      "content_text": "Article URL: https://www.doist.dev/bitmapist/ Comments URL: https://news.ycombinator.com/item?id=44733983 Points: 42 # Comments: 3",
+      "url": "https://www.doist.dev/bitmapist/",
+      "date_published": "Wed, 30 Jul 2025 13:33:37 +0000",
+      "external_url": "https://www.doist.dev/bitmapist/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
+      "title": "Writing memory efficient C structs",
+      "content_text": "Article URL: https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html Comments URL: https://news.ycombinator.com/item?id=44733968 Points: 66 # Comments: 20",
+      "url": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
+      "date_published": "Wed, 30 Jul 2025 13:32:23 +0000",
+      "external_url": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44733892",
+      "title": "Show HN: An AI agent that learns your product and guides your users",
+      "content_text": "Hey HN! My name is Christian, and I’m the co-founder of https://frigade.ai. We’ve built a powerful AI agent that automatically learns how to use any web-based product, and in turn guides users directly in the UI, automatically generates documentation, and even takes actions on a user’s behalf. Think of it as Clippy from the old MS Office. But on steroids. And actually helpful.You can see the agent and tool-calling SDK in action here: https://www.youtube.com/watch?v=UPe0t3A1VpgHow is this different from other AI customer support products?Most AI \"copilots\" are really just glorified chatbots. They skim your help center and spit out some nonspecific bullet points. Basically some ‘hopes and prayers’ that your users will figure it out. Ultimately, this puts the burden on the user to follow through. And assumes companies are keeping their help center up-to-date with every product change. That means constant screenshots of new product UI or features for accurate instructions.These solutions leverage only a fraction of what’s possible with AI, which can now reason about software interfaces extensively.With Frigade AI, we guide the user directly in the product and build on-demand tours based on the current user’s state and context. The agents can also take actions immediately on a user’s behalf, e.g. inviting a colleague to a workspace or retrieving billing information (via our tool calling SDK).This was only made possible recently. The latest frontier models (GPT 4.1, Claude 4, Gemini 2.5, etc.) are able to reason about UIs and workflows in a way that simply didn’t work just 6 months ago. That’s why we’re so excited to bring this technology to the forefront of complex legacy SaaS applications that are not yet AI enabled.How does it work?1. Invite agent@frigade.ai to your product. You can send multiple invitations based on distinct roles.2. Our agent automatically explores and reasons about your application.3. Attach any existing help center resources or training documentation to supplement the agent’s understanding. Totally optional.4. Install the agent assistant Javascript snippet (just a few lines).5. That’s it. Your users can now start asking questions and get on demand product tours and questions answered in real time without any overhead.This process takes only a few minutes. Once running, you can improve the agent by rating and providing feedback to the responses it provides. If you want to integrate further, you can also hook up your own code to our tool calling SDK to enable the agent to look up customer info, issue refunds, etc. directly. These calls can be made with just a few lines of code by describing the tool and its parameters in natural language and passing a single Javascript promise (e.g. make an API call, call a function in your app, etc.).Would love to hear what the HN crowd thinks about this approach! Are you building your own AI agent from scratch, or looking to embed one off the shelf? Comments URL: https://news.ycombinator.com/item?id=44733892 Points: 11 # Comments: 7",
+      "url": "https://news.ycombinator.com/item?id=44733892",
+      "date_published": "Wed, 30 Jul 2025 13:24:50 +0000",
+      "external_url": "https://news.ycombinator.com/item?id=44733892",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
+      "title": "Try the Mosquito Bucket of Death",
+      "content_text": "Article URL: https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/ Comments URL: https://news.ycombinator.com/item?id=44733888 Points: 222 # Comments: 194",
+      "url": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
+      "date_published": "Wed, 30 Jul 2025 13:24:10 +0000",
+      "external_url": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://oxide.computer/blog/our-100m-series-b",
+      "title": "Our $100M Series B",
+      "content_text": "Article URL: https://oxide.computer/blog/our-100m-series-b Comments URL: https://news.ycombinator.com/item?id=44733817 Points: 479 # Comments: 303",
+      "url": "https://oxide.computer/blog/our-100m-series-b",
+      "date_published": "Wed, 30 Jul 2025 13:17:28 +0000",
+      "external_url": "https://oxide.computer/blog/our-100m-series-b",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/",
+      "title": "Show HN: MoebiusXBIN – ASCII and text-mode art editor with custom font support",
+      "content_text": "Article URL: https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/ Comments URL: https://news.ycombinator.com/item?id=44733742 Points: 37 # Comments: 2",
+      "url": "https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/",
+      "date_published": "Wed, 30 Jul 2025 13:11:06 +0000",
+      "external_url": "https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://jeroen.github.io/notes/webassembly-curl/",
+      "title": "Making Libcurl Work in WebAssembly",
+      "content_text": "Article URL: https://jeroen.github.io/notes/webassembly-curl/ Comments URL: https://news.ycombinator.com/item?id=44733734 Points: 33 # Comments: 5",
+      "url": "https://jeroen.github.io/notes/webassembly-curl/",
+      "date_published": "Wed, 30 Jul 2025 13:09:27 +0000",
+      "external_url": "https://jeroen.github.io/notes/webassembly-curl/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/shorts/1KnTEjxFM0E",
+      "title": "Why do we all remember the same things differently?",
+      "content_text": "We made this video in partnership with Unlikely Collaborators. Our memories aren’t perfect records of the past — they’re reconstructions shaped by brain activity. Neuroscientists Lisa Genova and André Fenton explain that a memory is created through neural patterns that can subtly shift each time we recall it. We may unknowingly add or lose details over time. Understanding this science helps us approach memory with more humility and empathy, and deepens our insight into how memories shape one’s identity and beliefs. About André Fenton: André Fenton, PhD, is a neuroscientist and professor at NYU’s Center for Neural Science. He co-discovered PKMzeta, a key molecule for long-term memory, and studies how the brain stores and retrieves information. His work explores cognition, mental illness, and memory disorders. Fenton also founded Bio‑Signal Group, which created an FDA-approved portable EEG. About Lisa Genova: Lisa Genova, PhD, is a neuroscientist and bestselling author with a Ph.D. from Harvard. Her debut novel, Still Alice, explored early-onset Alzheimer’s and became an Oscar-winning film. Through novels like Left Neglected and Inside the O’Briens, she blends neuroscience and storytelling to humanize brain disorders.",
+      "url": "https://www.youtube.com/shorts/1KnTEjxFM0E",
+      "date_published": "2025-07-30T13:00:02+00:00",
+      "external_url": "https://www.youtube.com/shorts/1KnTEjxFM0E",
+      "tags": [
+        "YouTube"
+      ],
+      "_source": {
+        "feed_title": "Big Think",
+        "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg"
+      }
+    },
+    {
+      "id": "https://www.jstor.org/stable/41548580",
+      "title": "Problem Solving Is Often a Matter of Cooking Up an Appropriate Markov Chain",
+      "content_text": "Article URL: https://www.jstor.org/stable/41548580 Comments URL: https://news.ycombinator.com/item?id=44733341 Points: 133 # Comments: 34",
+      "url": "https://www.jstor.org/stable/41548580",
+      "date_published": "Wed, 30 Jul 2025 12:29:52 +0000",
+      "external_url": "https://www.jstor.org/stable/41548580",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.htmlhobbyist.com/",
+      "title": "The HTML Hobbyist",
+      "content_text": "Article URL: https://www.htmlhobbyist.com/ Comments URL: https://news.ycombinator.com/item?id=44733119 Points: 155 # Comments: 78",
+      "url": "https://www.htmlhobbyist.com/",
+      "date_published": "Wed, 30 Jul 2025 12:03:54 +0000",
+      "external_url": "https://www.htmlhobbyist.com/",
       "tags": [
         "Technology"
       ],
@@ -111,51 +351,6 @@
       }
     },
     {
-      "id": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
-      "title": "A major AI training data set contains millions of examples of personal data",
-      "content_text": "Article URL: https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/ Comments URL: https://news.ycombinator.com/item?id=44732464 Points: 42 # Comments: 26",
-      "url": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
-      "date_published": "Wed, 30 Jul 2025 09:59:09 +0000",
-      "external_url": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
-      "title": "Sleep all comes down to the mitochondria",
-      "content_text": "Article URL: https://www.science.org/content/blog-post/it-all-comes-down-mitochondria Comments URL: https://news.ycombinator.com/item?id=44732020 Points: 147 # Comments: 43",
-      "url": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
-      "date_published": "Wed, 30 Jul 2025 08:34:10 +0000",
-      "external_url": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/",
-      "title": "State Capacity and Eight Parking Spaces",
-      "content_text": "Article URL: https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/ Comments URL: https://news.ycombinator.com/item?id=44731424 Points: 17 # Comments: 7",
-      "url": "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/",
-      "date_published": "Wed, 30 Jul 2025 06:37:39 +0000",
-      "external_url": "https://www.brethorsting.com/blog/2025/07/state-capacity-and-eight-parking-spaces/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.bbc.com/news/articles/cpv0zkxx0njo?at_medium=RSS&at_campaign=rss",
       "title": "YouTube to be included in Australia's teen social media ban",
       "content_text": "The Australian government says the world-first ban is aimed at protecting youth from online harm.",
@@ -171,66 +366,6 @@
       }
     },
     {
-      "id": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
-      "title": "M8.7 earthquake in Western Pacific, tsunami warning issued",
-      "content_text": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive Comments URL: https://news.ycombinator.com/item?id=44729865 Points: 735 # Comments: 189",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
-      "date_published": "Wed, 30 Jul 2025 00:38:25 +0000",
-      "external_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/",
-      "title": "Two Birds with One Tone: I/Q Signals and Fourier Transform",
-      "content_text": "Article URL: https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/ Comments URL: https://news.ycombinator.com/item?id=44729302 Points: 83 # Comments: 18",
-      "url": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/",
-      "date_published": "Tue, 29 Jul 2025 23:09:04 +0000",
-      "external_url": "https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/",
-      "title": "URL-Driven State in HTMX",
-      "content_text": "Article URL: https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/ Comments URL: https://news.ycombinator.com/item?id=44728833 Points: 227 # Comments: 117",
-      "url": "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/",
-      "date_published": "Tue, 29 Jul 2025 22:09:48 +0000",
-      "external_url": "https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/",
-      "title": "RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession",
-      "content_text": "Article URL: https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/ Comments URL: https://news.ycombinator.com/item?id=44728188 Points: 317 # Comments: 64",
-      "url": "https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/",
-      "date_published": "Tue, 29 Jul 2025 20:57:47 +0000",
-      "external_url": "https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/sounds/play/w3ct6zp1?at_medium=RSS&at_campaign=rss",
       "title": "Tech Life",
       "content_text": "What will the era of Agentic AI offer us ?",
@@ -243,81 +378,6 @@
       "_source": {
         "feed_title": "BBC Technology",
         "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand",
-      "title": "How the brain increases blood flow on demand",
-      "content_text": "Article URL: https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand Comments URL: https://news.ycombinator.com/item?id=44727191 Points: 137 # Comments: 61",
-      "url": "https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand",
-      "date_published": "Tue, 29 Jul 2025 19:13:32 +0000",
-      "external_url": "https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
-      "title": "A month using XMPP (using Snikket) for every call and chat (2023)",
-      "content_text": "Article URL: https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/ Comments URL: https://news.ycombinator.com/item?id=44726731 Points: 128 # Comments: 83",
-      "url": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
-      "date_published": "Tue, 29 Jul 2025 18:24:23 +0000",
-      "external_url": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.acm.org/publications/openaccess",
-      "title": "ACM Transitions to Full Open Access",
-      "content_text": "Article URL: https://www.acm.org/publications/openaccess Comments URL: https://news.ycombinator.com/item?id=44725966 Points: 298 # Comments: 28",
-      "url": "https://www.acm.org/publications/openaccess",
-      "date_published": "Tue, 29 Jul 2025 17:17:58 +0000",
-      "external_url": "https://www.acm.org/publications/openaccess",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-study-mode/",
-      "title": "Study mode",
-      "content_text": "Article URL: https://openai.com/index/chatgpt-study-mode/ Comments URL: https://news.ycombinator.com/item?id=44725764 Points: 975 # Comments: 697",
-      "url": "https://openai.com/index/chatgpt-study-mode/",
-      "date_published": "Tue, 29 Jul 2025 17:01:14 +0000",
-      "external_url": "https://openai.com/index/chatgpt-study-mode/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/",
-      "title": "Learning basic electronics by building fireflies",
-      "content_text": "Article URL: http://a64.in/posts/learning-basic-electronics-by-building-fireflies/ Comments URL: https://news.ycombinator.com/item?id=44725757 Points: 285 # Comments: 71",
-      "url": "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/",
-      "date_published": "Tue, 29 Jul 2025 17:00:43 +0000",
-      "external_url": "http://a64.in/posts/learning-basic-electronics-by-building-fireflies/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
       }
     },
     {
@@ -348,36 +408,6 @@
       "_source": {
         "feed_title": "GitHub Blog",
         "feed_url": "https://github.blog/feed/"
-      }
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=44725306",
-      "title": "Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker",
-      "content_text": "Hi HN! We're Yujong, John, Duck, and Sung from Hyprnote (https://hyprnote.com). We're building an open-source, privacy-first AI note-taking app that runs fully on-device. Think of it as an open-source Granola. No Zoom bots, no cloud APIs, no data ever leaves your machine.Source code: https://github.com/fastrepl/hyprnote Demo video: https://hyprnote.com/demoWe built Hyprnote because some of our friends told us that their companies banned certain meeting notetakers due to data concerns, or they simply felt uncomfortable sending data to unknown servers. So they went back to manual note-taking - losing focus during meetings and wasting time afterward.We asked: could we build something just as useful, but completely local?Hyprnote is a desktop app that transcribes and summarizes meetings on-device. It captures both your mic input and system audio, so you don't need to invite bots. It generates a summary based on the notes you take. Everything runs on local AI models by default, using Whisper and HyprLLM. HyprLLM is our proof-of-concept model fine-tuned from Qwen3 1.7B. We learned that summarizing meetings is a very nuanced task and that a model's raw intelligence (or weight) doesn't matter THAT much. We'll release more details on evaluation and training once we finish the 2nd iteration of the model (still not that good we can make it a lot better).Whisper inference: https://github.com/fastrepl/hyprnote/blob/main/crates/whispe...AEC inference: https://github.com/fastrepl/hyprnote/blob/main/crates/aec/sr...LLM inference: https://github.com/fastrepl/hyprnote/blob/main/crates/llama/...We also learned that for some folks, having full data controllability was as important as privacy. So we support custom endpoints, allowing users to bring in their company's internal LLM. For teams that need integrations, collaboration, or admin controls, we're working on an optional server component that can be self-hosted. Lastly, we're exploring ways to make Hyprnote work like VSCode, so you can install extensions and build your own workflows around your meetings.We believe privacy-first tools, powered by local models, are going to unlock the next wave of real-world AI apps.We're here and looking forward to your comments! Comments URL: https://news.ycombinator.com/item?id=44725306 Points: 213 # Comments: 119",
-      "url": "https://news.ycombinator.com/item?id=44725306",
-      "date_published": "Tue, 29 Jul 2025 16:24:08 +0000",
-      "external_url": "https://news.ycombinator.com/item?id=44725306",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.kathaaverse.com/",
-      "title": "Show HN: I built an AI that turns any book into a text adventure game",
-      "content_text": "It's a web app that uses AI to turn any book into a playable text adventure. Your favorite book, but your choices, hence your story. You can even \"remix\" the genre like playing Dune as a noir detective story.Note: Work in progress. Suggestions are welcome. Comments URL: https://news.ycombinator.com/item?id=44725202 Points: 266 # Comments: 102",
-      "url": "https://www.kathaaverse.com/",
-      "date_published": "Tue, 29 Jul 2025 16:17:14 +0000",
-      "external_url": "https://www.kathaaverse.com/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
       }
     },
     {
@@ -723,36 +753,6 @@
       "_source": {
         "feed_title": "Kurzgesagt – In a Nutshell",
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q"
-      }
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=Ua13CLOgZis",
-      "title": "Ask yourself: Are you a process, or a person? | Annaka Harris",
-      "content_text": "\"The sense that we are a solid entity, an unchanging entity that exists someplace in our body and takes ownership of our body, and even ownership of our brain rather than being identical to our brain, that is where the illusion lies.\" Subscribe to Big Think on YouTube ► https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg?sub_confirmation=1 Up next, Science is shattering our intuitions about consciousness ► https://www.youtube.com/watch?v=m0UjqT45JsQ What if the “you” you feel so certain about isn’t real in the way you think? Author Annaka Harris argues that the brain’s constant dialogue with the world creates a shifting process, not a fixed identity, and how this discovery changes how we see our choices, our memories, and our place in nature. Harris also explores why quieting the brain’s default mode through meditation, altered states, or deep focus can dissolve the boundary between self and world. 0:00 The illusion of self 4:22 The brain as a dynamic process 6:53 Decision-making & “free will\" 10:33 Neuroscience of the self 13:11 Losing the self Read the video transcript ► https://bigthink.com/series/the-big-think-interview/annaka-harris-self/?utm_source=youtube&utm_medium=video&utm_campaign=youtube_description ---------------------------------------------------------------------------------- Go Deeper with Big Think: ►Become a Big Think Member Get exclusive access to full interviews, early access to new releases, Big Think merch and more. https://members.bigthink.com/?utm_source=youtube&utm_medium=video&utm_campaign=youtube_description ►Get Big Think+ for Business Guide, inspire and accelerate leaders at all levels of your company with the biggest minds in business. https://bigthink.com/plus/great-leaders-think-big/?utm_source=youtube&utm_medium=video&utm_campaign=youtube_description ---------------------------------------------------------------------------------- About Annaka Harris: Annaka Harris is the New York Times bestselling author of CONSCIOUS: A Brief Guide to the Fundamental Mystery of the Mind and writer and producer of the forthcoming audio documentary series, LIGHTS ON. Her work has appeared in The New York Times, Nautilus Magazine, the Journal of Consciousness Studies, and IAI Magazine. She is also an editor and consultant for science writers, specializing in neuroscience and physics. Annaka is the author of the children’s book I Wonder, coauthor of the Mindful Games Activity Cards, and a volunteer mindfulness teacher for the organization Inner Kids.",
-      "url": "https://www.youtube.com/watch?v=Ua13CLOgZis",
-      "date_published": "2025-07-24T13:00:57+00:00",
-      "external_url": "https://www.youtube.com/watch?v=Ua13CLOgZis",
-      "tags": [
-        "YouTube"
-      ],
-      "_source": {
-        "feed_title": "Big Think",
-        "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg"
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cr4wgywwg0qo?at_medium=RSS&at_campaign=rss",
-      "title": "South Park to stream on Paramount+ after bidding war",
-      "content_text": "The deal that will see the long-running comedy series move from HBO Max is reportedly worth $1.5bn.",
-      "url": "https://www.bbc.com/news/articles/cr4wgywwg0qo?at_medium=RSS&at_campaign=rss",
-      "date_published": "Thu, 24 Jul 2025 04:14:14 GMT",
-      "external_url": "https://www.bbc.com/news/articles/cr4wgywwg0qo?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "News"
-      ],
-      "_source": {
-        "feed_title": "BBC Technology",
-        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
       }
     }
   ]

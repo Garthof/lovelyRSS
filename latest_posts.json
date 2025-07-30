@@ -6,9 +6,99 @@
   "feed_url": "./latest_posts.json",
   "items": [
     {
+      "id": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
+      "title": "Early universe's 'little red dots' may be black hole stars – Science – AAAS",
+      "content_text": "Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 3 # Comments: 0",
+      "url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
+      "date_published": "Wed, 30 Jul 2025 21:18:21 +0000",
+      "external_url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://overreacted.io/the-math-is-haunted/",
+      "title": "The Math Is Haunted",
+      "content_text": "Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 23 # Comments: 2",
+      "url": "https://overreacted.io/the-math-is-haunted/",
+      "date_published": "Wed, 30 Jul 2025 20:46:49 +0000",
+      "external_url": "https://overreacted.io/the-math-is-haunted/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06",
+      "title": "The Preserving Machine by Philip K. Dick (1953)",
+      "content_text": "Article URL: https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06 Comments URL: https://news.ycombinator.com/item?id=44738161 Points: 23 # Comments: 5",
+      "url": "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06",
+      "date_published": "Wed, 30 Jul 2025 18:55:43 +0000",
+      "external_url": "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://flak.tedunangst.com/post/polarizing-parsers",
+      "title": "Polarizing Parsers",
+      "content_text": "Article URL: https://flak.tedunangst.com/post/polarizing-parsers Comments URL: https://news.ycombinator.com/item?id=44737823 Points: 21 # Comments: 3",
+      "url": "https://flak.tedunangst.com/post/polarizing-parsers",
+      "date_published": "Wed, 30 Jul 2025 18:27:01 +0000",
+      "external_url": "https://flak.tedunangst.com/post/polarizing-parsers",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/",
+      "title": "Most Illinois farmland is not owned by farmers",
+      "content_text": "Article URL: https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/ Comments URL: https://news.ycombinator.com/item?id=44737353 Points: 140 # Comments: 154",
+      "url": "https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/",
+      "date_published": "Wed, 30 Jul 2025 17:51:21 +0000",
+      "external_url": "https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://rys.io/en/180.html",
+      "title": "The hype is the product",
+      "content_text": "Article URL: https://rys.io/en/180.html Comments URL: https://news.ycombinator.com/item?id=44737346 Points: 105 # Comments: 52",
+      "url": "https://rys.io/en/180.html",
+      "date_published": "Wed, 30 Jul 2025 17:50:48 +0000",
+      "external_url": "https://rys.io/en/180.html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
       "id": "https://www.catherinejue.com/fast",
       "title": "Fast",
-      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 6 # Comments: 1",
+      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 489 # Comments: 155",
       "url": "https://www.catherinejue.com/fast",
       "date_published": "Wed, 30 Jul 2025 17:21:17 +0000",
       "external_url": "https://www.catherinejue.com/fast",
@@ -36,24 +126,9 @@
       }
     },
     {
-      "id": "https://theamericanscholar.org/whats-not-to-like/",
-      "title": "What's Not to Like?",
-      "content_text": "Article URL: https://theamericanscholar.org/whats-not-to-like/ Comments URL: https://news.ycombinator.com/item?id=44736668 Points: 7 # Comments: 3",
-      "url": "https://theamericanscholar.org/whats-not-to-like/",
-      "date_published": "Wed, 30 Jul 2025 17:00:42 +0000",
-      "external_url": "https://theamericanscholar.org/whats-not-to-like/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
       "title": "Australia widens teen social media ban to YouTube, scraps exemption",
-      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 29 # Comments: 16",
+      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 78 # Comments: 135",
       "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
       "date_published": "Wed, 30 Jul 2025 16:59:09 +0000",
       "external_url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
@@ -68,7 +143,7 @@
     {
       "id": "https://github.com/charmbracelet/crush",
       "title": "Crush: Glamourous AI coding agent for your favourite terminal",
-      "content_text": "Article URL: https://github.com/charmbracelet/crush Comments URL: https://news.ycombinator.com/item?id=44736176 Points: 150 # Comments: 79",
+      "content_text": "Article URL: https://github.com/charmbracelet/crush Comments URL: https://news.ycombinator.com/item?id=44736176 Points: 283 # Comments: 163",
       "url": "https://github.com/charmbracelet/crush",
       "date_published": "Wed, 30 Jul 2025 16:18:14 +0000",
       "external_url": "https://github.com/charmbracelet/crush",
@@ -83,7 +158,7 @@
     {
       "id": "https://www.wiz.io/blog/critical-vulnerability-base44",
       "title": "Critical Vulnerability in AI Vibe Coding platform Base44",
-      "content_text": "Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 23 # Comments: 11",
+      "content_text": "Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 66 # Comments: 41",
       "url": "https://www.wiz.io/blog/critical-vulnerability-base44",
       "date_published": "Wed, 30 Jul 2025 16:12:32 +0000",
       "external_url": "https://www.wiz.io/blog/critical-vulnerability-base44",
@@ -98,7 +173,7 @@
     {
       "id": "https://optician-sans.com/",
       "title": "Optician Sans – A free font based on historical eye charts and optotypes",
-      "content_text": "Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 54 # Comments: 6",
+      "content_text": "Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 161 # Comments: 35",
       "url": "https://optician-sans.com/",
       "date_published": "Wed, 30 Jul 2025 16:11:58 +0000",
       "external_url": "https://optician-sans.com/",
@@ -128,7 +203,7 @@
     {
       "id": "https://news.ycombinator.com/item?id=44735843",
       "title": "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
-      "content_text": "Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called \"rubrics,\" which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 52 # Comments: 14",
+      "content_text": "Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called \"rubrics,\" which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 82 # Comments: 21",
       "url": "https://news.ycombinator.com/item?id=44735843",
       "date_published": "Wed, 30 Jul 2025 15:54:02 +0000",
       "external_url": "https://news.ycombinator.com/item?id=44735843",
@@ -143,7 +218,7 @@
     {
       "id": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
       "title": "Words about Arrays and Tables",
-      "content_text": "Article URL: https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/ Comments URL: https://news.ycombinator.com/item?id=44735334 Points: 38 # Comments: 10",
+      "content_text": "Article URL: https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/ Comments URL: https://news.ycombinator.com/item?id=44735334 Points: 51 # Comments: 21",
       "url": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
       "date_published": "Wed, 30 Jul 2025 15:15:30 +0000",
       "external_url": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
@@ -157,8 +232,8 @@
     },
     {
       "id": "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
-      "title": "Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons",
-      "content_text": "I've been working on this for a while now, and I'm happy to share!I've been into launching weather balloons for a few years. One aspect of the hobby that really drew me in was the tracking side of things. Tracking systems let you follow the balloon's position throughout the flight and, most importantly, know exactly where it lands so you can recover the instrumentation. APRS is what I started out using during my first few years in the hobby, after I got my amateur radio license in 2020 (W0MXX). I designed a few small boards using the trackuino (https://github.com/trackuino/trackuino) firmware (while breaking 3 $70 radio modules along the way).I then got into recovering radiosondes, which are launched twice per day by the NWS and can be reprogrammed using RS41ng (https://github.com/mikaelnousiainen/RS41ng) to run many amateur radio tracking protocols. I was a bit dissatisfied with how large and heavy the radiosonde trackers were, so I designed my own tracking system, called Tiny4FSK.Tiny4FSK is a flight computer with built-in tracking using the Horus Binary v2 tracking system. This protocol was developed by the Project Horus team specifically for high-altitude balloons, and it brings features like high transmit rates, forward error correction, and excellent weak-signal performance in an open source package. It's designed to be as compact as possible and can run on a single AA battery for upwards of 17 hours.The main board comes with header rows that allow for out-of-the-box expansion. I developed a shield that supports the BME280 environmental sensor, the ICM-20948 9-axis IMU, and more via the Qwiic connector. It also features an OLED display for basic diagnostics.While I've pretty much polished the main tracking procedures (and have tested on multiple flights), I'm still developing the IMU code using a lightweight Kalman filter. Additionally, there isn't yet a wide network of Horus Binary decoding stations like the APRS network has (I-gates), but I hope that by promoting this protocol, more stations will pop up. This means that if you're not in an area with many receive stations, you'll need to set up your own using either Horus-GUI (https://github.com/projecthorus/horus-gui) or horusdemodlib (https://github.com/projecthorus/horusdemodlib).One issue I’m still working on is improving RF signal strength. Although the protocol is decodable in very low-noise environments, the transmit power appears to be lower than that of a typical radiosonde. This could be due to several factors: limited current on a weak power source (signal is stronger when powered from a bench supply), off-tuned filtering/matching, or not paying enough attention to the antenna. I'm planning to run more simulations to figure this out. That said, the signal is still decodable from the ground even at max altitude (~100,000 feet).On the more technical side, Tiny4FSK uses: - the SAMD21 microcontroller, which is an ARM Cortex-M0+ MCU - the TPS61200 boost converter, which is adjusted to output 3.3v - Si4063 radio module, which I use on the 70cm band - ATGM336H gps module - pretty cheap GPS module which works in airborne mode (>18km) - integrated BME280 temperature, pressure, and humidity sensor The code uses the Arduino framework to make it accessible to beginners.All flights using Horus Binary v2, including reprogrammed radiosondes, other custom trackers, and Tiny4FSK show up in real-time on Sondehub Amateur (https://amateur.sondehub.org). Flight data can be found in the /Media/Data folder on Github (there's several missing flights on there though).Thanks for reading, hope I didn’t mess anything up too badly in the post! -Max Comments URL: https://news.ycombinator.com/item?id=44734983 Points: 13 # Comments: 10",
+      "title": "Show HN: A high-altitude low-power flight computer for high-altitude balloons",
+      "content_text": "I've been working on this for a while now, and I'm happy to share!I've been into launching weather balloons for a few years. One aspect of the hobby that really drew me in was the tracking side of things. Tracking systems let you follow the balloon's position throughout the flight and, most importantly, know exactly where it lands so you can recover the instrumentation. APRS is what I started out using during my first few years in the hobby, after I got my amateur radio license in 2020 (W0MXX). I designed a few small boards using the trackuino (https://github.com/trackuino/trackuino) firmware (while breaking 3 $70 radio modules along the way).I then got into recovering radiosondes, which are launched twice per day by the NWS and can be reprogrammed using RS41ng (https://github.com/mikaelnousiainen/RS41ng) to run many amateur radio tracking protocols. I was a bit dissatisfied with how large and heavy the radiosonde trackers were, so I designed my own tracking system, called Tiny4FSK.Tiny4FSK is a flight computer with built-in tracking using the Horus Binary v2 tracking system. This protocol was developed by the Project Horus team specifically for high-altitude balloons, and it brings features like high transmit rates, forward error correction, and excellent weak-signal performance in an open source package. It's designed to be as compact as possible and can run on a single AA battery for upwards of 17 hours.The main board comes with header rows that allow for out-of-the-box expansion. I developed a shield that supports the BME280 environmental sensor, the ICM-20948 9-axis IMU, and more via the Qwiic connector. It also features an OLED display for basic diagnostics.While I've pretty much polished the main tracking procedures (and have tested on multiple flights), I'm still developing the IMU code using a lightweight Kalman filter. Additionally, there isn't yet a wide network of Horus Binary decoding stations like the APRS network has (I-gates), but I hope that by promoting this protocol, more stations will pop up. This means that if you're not in an area with many receive stations, you'll need to set up your own using either Horus-GUI (https://github.com/projecthorus/horus-gui) or horusdemodlib (https://github.com/projecthorus/horusdemodlib).One issue I’m still working on is improving RF signal strength. Although the protocol is decodable in very low-noise environments, the transmit power appears to be lower than that of a typical radiosonde. This could be due to several factors: limited current on a weak power source (signal is stronger when powered from a bench supply), off-tuned filtering/matching, or not paying enough attention to the antenna. I'm planning to run more simulations to figure this out. That said, the signal is still decodable from the ground even at max altitude (~100,000 feet).On the more technical side, Tiny4FSK uses: - the SAMD21 microcontroller, which is an ARM Cortex-M0+ MCU - the TPS61200 boost converter, which is adjusted to output 3.3v - Si4063 radio module, which I use on the 70cm band - ATGM336H gps module - pretty cheap GPS module which works in airborne mode (>18km) - integrated BME280 temperature, pressure, and humidity sensor The code uses the Arduino framework to make it accessible to beginners.All flights using Horus Binary v2, including reprogrammed radiosondes, other custom trackers, and Tiny4FSK show up in real-time on Sondehub Amateur (https://amateur.sondehub.org). Flight data can be found in the /Media/Data folder on Github (there's several missing flights on there though).Thanks for reading, hope I didn’t mess anything up too badly in the post! -Max Comments URL: https://news.ycombinator.com/item?id=44734983 Points: 30 # Comments: 16",
       "url": "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
       "date_published": "Wed, 30 Jul 2025 14:51:10 +0000",
       "external_url": "https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK",
@@ -171,12 +246,12 @@
       }
     },
     {
-      "id": "https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more",
-      "title": "NMDA Receptor Antagonists: Slightly More Than You Wanted to Know",
-      "content_text": "Article URL: https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more Comments URL: https://news.ycombinator.com/item?id=44734260 Points: 22 # Comments: 8",
-      "url": "https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more",
-      "date_published": "Wed, 30 Jul 2025 13:55:25 +0000",
-      "external_url": "https://grillbert.substack.com/p/nmda-receptor-antagonists-a-bit-more",
+      "id": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
+      "title": "A short post on short trains",
+      "content_text": "Article URL: https://shakeddown.substack.com/p/a-short-post-on-short-trains Comments URL: https://news.ycombinator.com/item?id=44734522 Points: 27 # Comments: 22",
+      "url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
+      "date_published": "Wed, 30 Jul 2025 14:15:07 +0000",
+      "external_url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
       "tags": [
         "Technology"
       ],
@@ -186,12 +261,12 @@
       }
     },
     {
-      "id": "https://www.doist.dev/bitmapist/",
-      "title": "Bitmapist: We built an open-source cohorts analytics tool that saved millions",
-      "content_text": "Article URL: https://www.doist.dev/bitmapist/ Comments URL: https://news.ycombinator.com/item?id=44733983 Points: 42 # Comments: 3",
-      "url": "https://www.doist.dev/bitmapist/",
-      "date_published": "Wed, 30 Jul 2025 13:33:37 +0000",
-      "external_url": "https://www.doist.dev/bitmapist/",
+      "id": "https://github.com/trymeka/agent",
+      "title": "Show HN: State of the Art Open-source alternative to ChatGPT Agents for browsing",
+      "content_text": "Hey HN,We are Winston, Edward, and James, and we built Meka Agent, an open-source framework that lets vision-based LLMs execute tasks directly on a computer, just like a person would.Backstory:In the last few months, we've been building computer-use agents that have been used by various teams for QA testing, but realized that the underlying browsing frameworks aren't quite good enough yet.As such, we've been working on a browsing agent.We achieved 72.7% on WebArena compared to the previous state of the art set by OpenAI's new ChatGPT agent at 65.4%. You can read more about it here: https://github.com/trymeka/webarena_evals.Today, we are open sourcing Meka, our state of the art agent, to allow anyone to build their own powerful, vision-based agents from scratch. We provide the groundwork for the hard parts, so you don't have to:* True vision-based control: Meka doesn't just read HTML. It looks at the screen, identifies interactive elements, and decides where to click, type, and scroll.* Full computer access: It's not sandboxed in a browser. Meka operates with OS-level controls, allowing it to handle system dialogues, file uploads, and other interactions that browser-only automation tools can't.* Extensible by design: We've made it easy to plug in your own LLMs and computer providers.* State-of-the-art performance: 72.7% on WebArenaOur goal is to enable developers to create repeatable, robust tasks on any computer just by prompting an agent, without worrying about the implementation details.We’d love to get your feedback on how this tool could fit into your automation workflows. Try it out and let us know what you think.You can find the repo on GitHub and get started quickly with our hosted platform, https://app.withmeka.com/.Thanks, Winston, Edward, and James Comments URL: https://news.ycombinator.com/item?id=44734471 Points: 17 # Comments: 6",
+      "url": "https://github.com/trymeka/agent",
+      "date_published": "Wed, 30 Jul 2025 14:11:36 +0000",
+      "external_url": "https://github.com/trymeka/agent",
       "tags": [
         "Technology"
       ],
@@ -203,7 +278,7 @@
     {
       "id": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
       "title": "Writing memory efficient C structs",
-      "content_text": "Article URL: https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html Comments URL: https://news.ycombinator.com/item?id=44733968 Points: 66 # Comments: 20",
+      "content_text": "Article URL: https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html Comments URL: https://news.ycombinator.com/item?id=44733968 Points: 107 # Comments: 44",
       "url": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
       "date_published": "Wed, 30 Jul 2025 13:32:23 +0000",
       "external_url": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
@@ -216,24 +291,9 @@
       }
     },
     {
-      "id": "https://news.ycombinator.com/item?id=44733892",
-      "title": "Show HN: An AI agent that learns your product and guides your users",
-      "content_text": "Hey HN! My name is Christian, and I’m the co-founder of https://frigade.ai. We’ve built a powerful AI agent that automatically learns how to use any web-based product, and in turn guides users directly in the UI, automatically generates documentation, and even takes actions on a user’s behalf. Think of it as Clippy from the old MS Office. But on steroids. And actually helpful.You can see the agent and tool-calling SDK in action here: https://www.youtube.com/watch?v=UPe0t3A1VpgHow is this different from other AI customer support products?Most AI \"copilots\" are really just glorified chatbots. They skim your help center and spit out some nonspecific bullet points. Basically some ‘hopes and prayers’ that your users will figure it out. Ultimately, this puts the burden on the user to follow through. And assumes companies are keeping their help center up-to-date with every product change. That means constant screenshots of new product UI or features for accurate instructions.These solutions leverage only a fraction of what’s possible with AI, which can now reason about software interfaces extensively.With Frigade AI, we guide the user directly in the product and build on-demand tours based on the current user’s state and context. The agents can also take actions immediately on a user’s behalf, e.g. inviting a colleague to a workspace or retrieving billing information (via our tool calling SDK).This was only made possible recently. The latest frontier models (GPT 4.1, Claude 4, Gemini 2.5, etc.) are able to reason about UIs and workflows in a way that simply didn’t work just 6 months ago. That’s why we’re so excited to bring this technology to the forefront of complex legacy SaaS applications that are not yet AI enabled.How does it work?1. Invite agent@frigade.ai to your product. You can send multiple invitations based on distinct roles.2. Our agent automatically explores and reasons about your application.3. Attach any existing help center resources or training documentation to supplement the agent’s understanding. Totally optional.4. Install the agent assistant Javascript snippet (just a few lines).5. That’s it. Your users can now start asking questions and get on demand product tours and questions answered in real time without any overhead.This process takes only a few minutes. Once running, you can improve the agent by rating and providing feedback to the responses it provides. If you want to integrate further, you can also hook up your own code to our tool calling SDK to enable the agent to look up customer info, issue refunds, etc. directly. These calls can be made with just a few lines of code by describing the tool and its parameters in natural language and passing a single Javascript promise (e.g. make an API call, call a function in your app, etc.).Would love to hear what the HN crowd thinks about this approach! Are you building your own AI agent from scratch, or looking to embed one off the shelf? Comments URL: https://news.ycombinator.com/item?id=44733892 Points: 11 # Comments: 7",
-      "url": "https://news.ycombinator.com/item?id=44733892",
-      "date_published": "Wed, 30 Jul 2025 13:24:50 +0000",
-      "external_url": "https://news.ycombinator.com/item?id=44733892",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
       "title": "Try the Mosquito Bucket of Death",
-      "content_text": "Article URL: https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/ Comments URL: https://news.ycombinator.com/item?id=44733888 Points: 222 # Comments: 194",
+      "content_text": "Article URL: https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/ Comments URL: https://news.ycombinator.com/item?id=44733888 Points: 302 # Comments: 247",
       "url": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
       "date_published": "Wed, 30 Jul 2025 13:24:10 +0000",
       "external_url": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
@@ -248,40 +308,10 @@
     {
       "id": "https://oxide.computer/blog/our-100m-series-b",
       "title": "Our $100M Series B",
-      "content_text": "Article URL: https://oxide.computer/blog/our-100m-series-b Comments URL: https://news.ycombinator.com/item?id=44733817 Points: 479 # Comments: 303",
+      "content_text": "Article URL: https://oxide.computer/blog/our-100m-series-b Comments URL: https://news.ycombinator.com/item?id=44733817 Points: 572 # Comments: 394",
       "url": "https://oxide.computer/blog/our-100m-series-b",
       "date_published": "Wed, 30 Jul 2025 13:17:28 +0000",
       "external_url": "https://oxide.computer/blog/our-100m-series-b",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/",
-      "title": "Show HN: MoebiusXBIN – ASCII and text-mode art editor with custom font support",
-      "content_text": "Article URL: https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/ Comments URL: https://news.ycombinator.com/item?id=44733742 Points: 37 # Comments: 2",
-      "url": "https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/",
-      "date_published": "Wed, 30 Jul 2025 13:11:06 +0000",
-      "external_url": "https://blog.glyphdrawing.club/moebiusxbin-ascii-and-text-mode-art-editor-with-custom-font-support/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://jeroen.github.io/notes/webassembly-curl/",
-      "title": "Making Libcurl Work in WebAssembly",
-      "content_text": "Article URL: https://jeroen.github.io/notes/webassembly-curl/ Comments URL: https://news.ycombinator.com/item?id=44733734 Points: 33 # Comments: 5",
-      "url": "https://jeroen.github.io/notes/webassembly-curl/",
-      "date_published": "Wed, 30 Jul 2025 13:09:27 +0000",
-      "external_url": "https://jeroen.github.io/notes/webassembly-curl/",
       "tags": [
         "Technology"
       ],
@@ -303,36 +333,6 @@
       "_source": {
         "feed_title": "Big Think",
         "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg"
-      }
-    },
-    {
-      "id": "https://www.jstor.org/stable/41548580",
-      "title": "Problem Solving Is Often a Matter of Cooking Up an Appropriate Markov Chain",
-      "content_text": "Article URL: https://www.jstor.org/stable/41548580 Comments URL: https://news.ycombinator.com/item?id=44733341 Points: 133 # Comments: 34",
-      "url": "https://www.jstor.org/stable/41548580",
-      "date_published": "Wed, 30 Jul 2025 12:29:52 +0000",
-      "external_url": "https://www.jstor.org/stable/41548580",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.htmlhobbyist.com/",
-      "title": "The HTML Hobbyist",
-      "content_text": "Article URL: https://www.htmlhobbyist.com/ Comments URL: https://news.ycombinator.com/item?id=44733119 Points: 155 # Comments: 78",
-      "url": "https://www.htmlhobbyist.com/",
-      "date_published": "Wed, 30 Jul 2025 12:03:54 +0000",
-      "external_url": "https://www.htmlhobbyist.com/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
       }
     },
     {

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feeds updated="2025-07-30T18:08:39.037775+00:00" count="8">
-  <feed>
-    <title>Python.org Jobs</title>
-    <url>https://www.python.org/jobs/feed/rss/</url>
-    <link>https://www.python.org/jobs/</link>
-    <description>Python jobs from Python.org</description>
-    <updated>Wed, 30 Jul 2025 17:22:47 +0000</updated>
-    <entry_count>20</entry_count>
-    <category>Technology</category>
-    <language>en-us</language>
-  </feed>
+<feeds updated="2025-07-30T21:47:05.254085+00:00" count="8">
   <feed>
     <title>Hacker News</title>
     <url>https://hnrss.org/frontpage</url>
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News RSS</description>
-    <updated>Wed, 30 Jul 2025 17:56:45 +0000</updated>
+    <updated>Wed, 30 Jul 2025 21:42:38 +0000</updated>
     <entry_count>20</entry_count>
     <category>Technology</category>
     <language>en</language>
+  </feed>
+  <feed>
+    <title>Python.org Jobs</title>
+    <url>https://www.python.org/jobs/feed/rss/</url>
+    <link>https://www.python.org/jobs/</link>
+    <description>Python jobs from Python.org</description>
+    <updated>Wed, 30 Jul 2025 20:22:48 +0000</updated>
+    <entry_count>20</entry_count>
+    <category>Technology</category>
+    <language>en-us</language>
   </feed>
   <feed>
     <title>GitHub Blog</title>
@@ -45,7 +45,7 @@
     <url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
     <link>https://www.bbc.co.uk/news/technology</link>
     <description>BBC News - Technology</description>
-    <updated>Wed, 30 Jul 2025 18:08:29 GMT</updated>
+    <updated>Wed, 30 Jul 2025 21:46:54 GMT</updated>
     <entry_count>62</entry_count>
     <category>News</category>
     <language>en-gb</language>

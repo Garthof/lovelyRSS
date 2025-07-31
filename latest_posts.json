@@ -6,6 +6,141 @@
   "feed_url": "./latest_posts.json",
   "items": [
     {
+      "id": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
+      "title": "Ofcom investigates 34 porn sites over age checks",
+      "content_text": "Ofcom said on Friday that more than 6,000 porn sites would begin verifying users, but it believes some are ignoring the new rules.",
+      "url": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
+      "date_published": "Thu, 31 Jul 2025 12:29:13 GMT",
+      "external_url": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "News"
+      ],
+      "_source": {
+        "feed_title": "BBC Technology",
+        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+      }
+    },
+    {
+      "id": "https://world.hey.com/dhh/executives-should-be-the-least-busy-people-bb94fb18",
+      "title": "Executives should be the least busy people",
+      "content_text": "If your executive calendar is packed back to back, you have no room for fires, customers, or serendipities. You've traded all your availability for efficiency. That's a bad deal.Executives of old used to know this! That's what the long lunches, early escapes to the golf course, and reading the paper at work were all about. A great fictional example of this is Bert Cooper from Mad Men. He knew his value was largely in his network. He didn't have to grind every minute of every day to prove otherwise. His function was to leap into action when the critical occasion arose or decision needed to be made.But modern executives are so insecure about seeming busy 24/7 that they'll wreck their business trying to prove it. Trying to outwork everyone. Sacrificing themselves thin so they can run a squirrel-brain operation that's constantly chasing every nutty idea.Now someone is inevitably going to say \"but what about Elon!!\". He's actually a perfect illustration of doing this right, actually. Even if he works 100-hour weeks, he's the CEO of 3 companies, has a Diablo IV addiction, and keeps a busy tweeting schedule too. In all of that, I'd be surprised if there was more than 20-30h per company per week on average. And your boss is not Elon.Wide open calendars should not be seen as lazy, but as intentional availability. It's time we brought them back into vogue.",
+      "url": "https://world.hey.com/dhh/executives-should-be-the-least-busy-people-bb94fb18",
+      "date_published": "2025-07-31T12:11:02Z",
+      "external_url": "https://world.hey.com/dhh/executives-should-be-the-least-busy-people-bb94fb18",
+      "tags": [
+        "Blogs"
+      ],
+      "_source": {
+        "feed_title": "David Heinemeier Hansson",
+        "feed_url": "https://world.hey.com/dhh/feed.atom"
+      }
+    },
+    {
+      "id": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
+      "title": "Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive",
+      "content_text": "Article URL: https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager Comments URL: https://news.ycombinator.com/item?id=44744756 Points: 0 # Comments: 0",
+      "url": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
+      "date_published": "Thu, 31 Jul 2025 12:00:26 +0000",
+      "external_url": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://cmtext.com/",
+      "title": "Introduction to Computer Music an Electronic Textbook",
+      "content_text": "Article URL: https://cmtext.com/ Comments URL: https://news.ycombinator.com/item?id=44744578 Points: 36 # Comments: 1",
+      "url": "https://cmtext.com/",
+      "date_published": "Thu, 31 Jul 2025 11:37:22 +0000",
+      "external_url": "https://cmtext.com/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
+      "title": "How was the Universal Pictures 1936 opening logo created?",
+      "content_text": "Article URL: https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created Comments URL: https://news.ycombinator.com/item?id=44744454 Points: 30 # Comments: 3",
+      "url": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
+      "date_published": "Thu, 31 Jul 2025 11:19:54 +0000",
+      "external_url": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution",
+      "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
+      "content_text": "Article URL: https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution Comments URL: https://news.ycombinator.com/item?id=44744331 Points: 28 # Comments: 2",
+      "url": "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution",
+      "date_published": "Thu, 31 Jul 2025 10:57:58 +0000",
+      "external_url": "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
+      "title": "I tried Servo, the undercover web browser engine made with Rust",
+      "content_text": "Article URL: https://www.spacebar.news/servo-undercover-web-browser-engine/ Comments URL: https://news.ycombinator.com/item?id=44744324 Points: 40 # Comments: 23",
+      "url": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
+      "date_published": "Thu, 31 Jul 2025 10:56:21 +0000",
+      "external_url": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/",
+      "title": "GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban",
+      "content_text": "Article URL: https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/ Comments URL: https://news.ycombinator.com/item?id=44744096 Points: 86 # Comments: 69",
+      "url": "https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/",
+      "date_published": "Thu, 31 Jul 2025 10:07:19 +0000",
+      "external_url": "https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html",
+      "title": "How to trigger a command on Linux when disconnected from power",
+      "content_text": "Article URL: https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html Comments URL: https://news.ycombinator.com/item?id=44744079 Points: 3 # Comments: 0",
+      "url": "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html",
+      "date_published": "Thu, 31 Jul 2025 10:03:54 +0000",
+      "external_url": "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
       "id": "https://stackoverflow.blog/2025/07/31/the-innovation-leadership-and-team-agility-inside-u-s-bank-s-cloud-journey/",
       "title": "The innovation, leadership, and team agility inside U.S. Bank’s cloud journey",
       "content_text": "In this episode of Leaders of Code, Jody Bailey, Stack Overflow’s CPO, Anirudh Kaul, Senior Director of Software Engineering, and Paul Petersen, Cloud Platform Engineering Manager, discuss the U.S. Bank’s journey from traditional banking practices to embracing new technologies.",
@@ -23,7 +158,7 @@
     {
       "id": "https://github.com/dipampaul17/AgentGuard",
       "title": "Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget",
-      "content_text": "Your AI agent hits an infinite loop and racks up $2000 in API charges overnight. This happens weekly to AI developers.AgentGuard monitors API calls in real-time and automatically kills your process when it hits your budget limit.How it works:Add 2 lines to any AI project: const agentGuard = require('agent-guard'); await agentGuard.init({ limit: 50 }); // $50 budget // Your existing code runs unchanged const response = await openai.chat.completions.create({...}); // AgentGuard tracks costs automatically When your code hits $50 in API costs, AgentGuard stops execution and shows you exactly what happened.Why I built this:I got tired of seeing \"I accidentally spent $500 on OpenAI\" posts. Existing tools like tokencost help you measure costs after the fact, but nothing prevents runaway spending in real-time.AgentGuard is essentially a circuit breaker for AI API costs. It's saved me from several costly bugs during development.Limitations: Only works with OpenAI and Anthropic APIs currently. Cost calculations are estimates based on documented pricing.Source: https://github.com/dipampaul17/AgentGuardInstall: npm i agent-guard Comments URL: https://news.ycombinator.com/item?id=44742710 Points: 3 # Comments: 0",
+      "content_text": "Your AI agent hits an infinite loop and racks up $2000 in API charges overnight. This happens weekly to AI developers.AgentGuard monitors API calls in real-time and automatically kills your process when it hits your budget limit.How it works:Add 2 lines to any AI project: const agentGuard = require('agent-guard'); await agentGuard.init({ limit: 50 }); // $50 budget // Your existing code runs unchanged const response = await openai.chat.completions.create({...}); // AgentGuard tracks costs automatically When your code hits $50 in API costs, AgentGuard stops execution and shows you exactly what happened.Why I built this:I got tired of seeing \"I accidentally spent $500 on OpenAI\" posts. Existing tools like tokencost help you measure costs after the fact, but nothing prevents runaway spending in real-time.AgentGuard is essentially a circuit breaker for AI API costs. It's saved me from several costly bugs during development.Limitations: Only works with OpenAI and Anthropic APIs currently. Cost calculations are estimates based on documented pricing.Source: https://github.com/dipampaul17/AgentGuardInstall: npm i agent-guard Comments URL: https://news.ycombinator.com/item?id=44742710 Points: 29 # Comments: 18",
       "url": "https://github.com/dipampaul17/AgentGuard",
       "date_published": "Thu, 31 Jul 2025 05:54:04 +0000",
       "external_url": "https://github.com/dipampaul17/AgentGuard",
@@ -36,24 +171,9 @@
       }
     },
     {
-      "id": "https://openai.com/index/introducing-stargate-norway/",
-      "title": "Stargate Norway",
-      "content_text": "Article URL: https://openai.com/index/introducing-stargate-norway/ Comments URL: https://news.ycombinator.com/item?id=44742513 Points: 50 # Comments: 24",
-      "url": "https://openai.com/index/introducing-stargate-norway/",
-      "date_published": "Thu, 31 Jul 2025 05:08:56 +0000",
-      "external_url": "https://openai.com/index/introducing-stargate-norway/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
       "title": "Tracking source locations in the Futhark compiler",
-      "content_text": "Article URL: https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html Comments URL: https://news.ycombinator.com/item?id=44742359 Points: 10 # Comments: 0",
+      "content_text": "Article URL: https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html Comments URL: https://news.ycombinator.com/item?id=44742359 Points: 37 # Comments: 0",
       "url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
       "date_published": "Thu, 31 Jul 2025 04:40:31 +0000",
       "external_url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
@@ -67,8 +187,8 @@
     },
     {
       "id": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
-      "title": "I Know When You're Vibe Coding",
-      "content_text": "Article URL: https://alexkondov.com/i-know-when-youre-vibe-coding/ Comments URL: https://news.ycombinator.com/item?id=44742251 Points: 68 # Comments: 19",
+      "title": "I know when you're vibe coding",
+      "content_text": "Article URL: https://alexkondov.com/i-know-when-youre-vibe-coding/ Comments URL: https://news.ycombinator.com/item?id=44742251 Points: 242 # Comments: 119",
       "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
       "date_published": "Thu, 31 Jul 2025 04:16:40 +0000",
       "external_url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
@@ -83,7 +203,7 @@
     {
       "id": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
       "title": "Friction and Not Being Touched",
-      "content_text": "Article URL: https://tante.cc/2025/07/30/friction-and-not-being-touched/ Comments URL: https://news.ycombinator.com/item?id=44742021 Points: 10 # Comments: 0",
+      "content_text": "Article URL: https://tante.cc/2025/07/30/friction-and-not-being-touched/ Comments URL: https://news.ycombinator.com/item?id=44742021 Points: 46 # Comments: 9",
       "url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
       "date_published": "Thu, 31 Jul 2025 03:18:31 +0000",
       "external_url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
@@ -98,25 +218,10 @@
     {
       "id": "https://undeadly.org/cgi?action=article;sid=20250730080301",
       "title": "Classic Common Desktop Environment coming to OpenBSD",
-      "content_text": "Article URL: https://undeadly.org/cgi?action=article;sid=20250730080301 Comments URL: https://news.ycombinator.com/item?id=44741539 Points: 70 # Comments: 16",
+      "content_text": "Article URL: https://undeadly.org/cgi?action=article;sid=20250730080301 Comments URL: https://news.ycombinator.com/item?id=44741539 Points: 113 # Comments: 47",
       "url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
       "date_published": "Thu, 31 Jul 2025 01:42:58 +0000",
       "external_url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
-      "title": "You know what: Microsoft became miserably incompetent in IT",
-      "content_text": "Article URL: https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/ Comments URL: https://news.ycombinator.com/item?id=44741442 Points: 119 # Comments: 59",
-      "url": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
-      "date_published": "Thu, 31 Jul 2025 01:22:28 +0000",
-      "external_url": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
       "tags": [
         "Technology"
       ],
@@ -138,21 +243,6 @@
       "_source": {
         "feed_title": "BBC Technology",
         "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai",
-      "title": "Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India",
-      "content_text": "Article URL: https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai Comments URL: https://news.ycombinator.com/item?id=44741305 Points: 0 # Comments: 0",
-      "url": "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai",
-      "date_published": "Thu, 31 Jul 2025 01:01:02 +0000",
-      "external_url": "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
       }
     },
     {
@@ -188,7 +278,7 @@
     {
       "id": "https://www.figma.com/blog/ipo-pricing/",
       "title": "Figma will IPO on July 31",
-      "content_text": "Article URL: https://www.figma.com/blog/ipo-pricing/ Comments URL: https://news.ycombinator.com/item?id=44740222 Points: 182 # Comments: 96",
+      "content_text": "Article URL: https://www.figma.com/blog/ipo-pricing/ Comments URL: https://news.ycombinator.com/item?id=44740222 Points: 276 # Comments: 168",
       "url": "https://www.figma.com/blog/ipo-pricing/",
       "date_published": "Wed, 30 Jul 2025 22:24:58 +0000",
       "external_url": "https://www.figma.com/blog/ipo-pricing/",
@@ -203,7 +293,7 @@
     {
       "id": "https://ollama.com/blog/new-app",
       "title": "Ollama's new app",
-      "content_text": "Article URL: https://ollama.com/blog/new-app Comments URL: https://news.ycombinator.com/item?id=44739632 Points: 310 # Comments: 159",
+      "content_text": "Article URL: https://ollama.com/blog/new-app Comments URL: https://news.ycombinator.com/item?id=44739632 Points: 431 # Comments: 233",
       "url": "https://ollama.com/blog/new-app",
       "date_published": "Wed, 30 Jul 2025 21:19:03 +0000",
       "external_url": "https://ollama.com/blog/new-app",
@@ -218,7 +308,7 @@
     {
       "id": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
       "title": "Early universe's 'little red dots' may be black hole stars",
-      "content_text": "Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 68 # Comments: 35",
+      "content_text": "Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 99 # Comments: 50",
       "url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
       "date_published": "Wed, 30 Jul 2025 21:18:21 +0000",
       "external_url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
@@ -233,7 +323,7 @@
     {
       "id": "https://blog.val.town/vibe-code",
       "title": "Vibe code is legacy code",
-      "content_text": "Article URL: https://blog.val.town/vibe-code Comments URL: https://news.ycombinator.com/item?id=44739556 Points: 460 # Comments: 275",
+      "content_text": "Article URL: https://blog.val.town/vibe-code Comments URL: https://news.ycombinator.com/item?id=44739556 Points: 632 # Comments: 367",
       "url": "https://blog.val.town/vibe-code",
       "date_published": "Wed, 30 Jul 2025 21:13:20 +0000",
       "external_url": "https://blog.val.town/vibe-code",
@@ -248,7 +338,7 @@
     {
       "id": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
       "title": "150 years of Hans Christian Andersen",
-      "content_text": "https://archive.ph/10l96 Comments URL: https://news.ycombinator.com/item?id=44739494 Points: 29 # Comments: 3",
+      "content_text": "https://archive.ph/10l96 Comments URL: https://news.ycombinator.com/item?id=44739494 Points: 88 # Comments: 19",
       "url": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
       "date_published": "Wed, 30 Jul 2025 21:07:13 +0000",
       "external_url": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
@@ -262,8 +352,8 @@
     },
     {
       "id": "https://overreacted.io/the-math-is-haunted/",
-      "title": "The math is haunted",
-      "content_text": "Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 191 # Comments: 72",
+      "title": "The Math Is Haunted",
+      "content_text": "Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 277 # Comments: 117",
       "url": "https://overreacted.io/the-math-is-haunted/",
       "date_published": "Wed, 30 Jul 2025 20:46:49 +0000",
       "external_url": "https://overreacted.io/the-math-is-haunted/",
@@ -276,24 +366,9 @@
       }
     },
     {
-      "id": "https://xlii.space/eng/emacs-the-macos-bug/",
-      "title": "Emacs: The macOS Bug",
-      "content_text": "Article URL: https://xlii.space/eng/emacs-the-macos-bug/ Comments URL: https://news.ycombinator.com/item?id=44737676 Points: 109 # Comments: 74",
-      "url": "https://xlii.space/eng/emacs-the-macos-bug/",
-      "date_published": "Wed, 30 Jul 2025 18:15:35 +0000",
-      "external_url": "https://xlii.space/eng/emacs-the-macos-bug/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.catherinejue.com/fast",
       "title": "Fast",
-      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 1108 # Comments: 318",
+      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 1374 # Comments: 379",
       "url": "https://www.catherinejue.com/fast",
       "date_published": "Wed, 30 Jul 2025 17:21:17 +0000",
       "external_url": "https://www.catherinejue.com/fast",
@@ -308,7 +383,7 @@
     {
       "id": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
       "title": "Australia widens teen social media ban to YouTube, scraps exemption",
-      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 248 # Comments: 345",
+      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 319 # Comments: 473",
       "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
       "date_published": "Wed, 30 Jul 2025 16:59:09 +0000",
       "external_url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
@@ -336,36 +411,6 @@
       }
     },
     {
-      "id": "https://www.wiz.io/blog/critical-vulnerability-base44",
-      "title": "Critical vulnerability in AI coding platform Base44 allowing unauthorized access",
-      "content_text": "Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 102 # Comments: 63",
-      "url": "https://www.wiz.io/blog/critical-vulnerability-base44",
-      "date_published": "Wed, 30 Jul 2025 16:12:32 +0000",
-      "external_url": "https://www.wiz.io/blog/critical-vulnerability-base44",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://optician-sans.com/",
-      "title": "Optician Sans – A free font based on historical eye charts and optotypes",
-      "content_text": "Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 244 # Comments: 51",
-      "url": "https://optician-sans.com/",
-      "date_published": "Wed, 30 Jul 2025 16:11:58 +0000",
-      "external_url": "https://optician-sans.com/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/",
       "title": "A practical guide on how to use the GitHub MCP server",
       "content_text": "Upgrade from a local MCP Docker image to GitHub’s hosted server and automate pull requests, continuous integration, and security triage in minutes — no tokens required. The post A practical guide on how to use the GitHub MCP server appeared first on The GitHub Blog.",
@@ -378,21 +423,6 @@
       "_source": {
         "feed_title": "GitHub Blog",
         "feed_url": "https://github.blog/feed/"
-      }
-    },
-    {
-      "id": "https://news.ycombinator.com/item?id=44735843",
-      "title": "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
-      "content_text": "Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called \"rubrics,\" which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 100 # Comments: 32",
-      "url": "https://news.ycombinator.com/item?id=44735843",
-      "date_published": "Wed, 30 Jul 2025 15:54:02 +0000",
-      "external_url": "https://news.ycombinator.com/item?id=44735843",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
       }
     },
     {
@@ -723,36 +753,6 @@
       "_source": {
         "feed_title": "David Heinemeier Hansson",
         "feed_url": "https://world.hey.com/dhh/feed.atom"
-      }
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=_CxmzkYPvsg",
-      "title": "What 85 years of research says is the real key to happiness | Robert Waldinger: Full Interview",
-      "content_text": "“We can make ourselves more likely to be happy by building a life that includes the conditions that make for happiness.” Subscribe to Big Think on YouTube ► https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg?sub_confirmation=1 Up next, Harvard professor’s 6-step guide to Zen Buddhism ► https://www.youtube.com/watch?v=zBN5aa3jAHw What if the secret to lasting happiness has been hiding in plain sight? Harvard psychiatrist Robert Waldinger reveals insights from the world’s longest study on adult life, 85 years of data that challenge our assumptions about success, health, and fulfillment. Waldinger shares how our relationships and connections – not our wealth, fame, or success, directly boosts our minds, bodies, and longevity. 00:00:00 Part 1: Happiness. How did you get into psychiatry? 00:01:05 What is your research about? 00:05:35 How much control do we have over our happiness? 00:06:34 How do relationships affect happiness? 00:08:43 How do childhood experiences impact happiness? 00:11:44 How does evolutionary biology influence our happiness? 00:12:29 How do relationships impact physical health? 00:17:18 What is social fitness? 00:17:55 How do I maintain healthy relationships? 00:18:49 How can I evaluate my social fitness? 00:20:16 How does mapping my social universe contribute to my wellbeing? 00:22:11 If a relationship is depleting, what should I do? 00:23:42 How many close friends do I need? 00:24:43 What is your study's primary discovery? 00:29:16 What is your background with Zen? 00:29:52 How does Zen shape relationships? 00:31:30 What is the goal of Zen? 00:32:37 Why is impermanence helpful to consider? 00:34:53 How might the Four Noble Truths improve relationships? 00:37:51 How does understanding attachment help guide my relationships? 00:38:17 How does a \"beginner's mind\" benefit my relationships? 00:39:55 What is mindfulness and how do I cultivate it? 00:42:19 How does recognizing suffering improve relationships? 00:43:00 How does \"metta\" aid relationships? 00:44:31 What is enlightenment? 00:50:31 Do we have a loneliness epidemic? 00:53:26 What’s the difference between loneliness and isolation? 00:54:27 How does loneliness harm us physically? 00:56:12 What fundamental need do relationships satisfy? 00:58:27 Is our happiness only dictated by our close connections? 01:01:07 What can I do to lessen loneliness? Read the video transcript ► https://bigthink.com/series/full-interview/robert-waldinger-happiness/?utm_source=youtube&utm_medium=video&utm_campaign=youtube_description ---------------------------------------------------------------------------------- Go Deeper with Big Think: ►Become a Big Think Member Get exclusive content, early, ad-free access to new releases, and more. https://www.youtube.com/@bigthink/membership/ ►Get Big Think+ for Business Engage learners like never before with high-impact video microlearning from the biggest thinkers in the world. https://bigthink.com/plus/?utm_source=youtube&utm_medium=video&utm_campaign=youtube_description ---------------------------------------------------------------------------------- About Robert Waldinger: Robert Waldinger, MD is a Clinical Professor of Psychiatry at Harvard Medical School, a practicing psychiatrist, psychoanalyst, and a Zen teacher and practitioner. For the last two decades, Waldinger has been the director of the Harvard Study of Adult Development. This study, conducted over more than 85 years, has analyzed the entire lives of 724 families to determine the activities, behaviors, and dynamics that enhance a person’s life-long well-being. Waldinger has dedicated his career to examining these elements and discovering what brings true fulfillment to human existence. He is the author of several books, including his most recent, The Good Life: Lessons from the World’s Longest Scientific Study of Happiness.",
-      "url": "https://www.youtube.com/watch?v=_CxmzkYPvsg",
-      "date_published": "2025-07-25T13:01:17+00:00",
-      "external_url": "https://www.youtube.com/watch?v=_CxmzkYPvsg",
-      "tags": [
-        "YouTube"
-      ],
-      "_source": {
-        "feed_title": "Big Think",
-        "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg"
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c24v4dl5r16o?at_medium=RSS&at_campaign=rss",
-      "title": "Around 6,000 porn sites start checking ages in UK",
-      "content_text": "Despite the law some remain sceptical about the effectiveness of porn age checks.",
-      "url": "https://www.bbc.com/news/articles/c24v4dl5r16o?at_medium=RSS&at_campaign=rss",
-      "date_published": "Fri, 25 Jul 2025 11:30:21 GMT",
-      "external_url": "https://www.bbc.com/news/articles/c24v4dl5r16o?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "News"
-      ],
-      "_source": {
-        "feed_title": "BBC Technology",
-        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
       }
     }
   ]

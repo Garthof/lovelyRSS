@@ -6,6 +6,336 @@
   "feed_url": "./latest_posts.json",
   "items": [
     {
+      "id": "https://venki.dev/notes/engineering-buy-in",
+      "title": "Engineering Buy-In",
+      "content_text": "Article URL: https://venki.dev/notes/engineering-buy-in Comments URL: https://news.ycombinator.com/item?id=44747886 Points: 4 # Comments: 0",
+      "url": "https://venki.dev/notes/engineering-buy-in",
+      "date_published": "Thu, 31 Jul 2025 17:24:34 +0000",
+      "external_url": "https://venki.dev/notes/engineering-buy-in",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://words.filippo.io/assembly-mutation/",
+      "title": "Go Assembly Mutation Testing",
+      "content_text": "Article URL: https://words.filippo.io/assembly-mutation/ Comments URL: https://news.ycombinator.com/item?id=44747870 Points: 10 # Comments: 1",
+      "url": "https://words.filippo.io/assembly-mutation/",
+      "date_published": "Thu, 31 Jul 2025 17:23:17 +0000",
+      "external_url": "https://words.filippo.io/assembly-mutation/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://mjg59.dreamwidth.org/72892.html",
+      "title": "Secure boot certificate rollover is real but probably won't hurt you",
+      "content_text": "Article URL: https://mjg59.dreamwidth.org/72892.html Comments URL: https://news.ycombinator.com/item?id=44747843 Points: 16 # Comments: 2",
+      "url": "https://mjg59.dreamwidth.org/72892.html",
+      "date_published": "Thu, 31 Jul 2025 17:21:07 +0000",
+      "external_url": "https://mjg59.dreamwidth.org/72892.html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html",
+      "title": "Introduction to XEphem (Motif)",
+      "content_text": "Article URL: http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html Comments URL: https://news.ycombinator.com/item?id=44747809 Points: 7 # Comments: 0",
+      "url": "http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html",
+      "date_published": "Thu, 31 Jul 2025 17:17:25 +0000",
+      "external_url": "http://spiff.rit.edu/classes/phys445/lectures/planetarium/xephem_howto.html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/",
+      "title": "Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for success",
+      "content_text": "Learn how to configure Copilot coding agent’s environment, optimize project structure, use custom instructions, and extend its capabilities with MCP servers. The post Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for success appeared first on The GitHub Blog.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/",
+      "date_published": "Thu, 31 Jul 2025 17:12:43 +0000",
+      "external_url": "https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "GitHub Blog",
+        "feed_url": "https://github.blog/feed/"
+      }
+    },
+    {
+      "id": "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets",
+      "title": "How to Scan Force Pushed Commits for Secrets",
+      "content_text": "Article URL: https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets Comments URL: https://news.ycombinator.com/item?id=44747728 Points: 5 # Comments: 0",
+      "url": "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets",
+      "date_published": "Thu, 31 Jul 2025 17:10:21 +0000",
+      "external_url": "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://multiterm.stelclementine.com",
+      "title": "Show HN: Astro dev blog template with 60 interactive colorschemes",
+      "content_text": "I've created and open-sourced an Astro developer blog template with an interactive theme changer that includes all 60 themes bundled with the JS code highlighter Shiki. Changing the theme affects the whole website including the code examples and Giscus comments. Inspired by the aesthetics of raw markdown, I wanted to create a beautiful blog like https://github.com/panr/hugo-theme-terminal but supercharged with a modern redesign and the incredible features of Astro.Features: - Simple configuration file - Multiple theme modes (single, light/dark/auto, select) - Giscus comments - RSS feed - SEO best practices + social card generation - Markdown extensions (TOC, admonitions, reading time, etc) Comments URL: https://news.ycombinator.com/item?id=44747699 Points: 8 # Comments: 2",
+      "url": "https://multiterm.stelclementine.com",
+      "date_published": "Thu, 31 Jul 2025 17:08:10 +0000",
+      "external_url": "https://multiterm.stelclementine.com",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.kaizenautomation.com/jobs",
+      "title": "Kaizen (YC X25) is hiring engineers to build browser agents that work",
+      "content_text": "Article URL: https://www.kaizenautomation.com/jobs Comments URL: https://news.ycombinator.com/item?id=44747625 Points: 0 # Comments: 0",
+      "url": "https://www.kaizenautomation.com/jobs",
+      "date_published": "Thu, 31 Jul 2025 17:00:56 +0000",
+      "external_url": "https://www.kaizenautomation.com/jobs",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/",
+      "title": "Gemini Embedding: Powering RAG and context engineering",
+      "content_text": "Article URL: https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/ Comments URL: https://news.ycombinator.com/item?id=44747457 Points: 36 # Comments: 15",
+      "url": "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/",
+      "date_published": "Thu, 31 Jul 2025 16:47:54 +0000",
+      "external_url": "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html",
+      "title": "The Chrome Speculation Rules API allows the browser to preload and prerender",
+      "content_text": "Article URL: https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html Comments URL: https://news.ycombinator.com/item?id=44747241 Points: 72 # Comments: 45",
+      "url": "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html",
+      "date_published": "Thu, 31 Jul 2025 16:27:10 +0000",
+      "external_url": "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44747204",
+      "title": "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
+      "content_text": "Hey HN, I'm JJ, Co-Founder of Gecko Security (https://www.gecko.security). We're building a new kind of static analysis tool that uses LLMs to find complex business logic and multi-step vulnerabilities that current scanners miss. We’ve used it to find 30+ CVEs in projects like Ollama, Gradio, and Ragflow (https://www.gecko.security/research). You can try it yourself on any OSS repo at (https://app.gecko.security).Anyone who’s used SAST (Static Application Security Testing) tools knows the issues of high false positives while missing entire classes of vulnerabilities like AuthN/Z bypasses or privilege escalations. This limitation is a result of their core architecture. By design, SAST tools parse code into a simplistic model like an AST or call graph, which quickly loses context in dynamically typed languages or across microservice boundaries, and limits coverage to only resolving basic call chains. When detecting vulnerabilities they rely on pattern matching with Regex or YAML rules, which can be effective for basic technical classes like (XSS, SQLi) but inadequate for logic flaws that don’t conform to well-known shapes and need long sequences of dependent operations to reach an exploitable state.My co-founder and I saw these limitations throughout our careers in national intelligence and military cyber forces, where we built automated tooling to defend critical infrastructure. We realised that LLMs, with the right architecture, could finally solve them.Vulnerabilities are contextual. What's exploitable depends entirely on each application's security model. We realized accurate detection requires understanding what's supposed to be protected and why breaking it matters. This meant embedding threat modeling directly into our analysis, not treating it as an afterthought.To achieve this, we first had to solve the code parsing problem. Our solution was to build a custom, compiler-accurate indexer inspired by GitHub's stack graphs approach to precisely navigate code, like an IDE. We build on the LSIF approach (https://lsif.dev/) but replace the verbose JSON with a compact protobuf schema to serialise symbol definitions and references in a binary format. We use language‑specific tools to parse and type‑check code, emitting a sequence of Protobuf messages that record a symbol’s position, definition, and reference information. By using Protobuf’s efficiency and strong typing, we can produce smaller indexes, but also preserve the compiler‑accurate semantic information required for detecting complex call chains.This is why most \"SAST + LLM\" tools that use AST parsing fail - they feed LLMs incomplete or incorrect code information from traditional parsers, making it difficult to accurately reason about security issues with missing context.With our indexer providing accurate code structure, we use an LLM to perform threat modeling by analyzing developer intent, data and trust boundaries, and exposed endpoints to generate potential attack scenarios. This is where LLMs' tendency to hallucinate becomes a breakthrough feature.For each potential attack path generated, we perform a systematic search, querying the indexer to gather all necessary context and reconstruct the full call chain from source to sink. To validate the vulnerability we use a Monte Carlo Tree Self-refine (MCTSr) algorithm and a 'win function' to determine the likelihood that a hypothesized attack could work. Once a finding is above a set practicality threshold it is confirmed as a true positive.Using this approach, we discovered vulnerabilities like CVE-2025-51479 in ONYX (an OSS enterprise search platform) where Curators could modify any group instead of just their assigned ones. The user-group API had a user parameter that should check permissions but never used it. Gecko inferred developers intended to restrict Curator access because both the UI and similar API functions properly validated this permission. This established \"curators have limited scope\" as a security invariant that this specific API violated. Traditional SAST can't detect this. Any rule to flag unused user parameters would drown you in false positives since many functions legitimately keep unused parameters. And more importantly, detecting this requires knowing which functions handle authorization, understanding ONYX's Curator permission model, and recognizing the validation pattern across multiple files - contextual reasoning that SAST simply cannot do.We have several enterprise customers using Gecko because it solves problems they couldn't address with traditional SAST tools. They're seeing 50% fewer false positives on the same codebases and finding vulnerabilities that previously only showed up in manual pentests.Digging into false positives, no static analysis tool will ever achieve perfect accuracy, AI or otherwise. We reduce them at two key points. First, our indexer eliminates any programmatic parsing errors that create incorrect call chains that traditional AST tools are susceptible to. Second, we avoid unwanted LLM hallucinations and reasoning errors by asking specific, contextual questions rather than open-ended ones. The LLM knows which security invariants need to hold and can make deterministic assessments based on the context. When we do flag something, manual review is quick because we provide complete source-to-sink dataflow analysis with proof-of-concept code and output findings based on confidence scores.We’d love to get any feedback from the community, ideas for future direction, or experiences in this space. I’ll be in the comments to respond! Comments URL: https://news.ycombinator.com/item?id=44747204 Points: 17 # Comments: 15",
+      "url": "https://news.ycombinator.com/item?id=44747204",
+      "date_published": "Thu, 31 Jul 2025 16:23:09 +0000",
+      "external_url": "https://news.ycombinator.com/item?id=44747204",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/",
+      "title": "Do AI coding tools help with imposter syndrome or make it worse?",
+      "content_text": "Spoiler: Yes.",
+      "url": "https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/",
+      "date_published": "Thu, 31 Jul 2025 16:00:00 GMT",
+      "external_url": "https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Stack Overflow Blog",
+        "feed_url": "https://stackoverflow.blog/feed/"
+      }
+    },
+    {
+      "id": "https://lwn.net/Articles/1029851/",
+      "title": "QUIC for the kernel",
+      "content_text": "Article URL: https://lwn.net/Articles/1029851/ Comments URL: https://news.ycombinator.com/item?id=44746948 Points: 81 # Comments: 39",
+      "url": "https://lwn.net/Articles/1029851/",
+      "date_published": "Thu, 31 Jul 2025 15:57:32 +0000",
+      "external_url": "https://lwn.net/Articles/1029851/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://worrydream.com/dbx/",
+      "title": "The Future of Programming (2013)",
+      "content_text": "Article URL: https://worrydream.com/dbx/ Comments URL: https://news.ycombinator.com/item?id=44746821 Points: 23 # Comments: 2",
+      "url": "https://worrydream.com/dbx/",
+      "date_published": "Thu, 31 Jul 2025 15:43:38 +0000",
+      "external_url": "https://worrydream.com/dbx/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://lazyadmin.nl/home-network/unifi-os-server/",
+      "title": "Ubiquiti launches UniFi OS Server for self-hosting",
+      "content_text": "Article URL: https://lazyadmin.nl/home-network/unifi-os-server/ Comments URL: https://news.ycombinator.com/item?id=44746603 Points: 83 # Comments: 54",
+      "url": "https://lazyadmin.nl/home-network/unifi-os-server/",
+      "date_published": "Thu, 31 Jul 2025 15:24:05 +0000",
+      "external_url": "https://lazyadmin.nl/home-network/unifi-os-server/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/shorts/3D9uIn2oBLI",
+      "title": "Which One Are You?",
+      "content_text": "One pulls everything in and never lets go. The other refuses to let anything in at all. They’re cosmic opposites: mysterious, extreme, and maybe even connected in strange ways we still don’t understand. But which one are you more like? #kurzgesagt #inanutshell #kurzgesagt_inanutshell #learnwithshorts #science Sources & further reading: https://sites.google.com/view/kgs-tiktok-sources Follow us for more sciencey content! 🦆 OUR CHANNELS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ German: https://kgs.link/youtubeDE Spanish: https://kgs.link/youtubeES French: https://kgs.link/youtubeFR Portuguese: https://kgs.link/youtubePT Arabic: https://kgs.link/youtubeAR Hindi: https://kgs.link/youtubeHI Japanese: https://kgs.link/youtubeJA Korean: https://kgs.link/youtubeKO HOW CAN YOU SUPPORT US? ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ This is how we make our living and it would be a pleasure if you support us! Get Products designed with ❤ https://shop.kgs.link/shorts Become a Part of kurzgesagt by joining the Patreon Bird Army 🐧 https://kgs.link/patreon DISCUSSIONS & SOCIAL MEDIA ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ Instagram: https://kgs.link/instagram TikTok: https://kgs.link/tiktok Reddit: https://kgs.link/reddit Discord: https://kgs.link/discord Twitter: https://kgs.link/twitter Bluesky: https://kgs.link/bluesky Facebook: https://kgs.link/facebook Newsletter: https://kgs.link/newsletter OUR VOICE ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ The Kurzgesagt voice is from Steve Taylor: https://kgs.link/youtube-voice OUR MUSIC ♬♪ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 700+ minutes of Kurzgesagt Soundtracks by Epic Mountain: Spotify: https://kgs.link/music-spotify Soundcloud: https://kgs.link/music-soundcloud Bandcamp: https://kgs.link/music-bandcamp Youtube: https://kgs.link/music-youtube Facebook: https://kgs.link/music-facebook",
+      "url": "https://www.youtube.com/shorts/3D9uIn2oBLI",
+      "date_published": "2025-07-31T15:05:22+00:00",
+      "external_url": "https://www.youtube.com/shorts/3D9uIn2oBLI",
+      "tags": [
+        "YouTube"
+      ],
+      "_source": {
+        "feed_title": "Kurzgesagt – In a Nutshell",
+        "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q"
+      }
+    },
+    {
+      "id": "https://streamnative.io/products/ursa",
+      "title": "Ursa: A Leaderless, Object Storage–Based Alternative to Kafka",
+      "content_text": "Article URL: https://streamnative.io/products/ursa Comments URL: https://news.ycombinator.com/item?id=44746415 Points: 60 # Comments: 17",
+      "url": "https://streamnative.io/products/ursa",
+      "date_published": "Thu, 31 Jul 2025 15:01:08 +0000",
+      "external_url": "https://streamnative.io/products/ursa",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://arxiv.org/abs/2507.22358",
+      "title": "Magentic-UI: Towards Human-in-the-Loop Agentic Systems",
+      "content_text": "Article URL: https://arxiv.org/abs/2507.22358 Comments URL: https://news.ycombinator.com/item?id=44746321 Points: 24 # Comments: 5",
+      "url": "https://arxiv.org/abs/2507.22358",
+      "date_published": "Thu, 31 Jul 2025 14:54:27 +0000",
+      "external_url": "https://arxiv.org/abs/2507.22358",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://docs.carbon-lang.dev/",
+      "title": "Carbon Language: An experimental successor to C++",
+      "content_text": "Article URL: https://docs.carbon-lang.dev/ Comments URL: https://news.ycombinator.com/item?id=44745984 Points: 47 # Comments: 26",
+      "url": "https://docs.carbon-lang.dev/",
+      "date_published": "Thu, 31 Jul 2025 14:23:40 +0000",
+      "external_url": "https://docs.carbon-lang.dev/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
+      "title": "MacBook Pro Insomnia",
+      "content_text": "Article URL: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia Comments URL: https://news.ycombinator.com/item?id=44745897 Points: 173 # Comments: 89",
+      "url": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
+      "date_published": "Thu, 31 Jul 2025 14:16:07 +0000",
+      "external_url": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns",
+      "title": "NSW Fair Trading – Dark Patterns",
+      "content_text": "Article URL: https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns Comments URL: https://news.ycombinator.com/item?id=44745347 Points: 47 # Comments: 12",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns",
+      "date_published": "Thu, 31 Jul 2025 13:17:35 +0000",
+      "external_url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=HzEJe2navAI",
+      "title": "Anxiety gives you an advantage. Unlock it with neuroplasticity | Wendy Suzuki",
+      "content_text": "“Anxiety is focused on things that are important to you in life. That is the key.” Subscribe to Big Think on YouTube ► https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg?sub_confirmation=1 Up next, The memory-enhancing effects of movement, backed by science ► https://www.youtube.com/watch?v=8f0U0Nr6s6Q What if one of our most uncomfortable emotions could actually be seen as a gift, bringing us a wealth of insight, productivity, and empathy? Neuroscientist Dr. Wendy Suzuki argues that by reframing anxiety as a misunderstood superpower, we can take advantage of it as fuel to enter flow state. Suzuki shares her science-backed trick for those saddled with the emotion, transforming it from a daily burden to a powerful tool. 00:00 The protective nature of anxiety 00:37 How to turn anxiety into a superpower 03:40 Anxiety in the brain 05:47 Using brain plasticity 10:33 Top 3 superpowers of anxiety 12:33 Using anxiety for flow Read the video transcript ► https://bigthink.com/series/the-big-think-interview/anxiety-superpower/?utm_source=youtube&utm_medium=video&utm_campaign=youtube_description ---------------------------------------------------------------------------------- Go Deeper with Big Think: ►Become a Big Think Member Get exclusive content, early, ad-free access to new releases, and more. https://www.youtube.com/@bigthink/membership/ ►Get Big Think+ for Business Engage learners like never before with high-impact video microlearning from the biggest thinkers in the world. https://bigthink.com/plus/?utm_source=youtube&utm_medium=video&utm_campaign=youtube_description ---------------------------------------------------------------------------------- About Wendy Suzuki: Dr. Wendy A. Suzuki is a Professor of Neural Science and Psychology in the Center for Neural Science at New York University. She received her undergraduate degree in Physiology and Human Anatomy at the University of California, Berkeley in 1987, studying with Prof. Marion C. Diamond, a leader in the field of brain plasticity. She went on to earn her Ph.D. in Neuroscience from U.C. San Diego in 1993 and completed a post-doctoral fellowship at the National Institutes of Health before accepting her faculty position at New York University in 1998. Dr. Suzuki is author of the book Healthy Brain, Happy Life: A Personal Program to Activate Your Brain and Do Everything Better.",
+      "url": "https://www.youtube.com/watch?v=HzEJe2navAI",
+      "date_published": "2025-07-31T13:00:37+00:00",
+      "external_url": "https://www.youtube.com/watch?v=HzEJe2navAI",
+      "tags": [
+        "YouTube"
+      ],
+      "_source": {
+        "feed_title": "Big Think",
+        "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg"
+      }
+    },
+    {
       "id": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
       "title": "Ofcom investigates 34 porn sites over age checks",
       "content_text": "Ofcom said on Friday that more than 6,000 porn sites would begin verifying users, but it believes some are ignoring the new rules.",
@@ -36,12 +366,12 @@
       }
     },
     {
-      "id": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
-      "title": "Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive",
-      "content_text": "Article URL: https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager Comments URL: https://news.ycombinator.com/item?id=44744756 Points: 0 # Comments: 0",
-      "url": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
-      "date_published": "Thu, 31 Jul 2025 12:00:26 +0000",
-      "external_url": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
+      "id": "https://digitalcourage.social/@echo_pbreyer/114946559233051667",
+      "title": "Many countries that said no to ChatControl in 2024 are now undecided",
+      "content_text": "Article URL: https://digitalcourage.social/@echo_pbreyer/114946559233051667 Comments URL: https://news.ycombinator.com/item?id=44744715 Points: 247 # Comments: 154",
+      "url": "https://digitalcourage.social/@echo_pbreyer/114946559233051667",
+      "date_published": "Thu, 31 Jul 2025 11:54:22 +0000",
+      "external_url": "https://digitalcourage.social/@echo_pbreyer/114946559233051667",
       "tags": [
         "Technology"
       ],
@@ -52,86 +382,11 @@
     },
     {
       "id": "https://cmtext.com/",
-      "title": "Introduction to Computer Music an Electronic Textbook",
-      "content_text": "Article URL: https://cmtext.com/ Comments URL: https://news.ycombinator.com/item?id=44744578 Points: 36 # Comments: 1",
+      "title": "Introduction to Computer Music",
+      "content_text": "Article URL: https://cmtext.com/ Comments URL: https://news.ycombinator.com/item?id=44744578 Points: 194 # Comments: 43",
       "url": "https://cmtext.com/",
       "date_published": "Thu, 31 Jul 2025 11:37:22 +0000",
       "external_url": "https://cmtext.com/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
-      "title": "How was the Universal Pictures 1936 opening logo created?",
-      "content_text": "Article URL: https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created Comments URL: https://news.ycombinator.com/item?id=44744454 Points: 30 # Comments: 3",
-      "url": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
-      "date_published": "Thu, 31 Jul 2025 11:19:54 +0000",
-      "external_url": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution",
-      "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
-      "content_text": "Article URL: https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution Comments URL: https://news.ycombinator.com/item?id=44744331 Points: 28 # Comments: 2",
-      "url": "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution",
-      "date_published": "Thu, 31 Jul 2025 10:57:58 +0000",
-      "external_url": "https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
-      "title": "I tried Servo, the undercover web browser engine made with Rust",
-      "content_text": "Article URL: https://www.spacebar.news/servo-undercover-web-browser-engine/ Comments URL: https://news.ycombinator.com/item?id=44744324 Points: 40 # Comments: 23",
-      "url": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
-      "date_published": "Thu, 31 Jul 2025 10:56:21 +0000",
-      "external_url": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/",
-      "title": "GOP’s Josh Hawley and Democrats vote to advance congressional stock trading ban",
-      "content_text": "Article URL: https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/ Comments URL: https://news.ycombinator.com/item?id=44744096 Points: 86 # Comments: 69",
-      "url": "https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/",
-      "date_published": "Thu, 31 Jul 2025 10:07:19 +0000",
-      "external_url": "https://www.cbsnews.com/news/hawley-democrats-vote-stock-trading-ban-committee/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html",
-      "title": "How to trigger a command on Linux when disconnected from power",
-      "content_text": "Article URL: https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html Comments URL: https://news.ycombinator.com/item?id=44744079 Points: 3 # Comments: 0",
-      "url": "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html",
-      "date_published": "Thu, 31 Jul 2025 10:03:54 +0000",
-      "external_url": "https://dataswamp.org/~solene/2025-05-31-linux-killswitch-on-power-disconnect.html",
       "tags": [
         "Technology"
       ],
@@ -153,81 +408,6 @@
       "_source": {
         "feed_title": "Stack Overflow Blog",
         "feed_url": "https://stackoverflow.blog/feed/"
-      }
-    },
-    {
-      "id": "https://github.com/dipampaul17/AgentGuard",
-      "title": "Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget",
-      "content_text": "Your AI agent hits an infinite loop and racks up $2000 in API charges overnight. This happens weekly to AI developers.AgentGuard monitors API calls in real-time and automatically kills your process when it hits your budget limit.How it works:Add 2 lines to any AI project: const agentGuard = require('agent-guard'); await agentGuard.init({ limit: 50 }); // $50 budget // Your existing code runs unchanged const response = await openai.chat.completions.create({...}); // AgentGuard tracks costs automatically When your code hits $50 in API costs, AgentGuard stops execution and shows you exactly what happened.Why I built this:I got tired of seeing \"I accidentally spent $500 on OpenAI\" posts. Existing tools like tokencost help you measure costs after the fact, but nothing prevents runaway spending in real-time.AgentGuard is essentially a circuit breaker for AI API costs. It's saved me from several costly bugs during development.Limitations: Only works with OpenAI and Anthropic APIs currently. Cost calculations are estimates based on documented pricing.Source: https://github.com/dipampaul17/AgentGuardInstall: npm i agent-guard Comments URL: https://news.ycombinator.com/item?id=44742710 Points: 29 # Comments: 18",
-      "url": "https://github.com/dipampaul17/AgentGuard",
-      "date_published": "Thu, 31 Jul 2025 05:54:04 +0000",
-      "external_url": "https://github.com/dipampaul17/AgentGuard",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
-      "title": "Tracking source locations in the Futhark compiler",
-      "content_text": "Article URL: https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html Comments URL: https://news.ycombinator.com/item?id=44742359 Points: 37 # Comments: 0",
-      "url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
-      "date_published": "Thu, 31 Jul 2025 04:40:31 +0000",
-      "external_url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
-      "title": "I know when you're vibe coding",
-      "content_text": "Article URL: https://alexkondov.com/i-know-when-youre-vibe-coding/ Comments URL: https://news.ycombinator.com/item?id=44742251 Points: 242 # Comments: 119",
-      "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
-      "date_published": "Thu, 31 Jul 2025 04:16:40 +0000",
-      "external_url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
-      "title": "Friction and Not Being Touched",
-      "content_text": "Article URL: https://tante.cc/2025/07/30/friction-and-not-being-touched/ Comments URL: https://news.ycombinator.com/item?id=44742021 Points: 46 # Comments: 9",
-      "url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
-      "date_published": "Thu, 31 Jul 2025 03:18:31 +0000",
-      "external_url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://undeadly.org/cgi?action=article;sid=20250730080301",
-      "title": "Classic Common Desktop Environment coming to OpenBSD",
-      "content_text": "Article URL: https://undeadly.org/cgi?action=article;sid=20250730080301 Comments URL: https://news.ycombinator.com/item?id=44741539 Points: 113 # Comments: 47",
-      "url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
-      "date_published": "Thu, 31 Jul 2025 01:42:58 +0000",
-      "external_url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
       }
     },
     {
@@ -273,126 +453,6 @@
       "_source": {
         "feed_title": "BBC Technology",
         "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://www.figma.com/blog/ipo-pricing/",
-      "title": "Figma will IPO on July 31",
-      "content_text": "Article URL: https://www.figma.com/blog/ipo-pricing/ Comments URL: https://news.ycombinator.com/item?id=44740222 Points: 276 # Comments: 168",
-      "url": "https://www.figma.com/blog/ipo-pricing/",
-      "date_published": "Wed, 30 Jul 2025 22:24:58 +0000",
-      "external_url": "https://www.figma.com/blog/ipo-pricing/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://ollama.com/blog/new-app",
-      "title": "Ollama's new app",
-      "content_text": "Article URL: https://ollama.com/blog/new-app Comments URL: https://news.ycombinator.com/item?id=44739632 Points: 431 # Comments: 233",
-      "url": "https://ollama.com/blog/new-app",
-      "date_published": "Wed, 30 Jul 2025 21:19:03 +0000",
-      "external_url": "https://ollama.com/blog/new-app",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
-      "title": "Early universe's 'little red dots' may be black hole stars",
-      "content_text": "Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 99 # Comments: 50",
-      "url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
-      "date_published": "Wed, 30 Jul 2025 21:18:21 +0000",
-      "external_url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://blog.val.town/vibe-code",
-      "title": "Vibe code is legacy code",
-      "content_text": "Article URL: https://blog.val.town/vibe-code Comments URL: https://news.ycombinator.com/item?id=44739556 Points: 632 # Comments: 367",
-      "url": "https://blog.val.town/vibe-code",
-      "date_published": "Wed, 30 Jul 2025 21:13:20 +0000",
-      "external_url": "https://blog.val.town/vibe-code",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
-      "title": "150 years of Hans Christian Andersen",
-      "content_text": "https://archive.ph/10l96 Comments URL: https://news.ycombinator.com/item?id=44739494 Points: 88 # Comments: 19",
-      "url": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
-      "date_published": "Wed, 30 Jul 2025 21:07:13 +0000",
-      "external_url": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://overreacted.io/the-math-is-haunted/",
-      "title": "The Math Is Haunted",
-      "content_text": "Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 277 # Comments: 117",
-      "url": "https://overreacted.io/the-math-is-haunted/",
-      "date_published": "Wed, 30 Jul 2025 20:46:49 +0000",
-      "external_url": "https://overreacted.io/the-math-is-haunted/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.catherinejue.com/fast",
-      "title": "Fast",
-      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 1374 # Comments: 379",
-      "url": "https://www.catherinejue.com/fast",
-      "date_published": "Wed, 30 Jul 2025 17:21:17 +0000",
-      "external_url": "https://www.catherinejue.com/fast",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
-      "title": "Australia widens teen social media ban to YouTube, scraps exemption",
-      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 319 # Comments: 473",
-      "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
-      "date_published": "Wed, 30 Jul 2025 16:59:09 +0000",
-      "external_url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
       }
     },
     {
@@ -693,66 +753,6 @@
       "_source": {
         "feed_title": "BBC Technology",
         "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c7vl57n74pqo?at_medium=RSS&at_campaign=rss",
-      "title": "Hackers steal images from women's dating safety app that vets men",
-      "content_text": "Thousands of women registered with Tea have had their images illegally accessed, the US firm says.",
-      "url": "https://www.bbc.com/news/articles/c7vl57n74pqo?at_medium=RSS&at_campaign=rss",
-      "date_published": "Sat, 26 Jul 2025 13:58:47 GMT",
-      "external_url": "https://www.bbc.com/news/articles/c7vl57n74pqo?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "News"
-      ],
-      "_source": {
-        "feed_title": "BBC Technology",
-        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/iplayer/episode/m002gm6k?at_medium=RSS&at_campaign=rss",
-      "title": "Tech Now",
-      "content_text": "Yasmin Morgan-Griffiths has exclusive access to La Sagrada Familia in Barcelona.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002gm6k?at_medium=RSS&at_campaign=rss",
-      "date_published": "Sat, 26 Jul 2025 01:00:00 GMT",
-      "external_url": "https://www.bbc.co.uk/iplayer/episode/m002gm6k?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "News"
-      ],
-      "_source": {
-        "feed_title": "BBC Technology",
-        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/",
-      "title": "How to build secure and scalable remote MCP servers",
-      "content_text": "More context can mean more attack surfaces for your projects. Be prepared for what lies ahead with this guide. The post How to build secure and scalable remote MCP servers appeared first on The GitHub Blog.",
-      "url": "https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/",
-      "date_published": "Fri, 25 Jul 2025 17:12:02 +0000",
-      "external_url": "https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "GitHub Blog",
-        "feed_url": "https://github.blog/feed/"
-      }
-    },
-    {
-      "id": "https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7",
-      "title": "Building competency is better than therapy",
-      "content_text": "The world is waking to the fact that talk therapy is neither the only nor the best way to cure a garden-variety petite depression. Something many people will encounter at some point in their lives. Studies have shown that exercise, for example, is a more effective treatment than talk therapy (and pharmaceuticals!) when dealing with such episodes. But I'm just as interested in the role building competence can have in warding off the demons.And partly because of this meme: I've talked about it before, but I keep coming back to the fact that it's exactly backwards. That signing up for an educational quest into Linux, history, or motorcycle repair actually is an incredibly effective alternative to therapy! At least for men who'd prefer to feel useful over being listened to, which, in my experience, is most of them.This is why I find it so misguided when people who undertake those quests sell their journey short with self-effacing jibes about how much an unattractive nerd it makes them to care about their hobby. Mihaly Csikszentmihalyi detailed back in 1990 how peak human happiness arrives exactly in these moments of flow when your competence is stretched by a difficult-but-doable challenge. Don't tell me those endorphins don't also help counter the darkness.But it's just as much about the fact that these pursuits of competence usually offer a great opportunity for community as well that seals the deal. I've found time and again that people are starved for the kind of topic-based connections that, say, learning about Linux offers in spades. You're not just learning, you're learning with others.That is a time-tested antidote to depression: Forming and cultivating meaningful human connections. Yes, doing so over the internet isn't as powerful as doing it in person, but it's still powerful. It still offers community, involvement, and plenty of invitation to carry a meaningful burden.Open source nails this trifecta of motivations to a T. There are endless paths of discovery and mastery available. There are tons of fellow travelers with whom to connect and collaborate. And you'll find an unlimited number of meaningful burdens in maintainerships open for the taking.So next time you see that meme, you should cheer that the talk therapy table is empty. Leave it available for the severe, pathological cases that exercise and the pursuit of competence can't cure. Most people just don't need therapy, they need purpose, they need competence, they need exercise, and they need community.",
-      "url": "https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7",
-      "date_published": "2025-07-25T15:16:53Z",
-      "external_url": "https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7",
-      "tags": [
-        "Blogs"
-      ],
-      "_source": {
-        "feed_title": "David Heinemeier Hansson",
-        "feed_url": "https://world.hey.com/dhh/feed.atom"
       }
     }
   ]

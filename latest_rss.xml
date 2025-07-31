@@ -4,21 +4,101 @@
     <title>lovelyRSS - Latest Posts</title>
     <description>Latest posts from all subscribed feeds</description>
     <link>https://github.com</link>
-    <lastBuildDate>2025-07-30 21:47:05 UTC</lastBuildDate>
+    <lastBuildDate>2025-07-31 01:50:50 UTC</lastBuildDate>
     <generator>lovelyRSS/1.0</generator>
     <ns0:link href="./latest_rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Early universe's 'little red dots' may be black hole stars – Science – AAAS</title>
+      <title>Meta profits surge helps fuel Zuckerberg’s AI ambitions</title>
+      <link>https://www.bbc.com/news/articles/cqlernrw62yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Facebook, Instagram and WhatsApp-owner is pumping billions of dollars into artificial intelligence projects.</description>
+      <pubDate>Thu, 31 Jul 2025 01:03:35 GMT</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cqlernrw62yo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>Paradise Lost</title>
+      <link>https://alexandermigdal.com/paradise-lost/</link>
+      <description>Article URL: https://alexandermigdal.com/paradise-lost/ Comments URL: https://news.ycombinator.com/item?id=44741314 Points: 5 # Comments: 1</description>
+      <pubDate>Thu, 31 Jul 2025 01:02:13 +0000</pubDate>
+      <guid isPermaLink="true">https://alexandermigdal.com/paradise-lost/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India</title>
+      <link>https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai</link>
+      <description>Article URL: https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai Comments URL: https://news.ycombinator.com/item?id=44741305 Points: 0 # Comments: 0</description>
+      <pubDate>Thu, 31 Jul 2025 01:01:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>GiveWP plugin for WordPress revealed email addresses of donors in page source</title>
+      <link>https://corbettreport.com/data-leak-at-corbett-report/</link>
+      <description>Article URL: https://corbettreport.com/data-leak-at-corbett-report/ Comments URL: https://news.ycombinator.com/item?id=44741043 Points: 6 # Comments: 1</description>
+      <pubDate>Thu, 31 Jul 2025 00:17:25 +0000</pubDate>
+      <guid isPermaLink="true">https://corbettreport.com/data-leak-at-corbett-report/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>What screen time does to children's brains is more complicated than it seems</title>
+      <link>https://www.bbc.com/news/articles/c9d0l40v551o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Screen time has become synonymous with bad news - but the science may not be as straightforward as it seems</description>
+      <pubDate>Wed, 30 Jul 2025 23:44:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c9d0l40v551o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>The Gulf bets big on AI as it seeks the 'new oil'</title>
+      <link>https://www.bbc.com/news/articles/cvg8z2mx508o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The UAE and Saudi Arabia are partnering with the US to position themselves as AI hubs.</description>
+      <pubDate>Wed, 30 Jul 2025 23:14:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cvg8z2mx508o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
+    </item>
+    <item>
+      <title>Figma will IPO on July 31</title>
+      <link>https://www.figma.com/blog/ipo-pricing/</link>
+      <description>Article URL: https://www.figma.com/blog/ipo-pricing/ Comments URL: https://news.ycombinator.com/item?id=44740222 Points: 38 # Comments: 23</description>
+      <pubDate>Wed, 30 Jul 2025 22:24:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.figma.com/blog/ipo-pricing/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Pentagon Pizza Index</title>
+      <link>https://www.pizzint.watch/</link>
+      <description>Article URL: https://www.pizzint.watch/ Comments URL: https://news.ycombinator.com/item?id=44740185 Points: 17 # Comments: 1</description>
+      <pubDate>Wed, 30 Jul 2025 22:21:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.pizzint.watch/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Ollama's new app</title>
+      <link>https://ollama.com/blog/new-app</link>
+      <description>Article URL: https://ollama.com/blog/new-app Comments URL: https://news.ycombinator.com/item?id=44739632 Points: 163 # Comments: 78</description>
+      <pubDate>Wed, 30 Jul 2025 21:19:03 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/new-app</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Early universe's 'little red dots' may be black hole stars</title>
       <link>https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars</link>
-      <description>Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 3 # Comments: 0</description>
+      <description>Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 42 # Comments: 17</description>
       <pubDate>Wed, 30 Jul 2025 21:18:21 +0000</pubDate>
       <guid isPermaLink="true">https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>The Math Is Haunted</title>
+      <title>Vibe code is legacy code</title>
+      <link>https://blog.val.town/vibe-code</link>
+      <description>Article URL: https://blog.val.town/vibe-code Comments URL: https://news.ycombinator.com/item?id=44739556 Points: 303 # Comments: 203</description>
+      <pubDate>Wed, 30 Jul 2025 21:13:20 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.val.town/vibe-code</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>The math is haunted</title>
       <link>https://overreacted.io/the-math-is-haunted/</link>
-      <description>Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 23 # Comments: 2</description>
+      <description>Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 113 # Comments: 35</description>
       <pubDate>Wed, 30 Jul 2025 20:46:49 +0000</pubDate>
       <guid isPermaLink="true">https://overreacted.io/the-math-is-haunted/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -26,23 +106,23 @@
     <item>
       <title>The Preserving Machine by Philip K. Dick (1953)</title>
       <link>https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06</link>
-      <description>Article URL: https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06 Comments URL: https://news.ycombinator.com/item?id=44738161 Points: 23 # Comments: 5</description>
+      <description>Article URL: https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06 Comments URL: https://news.ycombinator.com/item?id=44738161 Points: 41 # Comments: 10</description>
       <pubDate>Wed, 30 Jul 2025 18:55:43 +0000</pubDate>
       <guid isPermaLink="true">https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>Polarizing Parsers</title>
-      <link>https://flak.tedunangst.com/post/polarizing-parsers</link>
-      <description>Article URL: https://flak.tedunangst.com/post/polarizing-parsers Comments URL: https://news.ycombinator.com/item?id=44737823 Points: 21 # Comments: 3</description>
-      <pubDate>Wed, 30 Jul 2025 18:27:01 +0000</pubDate>
-      <guid isPermaLink="true">https://flak.tedunangst.com/post/polarizing-parsers</guid>
+      <title>Emacs: The macOS Bug</title>
+      <link>https://xlii.space/eng/emacs-the-macos-bug/</link>
+      <description>Article URL: https://xlii.space/eng/emacs-the-macos-bug/ Comments URL: https://news.ycombinator.com/item?id=44737676 Points: 82 # Comments: 62</description>
+      <pubDate>Wed, 30 Jul 2025 18:15:35 +0000</pubDate>
+      <guid isPermaLink="true">https://xlii.space/eng/emacs-the-macos-bug/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
       <title>Most Illinois farmland is not owned by farmers</title>
       <link>https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/</link>
-      <description>Article URL: https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/ Comments URL: https://news.ycombinator.com/item?id=44737353 Points: 140 # Comments: 154</description>
+      <description>Article URL: https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/ Comments URL: https://news.ycombinator.com/item?id=44737353 Points: 174 # Comments: 214</description>
       <pubDate>Wed, 30 Jul 2025 17:51:21 +0000</pubDate>
       <guid isPermaLink="true">https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -50,7 +130,7 @@
     <item>
       <title>The hype is the product</title>
       <link>https://rys.io/en/180.html</link>
-      <description>Article URL: https://rys.io/en/180.html Comments URL: https://news.ycombinator.com/item?id=44737346 Points: 105 # Comments: 52</description>
+      <description>Article URL: https://rys.io/en/180.html Comments URL: https://news.ycombinator.com/item?id=44737346 Points: 151 # Comments: 72</description>
       <pubDate>Wed, 30 Jul 2025 17:50:48 +0000</pubDate>
       <guid isPermaLink="true">https://rys.io/en/180.html</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -58,23 +138,15 @@
     <item>
       <title>Fast</title>
       <link>https://www.catherinejue.com/fast</link>
-      <description>Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 489 # Comments: 155</description>
+      <description>Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 795 # Comments: 244</description>
       <pubDate>Wed, 30 Jul 2025 17:21:17 +0000</pubDate>
       <guid isPermaLink="true">https://www.catherinejue.com/fast</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>Artie (YC S23) Is Hiring Founding AEs</title>
-      <link>https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae</link>
-      <description>Article URL: https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae Comments URL: https://news.ycombinator.com/item?id=44736673 Points: 0 # Comments: 0</description>
-      <pubDate>Wed, 30 Jul 2025 17:01:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>Australia widens teen social media ban to YouTube, scraps exemption</title>
       <link>https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/</link>
-      <description>Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 78 # Comments: 135</description>
+      <description>Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 169 # Comments: 266</description>
       <pubDate>Wed, 30 Jul 2025 16:59:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -82,7 +154,7 @@
     <item>
       <title>Crush: Glamourous AI coding agent for your favourite terminal</title>
       <link>https://github.com/charmbracelet/crush</link>
-      <description>Article URL: https://github.com/charmbracelet/crush Comments URL: https://news.ycombinator.com/item?id=44736176 Points: 283 # Comments: 163</description>
+      <description>Article URL: https://github.com/charmbracelet/crush Comments URL: https://news.ycombinator.com/item?id=44736176 Points: 308 # Comments: 190</description>
       <pubDate>Wed, 30 Jul 2025 16:18:14 +0000</pubDate>
       <guid isPermaLink="true">https://github.com/charmbracelet/crush</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -90,7 +162,7 @@
     <item>
       <title>Critical Vulnerability in AI Vibe Coding platform Base44</title>
       <link>https://www.wiz.io/blog/critical-vulnerability-base44</link>
-      <description>Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 66 # Comments: 41</description>
+      <description>Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 93 # Comments: 56</description>
       <pubDate>Wed, 30 Jul 2025 16:12:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.wiz.io/blog/critical-vulnerability-base44</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -98,7 +170,7 @@
     <item>
       <title>Optician Sans – A free font based on historical eye charts and optotypes</title>
       <link>https://optician-sans.com/</link>
-      <description>Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 161 # Comments: 35</description>
+      <description>Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 209 # Comments: 45</description>
       <pubDate>Wed, 30 Jul 2025 16:11:58 +0000</pubDate>
       <guid isPermaLink="true">https://optician-sans.com/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -114,65 +186,17 @@
     <item>
       <title>Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production</title>
       <link>https://news.ycombinator.com/item?id=44735843</link>
-      <description>Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called "rubrics," which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 82 # Comments: 21</description>
+      <description>Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called "rubrics," which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 89 # Comments: 26</description>
       <pubDate>Wed, 30 Jul 2025 15:54:02 +0000</pubDate>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=44735843</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>Words about Arrays and Tables</title>
-      <link>https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/</link>
-      <description>Article URL: https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/ Comments URL: https://news.ycombinator.com/item?id=44735334 Points: 51 # Comments: 21</description>
-      <pubDate>Wed, 30 Jul 2025 15:15:30 +0000</pubDate>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Show HN: A high-altitude low-power flight computer for high-altitude balloons</title>
-      <link>https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK</link>
-      <description>I've been working on this for a while now, and I'm happy to share!I've been into launching weather balloons for a few years. One aspect of the hobby that really drew me in was the tracking side of things. Tracking systems let you follow the balloon's position throughout the flight and, most importantly, know exactly where it lands so you can recover the instrumentation. APRS is what I started out using during my first few years in the hobby, after I got my amateur radio license in 2020 (W0MXX). I designed a few small boards using the trackuino (https://github.com/trackuino/trackuino) firmware (while breaking 3 $70 radio modules along the way).I then got into recovering radiosondes, which are launched twice per day by the NWS and can be reprogrammed using RS41ng (https://github.com/mikaelnousiainen/RS41ng) to run many amateur radio tracking protocols. I was a bit dissatisfied with how large and heavy the radiosonde trackers were, so I designed my own tracking system, called Tiny4FSK.Tiny4FSK is a flight computer with built-in tracking using the Horus Binary v2 tracking system. This protocol was developed by the Project Horus team specifically for high-altitude balloons, and it brings features like high transmit rates, forward error correction, and excellent weak-signal performance in an open source package. It's designed to be as compact as possible and can run on a single AA battery for upwards of 17 hours.The main board comes with header rows that allow for out-of-the-box expansion. I developed a shield that supports the BME280 environmental sensor, the ICM-20948 9-axis IMU, and more via the Qwiic connector. It also features an OLED display for basic diagnostics.While I've pretty much polished the main tracking procedures (and have tested on multiple flights), I'm still developing the IMU code using a lightweight Kalman filter. Additionally, there isn't yet a wide network of Horus Binary decoding stations like the APRS network has (I-gates), but I hope that by promoting this protocol, more stations will pop up. This means that if you're not in an area with many receive stations, you'll need to set up your own using either Horus-GUI (https://github.com/projecthorus/horus-gui) or horusdemodlib (https://github.com/projecthorus/horusdemodlib).One issue I’m still working on is improving RF signal strength. Although the protocol is decodable in very low-noise environments, the transmit power appears to be lower than that of a typical radiosonde. This could be due to several factors: limited current on a weak power source (signal is stronger when powered from a bench supply), off-tuned filtering/matching, or not paying enough attention to the antenna. I'm planning to run more simulations to figure this out. That said, the signal is still decodable from the ground even at max altitude (~100,000 feet).On the more technical side, Tiny4FSK uses: - the SAMD21 microcontroller, which is an ARM Cortex-M0+ MCU - the TPS61200 boost converter, which is adjusted to output 3.3v - Si4063 radio module, which I use on the 70cm band - ATGM336H gps module - pretty cheap GPS module which works in airborne mode (&gt;18km) - integrated BME280 temperature, pressure, and humidity sensor The code uses the Arduino framework to make it accessible to beginners.All flights using Horus Binary v2, including reprogrammed radiosondes, other custom trackers, and Tiny4FSK show up in real-time on Sondehub Amateur (https://amateur.sondehub.org). Flight data can be found in the /Media/Data folder on Github (there's several missing flights on there though).Thanks for reading, hope I didn’t mess anything up too badly in the post! -Max Comments URL: https://news.ycombinator.com/item?id=44734983 Points: 30 # Comments: 16</description>
-      <pubDate>Wed, 30 Jul 2025 14:51:10 +0000</pubDate>
-      <guid isPermaLink="true">https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>A short post on short trains</title>
       <link>https://shakeddown.substack.com/p/a-short-post-on-short-trains</link>
-      <description>Article URL: https://shakeddown.substack.com/p/a-short-post-on-short-trains Comments URL: https://news.ycombinator.com/item?id=44734522 Points: 27 # Comments: 22</description>
+      <description>Article URL: https://shakeddown.substack.com/p/a-short-post-on-short-trains Comments URL: https://news.ycombinator.com/item?id=44734522 Points: 53 # Comments: 79</description>
       <pubDate>Wed, 30 Jul 2025 14:15:07 +0000</pubDate>
       <guid isPermaLink="true">https://shakeddown.substack.com/p/a-short-post-on-short-trains</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Show HN: State of the Art Open-source alternative to ChatGPT Agents for browsing</title>
-      <link>https://github.com/trymeka/agent</link>
-      <description>Hey HN,We are Winston, Edward, and James, and we built Meka Agent, an open-source framework that lets vision-based LLMs execute tasks directly on a computer, just like a person would.Backstory:In the last few months, we've been building computer-use agents that have been used by various teams for QA testing, but realized that the underlying browsing frameworks aren't quite good enough yet.As such, we've been working on a browsing agent.We achieved 72.7% on WebArena compared to the previous state of the art set by OpenAI's new ChatGPT agent at 65.4%. You can read more about it here: https://github.com/trymeka/webarena_evals.Today, we are open sourcing Meka, our state of the art agent, to allow anyone to build their own powerful, vision-based agents from scratch. We provide the groundwork for the hard parts, so you don't have to:* True vision-based control: Meka doesn't just read HTML. It looks at the screen, identifies interactive elements, and decides where to click, type, and scroll.* Full computer access: It's not sandboxed in a browser. Meka operates with OS-level controls, allowing it to handle system dialogues, file uploads, and other interactions that browser-only automation tools can't.* Extensible by design: We've made it easy to plug in your own LLMs and computer providers.* State-of-the-art performance: 72.7% on WebArenaOur goal is to enable developers to create repeatable, robust tasks on any computer just by prompting an agent, without worrying about the implementation details.We’d love to get your feedback on how this tool could fit into your automation workflows. Try it out and let us know what you think.You can find the repo on GitHub and get started quickly with our hosted platform, https://app.withmeka.com/.Thanks, Winston, Edward, and James Comments URL: https://news.ycombinator.com/item?id=44734471 Points: 17 # Comments: 6</description>
-      <pubDate>Wed, 30 Jul 2025 14:11:36 +0000</pubDate>
-      <guid isPermaLink="true">https://github.com/trymeka/agent</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Writing memory efficient C structs</title>
-      <link>https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html</link>
-      <description>Article URL: https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html Comments URL: https://news.ycombinator.com/item?id=44733968 Points: 107 # Comments: 44</description>
-      <pubDate>Wed, 30 Jul 2025 13:32:23 +0000</pubDate>
-      <guid isPermaLink="true">https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Try the Mosquito Bucket of Death</title>
-      <link>https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/</link>
-      <description>Article URL: https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/ Comments URL: https://news.ycombinator.com/item?id=44733888 Points: 302 # Comments: 247</description>
-      <pubDate>Wed, 30 Jul 2025 13:24:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Our $100M Series B</title>
-      <link>https://oxide.computer/blog/our-100m-series-b</link>
-      <description>Article URL: https://oxide.computer/blog/our-100m-series-b Comments URL: https://news.ycombinator.com/item?id=44733817 Points: 572 # Comments: 394</description>
-      <pubDate>Wed, 30 Jul 2025 13:17:28 +0000</pubDate>
-      <guid isPermaLink="true">https://oxide.computer/blog/our-100m-series-b</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
@@ -382,30 +406,6 @@
       <pubDate>Thu, 24 Jul 2025 23:01:09 GMT</pubDate>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g83dpeendo?at_medium=RSS&amp;at_campaign=rss</guid>
       <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
-    </item>
-    <item>
-      <title>You expect principles but should wish for none</title>
-      <link>https://world.hey.com/dhh/you-expect-principles-but-should-wish-for-none-531988ec</link>
-      <description>People seem to be continuously disappointed by the fact that public companies are run by professional managers who don't operate from deep principles. But they shouldn't be. It's in everyone's interest that corporations set their sails to the wind and whims of the prevailing culture. It's the essence of capitalism: Give people what they want (especially when they change their minds)! Now, as an owner-operator, I can afford to have unpopular principles from time to time. I can afford to earn less than the theoretical maximum from the market as a consequence of these principles. That's because I'm playing with my own money. That's the privilege of being privately held.But even the most powerful professional CEO is on a short leash from the company's real owners, the shareholders. This is often maligned as the root of all evil in modern capitalism. That we've divorced the owner and the operator. And I think there's a worthy critique of that arrangement to be had, like Burnham in The Managerial Society. But I also think not enough appreciation is afforded this arrangement.Shareholders, in their Platonic ideal, only care about maximizing profits. That can occasionally be an incentive for amoral behavior, but more often, it's simply a driver towards making stuff that people want. Not what they say they want, but what they actually buy. That's why libertarians love to talk about the free-market economy as an information system. Supply-side economics notwithstanding, demand directs production and judges the contestants. If you don't make something people want, they won't buy it, and you'll soon be out of business.I thought about this today because of two popular marketing campaigns currently running in America. The one by Nike celebrating family, the other by American Eagle celebrating "good jeans". Here's a comparison someone made online using these companies' campaigns from the early 2020s and now: Quite the contrast! Almost looks like hypocrisy, doesn't it? How can you celebrate obesity one moment, then hour-glass ideals the next? How can you embrace undirected individualism before, then exalt family values at the height of excellence now?Easy: The vibe changed. Demand changed. Selling 2020 woke platitudes into a 2025 market is a clear way to lose your job as a professional manager. Because it's no longer what people want.Hell, it's most likely not even the same managers making these diametrically-opposed value judgments. Perhaps not even managers at all, but marketing agencies in tune with said prevailing culture. The big information system of commerce is sending a billion packets of intent all day long and the current message is now crystal clear: Blond babies and boobs are back in business!This was the original killer insight by the architects of the short-lived woke theocracy: If you can capture culture, you can capture capitalism. But it's one thing to capture culture, it's quite another to hold it.So now much of mainstream American culture has simply reverted to the roots of capitalism: Making things that most people want. By course-correcting the culture, we've course-corrected commerce. No corporate principles required.</description>
-      <pubDate>2025-07-24T19:28:08Z</pubDate>
-      <guid isPermaLink="true">https://world.hey.com/dhh/you-expect-principles-but-should-wish-for-none-531988ec</guid>
-      <source url="https://world.hey.com/dhh/feed.atom">David Heinemeier Hansson</source>
-    </item>
-    <item>
-      <title>How to streamline GitHub API calls in Azure Pipelines</title>
-      <link>https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/</link>
-      <description>Build a custom Azure DevOps extension that eliminates the complexity of JWT generation and token management, enabling powerful automation and enhanced security controls. The post How to streamline GitHub API calls in Azure Pipelines appeared first on The GitHub Blog.</description>
-      <pubDate>Thu, 24 Jul 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/</guid>
-      <source url="https://github.blog/feed/">GitHub Blog</source>
-    </item>
-    <item>
-      <title>The 5 Times Life on Earth Almost Ended</title>
-      <link>https://www.youtube.com/shorts/IZ55YvFE960</link>
-      <description>Life on Earth has nearly ended five times, and it may be happening again right now. From massive volcanic eruptions to deadly asteroids and algae gone wild, mass extinction events have wiped out over 99% of all species that ever lived. #kurzgesagt #inanutshell #kurzgesagt_inanutshell #learnwithshorts #science Sources &amp; further reading: https://sites.google.com/view/kgs-tiktok-sources Follow us for more sciencey content! 🦆 OUR CHANNELS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ German: https://kgs.link/youtubeDE Spanish: https://kgs.link/youtubeES French: https://kgs.link/youtubeFR Portuguese: https://kgs.link/youtubePT Arabic: https://kgs.link/youtubeAR Hindi: https://kgs.link/youtubeHI Japanese: https://kgs.link/youtubeJA Korean: https://kgs.link/youtubeKO HOW CAN YOU SUPPORT US? ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ This is how we make our living and it would be a pleasure if you support us! Get Products designed with ❤ https://shop.kgs.link/shorts Become a Part of kurzgesagt by joining the Patreon Bird Army 🐧 https://kgs.link/patreon DISCUSSIONS &amp; SOCIAL MEDIA ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ Instagram: https://kgs.link/instagram TikTok: https://kgs.link/tiktok Reddit: https://kgs.link/reddit Discord: https://kgs.link/discord Twitter: https://kgs.link/twitter Bluesky: https://kgs.link/bluesky Facebook: https://kgs.link/facebook Newsletter: https://kgs.link/newsletter OUR VOICE ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ The Kurzgesagt voice is from Steve Taylor: https://kgs.link/youtube-voice OUR MUSIC ♬♪ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 700+ minutes of Kurzgesagt Soundtracks by Epic Mountain: Spotify: https://kgs.link/music-spotify Soundcloud: https://kgs.link/music-soundcloud Bandcamp: https://kgs.link/music-bandcamp Youtube: https://kgs.link/music-youtube Facebook: https://kgs.link/music-facebook</description>
-      <pubDate>2025-07-24T14:00:34+00:00</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/shorts/IZ55YvFE960</guid>
-      <source url="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q">Kurzgesagt – In a Nutshell</source>
     </item>
   </channel>
 </rss>

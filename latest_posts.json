@@ -6,8 +6,128 @@
   "feed_url": "./latest_posts.json",
   "items": [
     {
+      "id": "https://stackoverflow.blog/2025/07/31/the-innovation-leadership-and-team-agility-inside-u-s-bank-s-cloud-journey/",
+      "title": "The innovation, leadership, and team agility inside U.S. Bank’s cloud journey",
+      "content_text": "In this episode of Leaders of Code, Jody Bailey, Stack Overflow’s CPO, Anirudh Kaul, Senior Director of Software Engineering, and Paul Petersen, Cloud Platform Engineering Manager, discuss the U.S. Bank’s journey from traditional banking practices to embracing new technologies.",
+      "url": "https://stackoverflow.blog/2025/07/31/the-innovation-leadership-and-team-agility-inside-u-s-bank-s-cloud-journey/",
+      "date_published": "Thu, 31 Jul 2025 07:40:00 GMT",
+      "external_url": "https://stackoverflow.blog/2025/07/31/the-innovation-leadership-and-team-agility-inside-u-s-bank-s-cloud-journey/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Stack Overflow Blog",
+        "feed_url": "https://stackoverflow.blog/feed/"
+      }
+    },
+    {
+      "id": "https://github.com/dipampaul17/AgentGuard",
+      "title": "Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget",
+      "content_text": "Your AI agent hits an infinite loop and racks up $2000 in API charges overnight. This happens weekly to AI developers.AgentGuard monitors API calls in real-time and automatically kills your process when it hits your budget limit.How it works:Add 2 lines to any AI project: const agentGuard = require('agent-guard'); await agentGuard.init({ limit: 50 }); // $50 budget // Your existing code runs unchanged const response = await openai.chat.completions.create({...}); // AgentGuard tracks costs automatically When your code hits $50 in API costs, AgentGuard stops execution and shows you exactly what happened.Why I built this:I got tired of seeing \"I accidentally spent $500 on OpenAI\" posts. Existing tools like tokencost help you measure costs after the fact, but nothing prevents runaway spending in real-time.AgentGuard is essentially a circuit breaker for AI API costs. It's saved me from several costly bugs during development.Limitations: Only works with OpenAI and Anthropic APIs currently. Cost calculations are estimates based on documented pricing.Source: https://github.com/dipampaul17/AgentGuardInstall: npm i agent-guard Comments URL: https://news.ycombinator.com/item?id=44742710 Points: 3 # Comments: 0",
+      "url": "https://github.com/dipampaul17/AgentGuard",
+      "date_published": "Thu, 31 Jul 2025 05:54:04 +0000",
+      "external_url": "https://github.com/dipampaul17/AgentGuard",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://openai.com/index/introducing-stargate-norway/",
+      "title": "Stargate Norway",
+      "content_text": "Article URL: https://openai.com/index/introducing-stargate-norway/ Comments URL: https://news.ycombinator.com/item?id=44742513 Points: 50 # Comments: 24",
+      "url": "https://openai.com/index/introducing-stargate-norway/",
+      "date_published": "Thu, 31 Jul 2025 05:08:56 +0000",
+      "external_url": "https://openai.com/index/introducing-stargate-norway/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
+      "title": "Tracking source locations in the Futhark compiler",
+      "content_text": "Article URL: https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html Comments URL: https://news.ycombinator.com/item?id=44742359 Points: 10 # Comments: 0",
+      "url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
+      "date_published": "Thu, 31 Jul 2025 04:40:31 +0000",
+      "external_url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+      "title": "I Know When You're Vibe Coding",
+      "content_text": "Article URL: https://alexkondov.com/i-know-when-youre-vibe-coding/ Comments URL: https://news.ycombinator.com/item?id=44742251 Points: 68 # Comments: 19",
+      "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+      "date_published": "Thu, 31 Jul 2025 04:16:40 +0000",
+      "external_url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
+      "title": "Friction and Not Being Touched",
+      "content_text": "Article URL: https://tante.cc/2025/07/30/friction-and-not-being-touched/ Comments URL: https://news.ycombinator.com/item?id=44742021 Points: 10 # Comments: 0",
+      "url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
+      "date_published": "Thu, 31 Jul 2025 03:18:31 +0000",
+      "external_url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://undeadly.org/cgi?action=article;sid=20250730080301",
+      "title": "Classic Common Desktop Environment coming to OpenBSD",
+      "content_text": "Article URL: https://undeadly.org/cgi?action=article;sid=20250730080301 Comments URL: https://news.ycombinator.com/item?id=44741539 Points: 70 # Comments: 16",
+      "url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
+      "date_published": "Thu, 31 Jul 2025 01:42:58 +0000",
+      "external_url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
+      "title": "You know what: Microsoft became miserably incompetent in IT",
+      "content_text": "Article URL: https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/ Comments URL: https://news.ycombinator.com/item?id=44741442 Points: 119 # Comments: 59",
+      "url": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
+      "date_published": "Thu, 31 Jul 2025 01:22:28 +0000",
+      "external_url": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
       "id": "https://www.bbc.com/news/articles/cqlernrw62yo?at_medium=RSS&at_campaign=rss",
-      "title": "Meta profits surge helps fuel Zuckerberg’s AI ambitions",
+      "title": "Meta profits surge helps drive Zuckerberg’s AI ambitions",
       "content_text": "The Facebook, Instagram and WhatsApp-owner is pumping billions of dollars into artificial intelligence projects.",
       "url": "https://www.bbc.com/news/articles/cqlernrw62yo?at_medium=RSS&at_campaign=rss",
       "date_published": "Thu, 31 Jul 2025 01:03:35 GMT",
@@ -21,42 +141,12 @@
       }
     },
     {
-      "id": "https://alexandermigdal.com/paradise-lost/",
-      "title": "Paradise Lost",
-      "content_text": "Article URL: https://alexandermigdal.com/paradise-lost/ Comments URL: https://news.ycombinator.com/item?id=44741314 Points: 5 # Comments: 1",
-      "url": "https://alexandermigdal.com/paradise-lost/",
-      "date_published": "Thu, 31 Jul 2025 01:02:13 +0000",
-      "external_url": "https://alexandermigdal.com/paradise-lost/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai",
       "title": "Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India",
       "content_text": "Article URL: https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai Comments URL: https://news.ycombinator.com/item?id=44741305 Points: 0 # Comments: 0",
       "url": "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai",
       "date_published": "Thu, 31 Jul 2025 01:01:02 +0000",
       "external_url": "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://corbettreport.com/data-leak-at-corbett-report/",
-      "title": "GiveWP plugin for WordPress revealed email addresses of donors in page source",
-      "content_text": "Article URL: https://corbettreport.com/data-leak-at-corbett-report/ Comments URL: https://news.ycombinator.com/item?id=44741043 Points: 6 # Comments: 1",
-      "url": "https://corbettreport.com/data-leak-at-corbett-report/",
-      "date_published": "Thu, 31 Jul 2025 00:17:25 +0000",
-      "external_url": "https://corbettreport.com/data-leak-at-corbett-report/",
       "tags": [
         "Technology"
       ],
@@ -98,7 +188,7 @@
     {
       "id": "https://www.figma.com/blog/ipo-pricing/",
       "title": "Figma will IPO on July 31",
-      "content_text": "Article URL: https://www.figma.com/blog/ipo-pricing/ Comments URL: https://news.ycombinator.com/item?id=44740222 Points: 38 # Comments: 23",
+      "content_text": "Article URL: https://www.figma.com/blog/ipo-pricing/ Comments URL: https://news.ycombinator.com/item?id=44740222 Points: 182 # Comments: 96",
       "url": "https://www.figma.com/blog/ipo-pricing/",
       "date_published": "Wed, 30 Jul 2025 22:24:58 +0000",
       "external_url": "https://www.figma.com/blog/ipo-pricing/",
@@ -111,24 +201,9 @@
       }
     },
     {
-      "id": "https://www.pizzint.watch/",
-      "title": "Pentagon Pizza Index",
-      "content_text": "Article URL: https://www.pizzint.watch/ Comments URL: https://news.ycombinator.com/item?id=44740185 Points: 17 # Comments: 1",
-      "url": "https://www.pizzint.watch/",
-      "date_published": "Wed, 30 Jul 2025 22:21:03 +0000",
-      "external_url": "https://www.pizzint.watch/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://ollama.com/blog/new-app",
       "title": "Ollama's new app",
-      "content_text": "Article URL: https://ollama.com/blog/new-app Comments URL: https://news.ycombinator.com/item?id=44739632 Points: 163 # Comments: 78",
+      "content_text": "Article URL: https://ollama.com/blog/new-app Comments URL: https://news.ycombinator.com/item?id=44739632 Points: 310 # Comments: 159",
       "url": "https://ollama.com/blog/new-app",
       "date_published": "Wed, 30 Jul 2025 21:19:03 +0000",
       "external_url": "https://ollama.com/blog/new-app",
@@ -143,7 +218,7 @@
     {
       "id": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
       "title": "Early universe's 'little red dots' may be black hole stars",
-      "content_text": "Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 42 # Comments: 17",
+      "content_text": "Article URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars Comments URL: https://news.ycombinator.com/item?id=44739618 Points: 68 # Comments: 35",
       "url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
       "date_published": "Wed, 30 Jul 2025 21:18:21 +0000",
       "external_url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
@@ -158,7 +233,7 @@
     {
       "id": "https://blog.val.town/vibe-code",
       "title": "Vibe code is legacy code",
-      "content_text": "Article URL: https://blog.val.town/vibe-code Comments URL: https://news.ycombinator.com/item?id=44739556 Points: 303 # Comments: 203",
+      "content_text": "Article URL: https://blog.val.town/vibe-code Comments URL: https://news.ycombinator.com/item?id=44739556 Points: 460 # Comments: 275",
       "url": "https://blog.val.town/vibe-code",
       "date_published": "Wed, 30 Jul 2025 21:13:20 +0000",
       "external_url": "https://blog.val.town/vibe-code",
@@ -171,9 +246,24 @@
       }
     },
     {
+      "id": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
+      "title": "150 years of Hans Christian Andersen",
+      "content_text": "https://archive.ph/10l96 Comments URL: https://news.ycombinator.com/item?id=44739494 Points: 29 # Comments: 3",
+      "url": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
+      "date_published": "Wed, 30 Jul 2025 21:07:13 +0000",
+      "external_url": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
       "id": "https://overreacted.io/the-math-is-haunted/",
       "title": "The math is haunted",
-      "content_text": "Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 113 # Comments: 35",
+      "content_text": "Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 191 # Comments: 72",
       "url": "https://overreacted.io/the-math-is-haunted/",
       "date_published": "Wed, 30 Jul 2025 20:46:49 +0000",
       "external_url": "https://overreacted.io/the-math-is-haunted/",
@@ -186,24 +276,9 @@
       }
     },
     {
-      "id": "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06",
-      "title": "The Preserving Machine by Philip K. Dick (1953)",
-      "content_text": "Article URL: https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06 Comments URL: https://news.ycombinator.com/item?id=44738161 Points: 41 # Comments: 10",
-      "url": "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06",
-      "date_published": "Wed, 30 Jul 2025 18:55:43 +0000",
-      "external_url": "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://xlii.space/eng/emacs-the-macos-bug/",
       "title": "Emacs: The macOS Bug",
-      "content_text": "Article URL: https://xlii.space/eng/emacs-the-macos-bug/ Comments URL: https://news.ycombinator.com/item?id=44737676 Points: 82 # Comments: 62",
+      "content_text": "Article URL: https://xlii.space/eng/emacs-the-macos-bug/ Comments URL: https://news.ycombinator.com/item?id=44737676 Points: 109 # Comments: 74",
       "url": "https://xlii.space/eng/emacs-the-macos-bug/",
       "date_published": "Wed, 30 Jul 2025 18:15:35 +0000",
       "external_url": "https://xlii.space/eng/emacs-the-macos-bug/",
@@ -216,39 +291,9 @@
       }
     },
     {
-      "id": "https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/",
-      "title": "Most Illinois farmland is not owned by farmers",
-      "content_text": "Article URL: https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/ Comments URL: https://news.ycombinator.com/item?id=44737353 Points: 174 # Comments: 214",
-      "url": "https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/",
-      "date_published": "Wed, 30 Jul 2025 17:51:21 +0000",
-      "external_url": "https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://rys.io/en/180.html",
-      "title": "The hype is the product",
-      "content_text": "Article URL: https://rys.io/en/180.html Comments URL: https://news.ycombinator.com/item?id=44737346 Points: 151 # Comments: 72",
-      "url": "https://rys.io/en/180.html",
-      "date_published": "Wed, 30 Jul 2025 17:50:48 +0000",
-      "external_url": "https://rys.io/en/180.html",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.catherinejue.com/fast",
       "title": "Fast",
-      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 795 # Comments: 244",
+      "content_text": "Article URL: https://www.catherinejue.com/fast Comments URL: https://news.ycombinator.com/item?id=44736967 Points: 1108 # Comments: 318",
       "url": "https://www.catherinejue.com/fast",
       "date_published": "Wed, 30 Jul 2025 17:21:17 +0000",
       "external_url": "https://www.catherinejue.com/fast",
@@ -263,7 +308,7 @@
     {
       "id": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
       "title": "Australia widens teen social media ban to YouTube, scraps exemption",
-      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 169 # Comments: 266",
+      "content_text": "Article URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/ Comments URL: https://news.ycombinator.com/item?id=44736646 Points: 248 # Comments: 345",
       "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
       "date_published": "Wed, 30 Jul 2025 16:59:09 +0000",
       "external_url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
@@ -276,24 +321,24 @@
       }
     },
     {
-      "id": "https://github.com/charmbracelet/crush",
-      "title": "Crush: Glamourous AI coding agent for your favourite terminal",
-      "content_text": "Article URL: https://github.com/charmbracelet/crush Comments URL: https://news.ycombinator.com/item?id=44736176 Points: 308 # Comments: 190",
-      "url": "https://github.com/charmbracelet/crush",
-      "date_published": "Wed, 30 Jul 2025 16:18:14 +0000",
-      "external_url": "https://github.com/charmbracelet/crush",
+      "id": "https://www.bbc.com/news/articles/c93d7qlp974o?at_medium=RSS&at_campaign=rss",
+      "title": "TikTok removes video by Huda Beauty boss over anti-Israel conspiracy theories",
+      "content_text": "Huda Kattan is accused of \"using her massive platform to spread vile antisemitic conspiracy theories\".",
+      "url": "https://www.bbc.com/news/articles/c93d7qlp974o?at_medium=RSS&at_campaign=rss",
+      "date_published": "Wed, 30 Jul 2025 16:16:28 GMT",
+      "external_url": "https://www.bbc.com/news/articles/c93d7qlp974o?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Technology"
+        "News"
       ],
       "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
+        "feed_title": "BBC Technology",
+        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
       }
     },
     {
       "id": "https://www.wiz.io/blog/critical-vulnerability-base44",
-      "title": "Critical Vulnerability in AI Vibe Coding platform Base44",
-      "content_text": "Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 93 # Comments: 56",
+      "title": "Critical vulnerability in AI coding platform Base44 allowing unauthorized access",
+      "content_text": "Article URL: https://www.wiz.io/blog/critical-vulnerability-base44 Comments URL: https://news.ycombinator.com/item?id=44736101 Points: 102 # Comments: 63",
       "url": "https://www.wiz.io/blog/critical-vulnerability-base44",
       "date_published": "Wed, 30 Jul 2025 16:12:32 +0000",
       "external_url": "https://www.wiz.io/blog/critical-vulnerability-base44",
@@ -308,7 +353,7 @@
     {
       "id": "https://optician-sans.com/",
       "title": "Optician Sans – A free font based on historical eye charts and optotypes",
-      "content_text": "Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 209 # Comments: 45",
+      "content_text": "Article URL: https://optician-sans.com/ Comments URL: https://news.ycombinator.com/item?id=44736090 Points: 244 # Comments: 51",
       "url": "https://optician-sans.com/",
       "date_published": "Wed, 30 Jul 2025 16:11:58 +0000",
       "external_url": "https://optician-sans.com/",
@@ -338,25 +383,10 @@
     {
       "id": "https://news.ycombinator.com/item?id=44735843",
       "title": "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
-      "content_text": "Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called \"rubrics,\" which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 89 # Comments: 26",
+      "content_text": "Hi HN, we’re Abhinav, Andy, and Jeremy, and we’re building Lucidic AI (https://dashboard.lucidic.ai), an AI agent interpretability tool to help observe/debug AI agents.Here is a demo: https://youtu.be/Zvoh1QUMhXQ.Getting started is easy with just one line of code. You just call lai.init() in your agent code and log into the dashboard. You can see traces of each run, cumulative trends across sessions, built-in or custom evals, and grouped failure modes. Call lai.create_step() with any metadata you want, memory snapshots, tool outputs, stateful info, and we'll index it for debugging.We did NLP research at Stanford AI Lab (SAIL), where we worked on creating an AI agent (w/ fine-tuned models and DSPy) to solve math olympiad problems (focusing on AIME/USAMO); and we realized debugging these agents was hard. But the last straw was when we built an e-commerce agent that could buy items online. It kept failing at checkout, and every one-line change, tweaking a prompt, switching to Llama, adjusting tool logic, meant another 10-minute rerun just to see if we hit the same checkout page.At this point, we were all like, this sucks, so we improved agent interpretability with better debugging, monitoring, and evals.We started by listening to users who told us traditional LLM observability platforms don't capture the complexity of agents. Agents have tools, memories, events, not just input/output pairs. So we automatically transform OTel (and/or regular) agent logs into interactive graph visualizations that cluster similar states based on memory and action patterns. We heard that people wanted to test small changes even with the graphs, so we created “time traveling,” where you can modify any state (memory contents, tool outputs, context), then re-simulate 30–40 times to see outcome distributions. We embed the responses, cluster by similarity, and show which modifications lead to stable vs. divergent behaviors.Then we saw people running their agent 10 times on the same task, watching each run individually, and wasting hours looking at mostly repeated states. So we built trajectory clustering on similar state embeddings (like similar tools or memories) to surface behavioral patterns across mass simulations.We then use that to create a force-directed layout that automatically groups similar paths your agent took, which displays states as nodes, actions as edges, and failure probability as color intensity. The clusters make failure patterns obvious; you see trends across hundreds of runs, not individual traces.Finally, when people saw our observability features, they naturally wanted evaluation capabilities. So we developed a concept for people to make their own evals called \"rubrics,\" which lets you define specific criteria, assign weights to each criterion, and set score definitions, giving you a structured way to measure agent performance against your exact requirements.To evaluate these criteria, we used our own platform to build an investigator agent that reviews your criteria and evaluates performance much more effectively than traditional LLM-as-a-judge approaches.To get started visit dashboard.lucidic.ai and https://docs.lucidic.ai/getting-started/quickstart. You can use it for free for 1,000 event and step creations.Look forward to your thoughts! And don’t hesitate to reach out at team@lucidic.ai Comments URL: https://news.ycombinator.com/item?id=44735843 Points: 100 # Comments: 32",
       "url": "https://news.ycombinator.com/item?id=44735843",
       "date_published": "Wed, 30 Jul 2025 15:54:02 +0000",
       "external_url": "https://news.ycombinator.com/item?id=44735843",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
-      "title": "A short post on short trains",
-      "content_text": "Article URL: https://shakeddown.substack.com/p/a-short-post-on-short-trains Comments URL: https://news.ycombinator.com/item?id=44734522 Points: 53 # Comments: 79",
-      "url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
-      "date_published": "Wed, 30 Jul 2025 14:15:07 +0000",
-      "external_url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
       "tags": [
         "Technology"
       ],
@@ -717,36 +747,6 @@
       "url": "https://www.bbc.com/news/articles/c24v4dl5r16o?at_medium=RSS&at_campaign=rss",
       "date_published": "Fri, 25 Jul 2025 11:30:21 GMT",
       "external_url": "https://www.bbc.com/news/articles/c24v4dl5r16o?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "News"
-      ],
-      "_source": {
-        "feed_title": "BBC Technology",
-        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-      }
-    },
-    {
-      "id": "https://stackoverflow.blog/2025/07/25/saving-the-world-with-speed-and-at-scale/",
-      "title": "Saving the world with speed and at scale",
-      "content_text": "Ryan Panchadsaram, co-author of Speed and Scale, sits down on the podcast to explore the role of developers in combating climate change, how efficient coding practices help lower emissions, and how developers can contribute to open-source projects through GitHub’s Climate Action Plan that help drive forward sustainable technologies.",
-      "url": "https://stackoverflow.blog/2025/07/25/saving-the-world-with-speed-and-at-scale/",
-      "date_published": "Fri, 25 Jul 2025 07:40:00 GMT",
-      "external_url": "https://stackoverflow.blog/2025/07/25/saving-the-world-with-speed-and-at-scale/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Stack Overflow Blog",
-        "feed_url": "https://stackoverflow.blog/feed/"
-      }
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c4g83dpeendo?at_medium=RSS&at_campaign=rss",
-      "title": "Artificial food colours are out, so what's next?",
-      "content_text": "Big food firms are phasing out artificial colours, so tech firms are rushing to fill the gap.",
-      "url": "https://www.bbc.com/news/articles/c4g83dpeendo?at_medium=RSS&at_campaign=rss",
-      "date_published": "Thu, 24 Jul 2025 23:01:09 GMT",
-      "external_url": "https://www.bbc.com/news/articles/c4g83dpeendo?at_medium=RSS&at_campaign=rss",
       "tags": [
         "News"
       ],

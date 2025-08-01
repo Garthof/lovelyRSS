@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feeds updated="2025-07-31T18:32:00.921116+00:00" count="8">
+<feeds updated="2025-08-01T02:00:47.165330+00:00" count="8">
   <feed>
     <title>Python.org Jobs</title>
     <url>https://www.python.org/jobs/feed/rss/</url>
     <link>https://www.python.org/jobs/</link>
     <description>Python jobs from Python.org</description>
-    <updated>Thu, 31 Jul 2025 18:27:02 +0000</updated>
+    <updated>Fri, 01 Aug 2025 01:30:13 +0000</updated>
     <entry_count>20</entry_count>
     <category>Technology</category>
     <language>en-us</language>
@@ -15,10 +15,20 @@
     <url>https://hnrss.org/frontpage</url>
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News RSS</description>
-    <updated>Thu, 31 Jul 2025 18:18:14 +0000</updated>
+    <updated>Fri, 01 Aug 2025 01:50:03 +0000</updated>
     <entry_count>20</entry_count>
     <category>Technology</category>
     <language>en</language>
+  </feed>
+  <feed>
+    <title>BBC Technology</title>
+    <url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
+    <link>https://www.bbc.co.uk/news/technology</link>
+    <description>BBC News - Technology</description>
+    <updated>Fri, 01 Aug 2025 02:00:33 GMT</updated>
+    <entry_count>60</entry_count>
+    <category>News</category>
+    <language>en-gb</language>
   </feed>
   <feed>
     <title>GitHub Blog</title>
@@ -59,16 +69,6 @@
     <entry_count>15</entry_count>
     <category>YouTube</category>
     <language>en</language>
-  </feed>
-  <feed>
-    <title>BBC Technology</title>
-    <url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
-    <link>https://www.bbc.co.uk/news/technology</link>
-    <description>BBC News - Technology</description>
-    <updated>Thu, 31 Jul 2025 18:32:00 GMT</updated>
-    <entry_count>60</entry_count>
-    <category>News</category>
-    <language>en-gb</language>
   </feed>
   <feed>
     <title>David Heinemeier Hansson</title>

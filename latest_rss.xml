@@ -4,47 +4,175 @@
     <title>lovelyRSS - Latest Posts</title>
     <description>Latest posts from all subscribed feeds</description>
     <link>https://github.com</link>
-    <lastBuildDate>2025-08-01 12:44:34 UTC</lastBuildDate>
+    <lastBuildDate>2025-08-01 18:31:04 UTC</lastBuildDate>
     <generator>lovelyRSS/1.0</generator>
     <ns0:link href="./latest_rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Untold Impact of Cancellation</title>
+      <title>Google Shifts goo.gl Policy: Inactive Links Deactivated, Active Links Preserved</title>
+      <link>https://blog.google/technology/developers/googl-link-shortening-update/</link>
+      <description>Article URL: https://blog.google/technology/developers/googl-link-shortening-update/ Comments URL: https://news.ycombinator.com/item?id=44759918 Points: 38 # Comments: 26</description>
+      <pubDate>Fri, 01 Aug 2025 17:43:02 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.google/technology/developers/googl-link-shortening-update/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer</title>
+      <link>https://www.coveragecat.com/careers/engineering/software-engineer</link>
+      <description>Article URL: https://www.coveragecat.com/careers/engineering/software-engineer Comments URL: https://news.ycombinator.com/item?id=44759432 Points: 0 # Comments: 0</description>
+      <pubDate>Fri, 01 Aug 2025 17:01:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.coveragecat.com/careers/engineering/software-engineer</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>I couldn't submit a PR, so I got hired and fixed it myself</title>
+      <link>https://www.skeptrune.com/posts/doing-the-little-things/</link>
+      <description>Article URL: https://www.skeptrune.com/posts/doing-the-little-things/ Comments URL: https://news.ycombinator.com/item?id=44759417 Points: 13 # Comments: 2</description>
+      <pubDate>Fri, 01 Aug 2025 16:59:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.skeptrune.com/posts/doing-the-little-things/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Corporation for Public Broadcasting Ceasing Operations</title>
+      <link>https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding</link>
+      <description>Article URL: https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding Comments URL: https://news.ycombinator.com/item?id=44759382 Points: 245 # Comments: 196</description>
+      <pubDate>Fri, 01 Aug 2025 16:56:40 +0000</pubDate>
+      <guid isPermaLink="true">https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Ergonomic keyboarding with the Svalboard: a half-year retrospective</title>
+      <link>https://twey.io/hci/svalboard/</link>
+      <description>Article URL: https://twey.io/hci/svalboard/ Comments URL: https://news.ycombinator.com/item?id=44759171 Points: 16 # Comments: 2</description>
+      <pubDate>Fri, 01 Aug 2025 16:36:51 +0000</pubDate>
+      <guid isPermaLink="true">https://twey.io/hci/svalboard/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>At 17, Hannah Cairo solved a major math mystery</title>
+      <link>https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/</link>
+      <description>Article URL: https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/ Comments URL: https://news.ycombinator.com/item?id=44759152 Points: 70 # Comments: 28</description>
+      <pubDate>Fri, 01 Aug 2025 16:35:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Supporting the BEAM community with free CI/CD security audits</title>
+      <link>https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/</link>
+      <description>Article URL: https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/ Comments URL: https://news.ycombinator.com/item?id=44758957 Points: 40 # Comments: 5</description>
+      <pubDate>Fri, 01 Aug 2025 16:20:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Rollercoaster Tycoon (Or, MicroProse's Last Hurrah)</title>
+      <link>https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/</link>
+      <description>Article URL: https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/ Comments URL: https://news.ycombinator.com/item?id=44758842 Points: 68 # Comments: 20</description>
+      <pubDate>Fri, 01 Aug 2025 16:10:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI Leaks 120B Open Model on Hugging Face</title>
+      <link>https://twitter.com/main_horse/status/1951201925778776530</link>
+      <description>Article URL: https://twitter.com/main_horse/status/1951201925778776530 Comments URL: https://news.ycombinator.com/item?id=44758511 Points: 73 # Comments: 28</description>
+      <pubDate>Fri, 01 Aug 2025 15:44:27 +0000</pubDate>
+      <guid isPermaLink="true">https://twitter.com/main_horse/status/1951201925778776530</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Show HN: Pontoon – Open-source customer data syncs</title>
+      <link>https://github.com/pontoon-data/Pontoon</link>
+      <description>Hi HN,We’re Alex and Kalan, the creators of Pontoon (https://github.com/pontoon-data/Pontoon). Pontoon is an open-source data export platform that makes it really easy to create data syncs and send data to your enterprise customers. Check out our demo here: https://app.storylane.io/share/onova7c23ai6 or try it out with docker: https://pontoon-data.github.io/Pontoon/getting-started/quick...While at our prior roles as data engineers, we’ve both felt the pain of data APIs. We either had to spend weeks building out data pipelines in house or spend a lot on ETL tools like Fivetran (https://www.fivetran.com/). However, there were a few companies that offered data syncs that would sync directly to our data warehouse (eg. Redshift, Snowflake, etc.), and when that was an option, we always chose it. This led us to wonder “Why don’t more companies offer data syncs?”. It turns out, building reliable cross-cloud data syncs is difficult. That’s why we built Pontoon.We designed Pontoon to be:- Easily deployed: we provide a single, self-contained Docker image for easy deployment and Docker Compose for larger workloads (https://pontoon-data.github.io/Pontoon/getting-started/quick...)- Support modern data warehouses: we support syncing to/from Snowflake, BigQuery, Redshift, and Postgres.- Sync cross cloud: sync from BigQuery to Redshift, Snowflake to BigQuery, Postgres to Redshift, etc.- Developer friendly: data syncs can also be built via the API- Open source: Pontoon is free to use by anyoneUnder the hood, we use Apache Arrow (https://arrow.apache.org/) to move data between sources and destinations. Arrow is very performant - we wanted to use a library that could handle the scale of moving millions of records per minute.In the shorter-term, there are several improvements we want to make, like:- Adding support for DBT models to make adding data models easier- UX improvements like better error messaging and monitoring of data syncs- More sources and destinations (S3, GCS, Databricks, etc.)- Improve the API for a more developer friendly experience (it’s currently tied pretty closely to the front end)In the longer-term, we want to make data sharing as easy as possible. As data engineers, we sometimes felt like second class citizens with how we were told to get the data we needed - “just loop through this api 1000 times”, “you probably won’t get rate limited” (we did), “we can schedule an email to send you a csv every day”. We want to change how modern data sharing is done and make it simple for everyone.Give it a try https://github.com/pontoon-data/Pontoon. Cheers! Comments URL: https://news.ycombinator.com/item?id=44758281 Points: 26 # Comments: 5</description>
+      <pubDate>Fri, 01 Aug 2025 15:28:53 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/pontoon-data/Pontoon</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Fast (2019)</title>
+      <link>https://patrickcollison.com/fast</link>
+      <description>Article URL: https://patrickcollison.com/fast Comments URL: https://news.ycombinator.com/item?id=44758132 Points: 56 # Comments: 8</description>
+      <pubDate>Fri, 01 Aug 2025 15:19:43 +0000</pubDate>
+      <guid isPermaLink="true">https://patrickcollison.com/fast</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Ask HN: Who is hiring? (August 2025)</title>
+      <link>https://news.ycombinator.com/item?id=44757794</link>
+      <description>Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does.Please only post if you are actively filling a position and are committed to responding to applicants.Commenters: please don't reply to job posts to complain about something. It's off topic here.Readers: please only email if you are personally interested in the job.Searchers: try https://dheerajck.github.io/hnwhoishiring/, https://amber-williams.github.io/hackernews-whos-hiring/, http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com, https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com, or this (unofficial) Chrome extension: https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....Don't miss these other fine threads:Who wants to be hired? https://news.ycombinator.com/item?id=44757792Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=44757793 Comments URL: https://news.ycombinator.com/item?id=44757794 Points: 62 # Comments: 93</description>
+      <pubDate>Fri, 01 Aug 2025 15:00:05 +0000</pubDate>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=44757794</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Ask HN: Who wants to be hired? (August 2025)</title>
+      <link>https://news.ycombinator.com/item?id=44757792</link>
+      <description>Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.There's a site for searching these posts at https://www.wantstobehired.com. Comments URL: https://news.ycombinator.com/item?id=44757792 Points: 26 # Comments: 67</description>
+      <pubDate>Fri, 01 Aug 2025 15:00:05 +0000</pubDate>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=44757792</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Hyrum's Law</title>
+      <link>https://www.hyrumslaw.com</link>
+      <description>Article URL: https://www.hyrumslaw.com Comments URL: https://news.ycombinator.com/item?id=44757755 Points: 54 # Comments: 19</description>
+      <pubDate>Fri, 01 Aug 2025 14:58:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.hyrumslaw.com</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Long Term Support</title>
+      <link>https://www.sqlite.org/lts.html</link>
+      <description>Article URL: https://www.sqlite.org/lts.html Comments URL: https://news.ycombinator.com/item?id=44757316 Points: 129 # Comments: 41</description>
+      <pubDate>Fri, 01 Aug 2025 14:28:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.sqlite.org/lts.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Michio Kaku: This could finally solve Einstein's unfinished equation | Full Interview</title>
+      <link>https://www.youtube.com/watch?v=PYgJkTL5MRg</link>
+      <description>“An equation, perhaps no more than one inch long, that would allow us to, quote, 'Read the mind of God.'” Subscribe to Big Think on YouTube ► https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg?sub_confirmation=1 Up next, Michio Kaku: The Universe in a Nutshell (Full Presentation) ► https://www.youtube.com/watch?v=0NbBjNiw4tk What if everything we know about computing is on the verge of collapsing? Physicist Michio Kaku explores the next wave that could render traditional tech obsolete: Quantum computing. Quantum computers, Kaku argues, could unlock the secrets of life itself: and could allow us to finally advance Albert Einstein’s quest for a theory of everything. 00:00:00 Quantum computing and Michio’s book Quantum Supremacy00:01:19 Einstein’s unfinished theory 00:03:45 String theory as the "theory of everything" and quantum computers 00:06:20 Quantum computers vs. digital computers 00:08:55 Real-world applications: Fertilizers, fusion energy, and medicine00:11:30 The global race for quantum supremacy 00:14:05 Moore’s Law collapsing 00:16:40 Quantum encryption and cybersecurity threats 00:19:15 How quantum computers work 00:21:50 The future of quantum biology 00:24:30 Alan Turing’s legacy 00:27:45 The history of computing 00:31:10 Quantum supremacy achieved: What’s next? 00:33:50 String theory explained00:38:20 Is the universe a simulation? 00:41:40 UFOs and extraterrestrial intelligence 00:45:15 Civilizations beyond Earth Read the video transcript ► https://bigthink.com/series/full-interview/michio-kaku-quantum/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=youtube_description ---------------------------------------------------------------------------------- Go Deeper with Big Think: ►Become a Big Think Member Get exclusive content, early, ad-free access to new releases, and more. https://www.youtube.com/@bigthink/membership/ ►Subscribe to Big Think on Substack Explore content that enlightens, inspires, and transforms. https://bigthinkmedia.substack.com/subscribe/ ►Get Big Think+ for Business Engage learners like never before with high-impact video microlearning from the biggest thinkers in the world. https://bigthink.com/plus/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=youtube_description ---------------------------------------------------------------------------------- About Dr. Michio Kaku: Dr. Michio Kaku is the co-founder of string field theory, and is one of the most widely recognized scientists in the world today. He has written 4 New York Times Best Sellers, is the science correspondent for CBS This Morning and has hosted numerous science specials for BBC-TV, the Discovery/Science Channel. His radio show broadcasts to 100 radio stations every week. Dr. Kaku holds the Henry Semat Chair and Professorship in theoretical physics at the City College of New York (CUNY), where he has taught for over 25 years. He has also been a visiting professor at the Institute for Advanced Study as well as New York University (NYU)</description>
+      <pubDate>2025-08-01T13:00:49+00:00</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PYgJkTL5MRg</guid>
+      <source url="https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg">Big Think</source>
+    </item>
+    <item>
+      <title>Live coding interviews measure stress, not coding skills</title>
+      <link>https://hadid.dev/posts/living-coding/</link>
+      <description>Article URL: https://hadid.dev/posts/living-coding/ Comments URL: https://news.ycombinator.com/item?id=44756045 Points: 392 # Comments: 403</description>
+      <pubDate>Fri, 01 Aug 2025 12:51:38 +0000</pubDate>
+      <guid isPermaLink="true">https://hadid.dev/posts/living-coding/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Launch HN: Societies.io (YC W25) – AI simulations of your target audience</title>
+      <link>https://news.ycombinator.com/item?id=44755654</link>
+      <description>Hi HN, we’re Patrick and James! Artificial Societies (https://societies.io) lets you simulate your target audience so you can test marketing, messaging and content before you launch them.Here’s a quick product demo: https://www.loom.com/share/c0ce8ab860c044c586c13a24b6c9b391?...Marketers always say that half their spend will be wasted - they just don’t know which half. Real-world experiments help, but they’re too slow and expensive to run at scale. So, we’re building simulations that let you test rapidly and cheaply to find the best version of your message.How it works:- We create AI personas based on real-world data from actual individuals, collected from publicly available social media profiles and web sources.- For each audience, we retrieve relevant personas from our database and map them out on an interactive social network graph, which is designed to replicate patterns of social influence.- Once you’ve drafted your message, each experiment runs a multi-agent simulation where the personas react to your content and interact with each other - these take 30s to 2 minutes to run. Then, we then surface results and insights to help you improve your messaging.Our two biggest challenges are accuracy and UI. We’ve tested our performance at predicting how LinkedIn posts perform, and the initial results have been promising. Our model has an R2 of 0.78 and we’ve found that “message spread” in our simulations is the single most important predictor of actual engagements when looking at posts made by the same authors. But there’s a long way to go in generalising these simulations to other contexts, and finding ground truth data for evals. We have some more info on accuracy here: https://societies.io/#accuracyIn terms of UI, our biggest challenge is figuring out whether the ‘experiment’ form factor is attractive to users. We’ve deliberately focused on this (over AI surveys) as experiments leverage our expertise in social influence and how ideas spread between personas.James and I are both behavioral scientists by training but took different paths to get here. I helped businesses run A/B tests to boost sales and retention. Meanwhile, James became a data scientist and, in his spare time, hooked together 33,000 LLM chatbots and wrote a paper about it (https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10....). He showed me the simulations and we decided to make a startup out of it.Pricing: Artificial Societies is free to try. New users get 3 free credits and then a two week free trial. Pro accounts get unlimited simulations for $40/month. We’re planning on introducing teams later, and enterprise pricing for custom-built audiences.We’d love you to give the tool a try and share your thoughts! Comments URL: https://news.ycombinator.com/item?id=44755654 Points: 39 # Comments: 31</description>
+      <pubDate>Fri, 01 Aug 2025 12:13:12 +0000</pubDate>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=44755654</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>The untold impact of cancellation</title>
       <link>https://pretty.direct/impact</link>
-      <description>Article URL: https://pretty.direct/impact Comments URL: https://news.ycombinator.com/item?id=44755644 Points: 13 # Comments: 2</description>
+      <description>Article URL: https://pretty.direct/impact Comments URL: https://news.ycombinator.com/item?id=44755644 Points: 241 # Comments: 250</description>
       <pubDate>Fri, 01 Aug 2025 12:12:04 +0000</pubDate>
       <guid isPermaLink="true">https://pretty.direct/impact</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>Navy demonstrates multi-day solar UAS flight</title>
-      <link>https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554</link>
-      <description>Article URL: https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554 Comments URL: https://news.ycombinator.com/item?id=44755551 Points: 3 # Comments: 0</description>
-      <pubDate>Fri, 01 Aug 2025 11:57:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.navair.navy.mil/news/Navy-demonstrates-multi-day-solar-UAS-flight/Tue-07292025-1554</guid>
+      <title>Gemini 2.5 Deep Think</title>
+      <link>https://blog.google/products/gemini/gemini-2-5-deep-think/</link>
+      <description>Article URL: https://blog.google/products/gemini/gemini-2-5-deep-think/ Comments URL: https://news.ycombinator.com/item?id=44755279 Points: 283 # Comments: 141</description>
+      <pubDate>Fri, 01 Aug 2025 11:10:38 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.google/products/gemini/gemini-2-5-deep-think/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>Terence Tao's NSF grants suspended</title>
-      <link>https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o</link>
-      <description>Article URL: https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o Comments URL: https://news.ycombinator.com/item?id=44755429 Points: 133 # Comments: 73</description>
-      <pubDate>Fri, 01 Aug 2025 11:39:09 +0000</pubDate>
-      <guid isPermaLink="true">https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Secuso – Our Farewell from Google Play</title>
+      <title>Our Farewell from Google Play</title>
       <link>https://secuso.aifb.kit.edu/english/2809.php</link>
-      <description>Article URL: https://secuso.aifb.kit.edu/english/2809.php Comments URL: https://news.ycombinator.com/item?id=44754523 Points: 5 # Comments: 0</description>
+      <description>Article URL: https://secuso.aifb.kit.edu/english/2809.php Comments URL: https://news.ycombinator.com/item?id=44754523 Points: 147 # Comments: 53</description>
       <pubDate>Fri, 01 Aug 2025 09:08:59 +0000</pubDate>
       <guid isPermaLink="true">https://secuso.aifb.kit.edu/english/2809.php</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>You might not need tmux</title>
-      <link>https://bower.sh/you-might-not-need-tmux</link>
-      <description>Article URL: https://bower.sh/you-might-not-need-tmux Comments URL: https://news.ycombinator.com/item?id=44754492 Points: 86 # Comments: 86</description>
-      <pubDate>Fri, 01 Aug 2025 09:04:16 +0000</pubDate>
-      <guid isPermaLink="true">https://bower.sh/you-might-not-need-tmux</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
@@ -56,52 +184,12 @@
       <source url="https://stackoverflow.blog/feed/">Stack Overflow Blog</source>
     </item>
     <item>
-      <title>Every satellite orbiting earth and who owns them (2023)</title>
-      <link>https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them</link>
-      <description>Article URL: https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them Comments URL: https://news.ycombinator.com/item?id=44753298 Points: 163 # Comments: 72</description>
-      <pubDate>Fri, 01 Aug 2025 05:31:20 +0000</pubDate>
-      <guid isPermaLink="true">https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Show HN: KubeForge – A GUI for Kubernetes YAMLs</title>
-      <link>https://github.com/kubenote/KubeForge</link>
-      <description>Hey HN,I'm Brandon, a solo dev, and I built KubeForge - a visual editor for Kubernetes deployments that helps you build and validate YAML configs.Origin Story: Over the past couple weeks, I got fed up manually writing Kubernetes YAMLs, especially when working with nested structures like containers, env, and volumeMounts. Even small typos or misaligned fields added lost time to broken deploys.So I started hacking together a tool to visualize the structure of Kubernetes objects based on the OpenAPI schema. That prototype quickly turned into a full manifest builder.What KubeForge does:- Pulls the latest Kubernetes OpenAPI schema (auto-updated daily)- Generates field-level forms with type safety, required fields, and smart defaults- Lets you visually build manifests like a flow editor- Outputs clean, deploy-ready YAML, with multi-object exportsPersonally, I wanted a tool that:- Validates fields as I build, not after deployment- Surfaces nested fields, tooltips, and types without switching tabs- Lets me export or share real YAMLs easilyTry it out:GitHub: https://github.com/kubenote/KubeForgeLive demo: https://demo.kubefor.geWebsite: https://kubefor.geIt’s free and open source. I’d love feedback, bug reports, or ideas. Contributions welcome too .Thanks, Brandon Comments URL: https://news.ycombinator.com/item?id=44752469 Points: 51 # Comments: 16</description>
-      <pubDate>Fri, 01 Aug 2025 02:30:59 +0000</pubDate>
-      <guid isPermaLink="true">https://github.com/kubenote/KubeForge</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>Some Gaza and Ukraine posts blocked under new age checks</title>
       <link>https://www.bbc.com/news/articles/cj3l0e4vr0ko?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Tech companies are restricting debates of public interest to comply the Online Safety Act, analysis shows.</description>
       <pubDate>Thu, 31 Jul 2025 23:38:38 GMT</pubDate>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cj3l0e4vr0ko?at_medium=RSS&amp;at_campaign=rss</guid>
       <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
-    </item>
-    <item>
-      <title>“No tax on tips” is an industry plant</title>
-      <link>https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant</link>
-      <description>Article URL: https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant Comments URL: https://news.ycombinator.com/item?id=44750563 Points: 151 # Comments: 314</description>
-      <pubDate>Thu, 31 Jul 2025 21:47:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.newyorker.com/magazine/2025/08/04/no-tax-on-tips-is-an-industry-plant</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>The anti-abundance critique on housing is wrong</title>
-      <link>https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing</link>
-      <description>Article URL: https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing Comments URL: https://news.ycombinator.com/item?id=44750416 Points: 391 # Comments: 565</description>
-      <pubDate>Thu, 31 Jul 2025 21:28:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Slow</title>
-      <link>https://michaelnotebook.com/slow/index.html</link>
-      <description>Article URL: https://michaelnotebook.com/slow/index.html Comments URL: https://news.ycombinator.com/item?id=44748934 Points: 819 # Comments: 194</description>
-      <pubDate>Thu, 31 Jul 2025 19:00:58 +0000</pubDate>
-      <guid isPermaLink="true">https://michaelnotebook.com/slow/index.html</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
       <title>Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for success</title>
@@ -112,30 +200,6 @@
       <source url="https://github.blog/feed/">GitHub Blog</source>
     </item>
     <item>
-      <title>Gemini Embedding: Powering RAG and context engineering</title>
-      <link>https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/</link>
-      <description>Article URL: https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/ Comments URL: https://news.ycombinator.com/item?id=44747457 Points: 248 # Comments: 82</description>
-      <pubDate>Thu, 31 Jul 2025 16:47:54 +0000</pubDate>
-      <guid isPermaLink="true">https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Show HN: Mcp-use – Connect any LLM to any MCP</title>
-      <link>https://github.com/mcp-use/mcp-use</link>
-      <description>Hey Pietro and Luigi here, we are the authors of mcp-use (https://github.com/mcp-use/mcp-use).When the first MCP servers came out we were very excited about the technology, but as soon as we wanted to get our hands dirty, we found out that MCP could be used only through Claude Desktop or Cursor. As engineers, we did not like that. MCP seemed like something you wanted to use to build products and applications yourself, not something to hide behind a closed source application.So we approached the SDK but were pretty dissatisfied with the developer experience (double async loops, lots of boilerplate). We decided to write mcp-use to make our lives easier.mcp-use lets you connect any LLM to any MCP server in just 6 lines of code. We provide a high level abstraction over the official MCP SDK that makes your life easier and supports all the functionalities of the protocol.Demo video here: https://www.youtube.com/watch?v=nL_B6LZAsp4.The key abstractions we provide are called MCPClient and MCPAgent.MCPClient takes in a set of server configurations, automatically detects the transport type and creates a background task which handles the stream from/to the server.MCPAgent is a combination of the MCPClient, an LLM, and a custom system prompt. It consumes the MCP client by transforming the tools, resources and prompts into model agnostic tools that can be called by the LLM.The library also contains some cool utilities:- secure sandboxed execution of MCP servers (we know the protocol doesn't shine for security)- meta-tools that allow the agent to search over available servers and tools (to avoid context flooding) and connect dynamically to the server it needs (you could create the omnipotent agent with this).Some cool things we did with this: - write an agent that can use a browser and create/read linear tickets updated with latest information on the internet- write an agent that has access to the metrics of our company to automatically create weekly reports.- I connected an agent to an IKEA curtain I hacked an MCP on to adapt the lighting of my room from images of the lighting situation.- recreated am open source claude code like CLI, with full MCP capability but with custom models and BYOK (https://github.com/mcp-use/mcp-use-cli).We recently crossed 100,000 download and we are used by many organizations, including NASA!We’d love to hear what you think of it, most importantly how we can improve it! We are happy to answer any questions and look forward to your comments. Comments URL: https://news.ycombinator.com/item?id=44747229 Points: 132 # Comments: 61</description>
-      <pubDate>Thu, 31 Jul 2025 16:25:51 +0000</pubDate>
-      <guid isPermaLink="true">https://github.com/mcp-use/mcp-use</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code</title>
-      <link>https://news.ycombinator.com/item?id=44747204</link>
-      <description>Hey HN, I'm JJ, Co-Founder of Gecko Security (https://www.gecko.security). We're building a new kind of static analysis tool that uses LLMs to find complex business logic and multi-step vulnerabilities that current scanners miss. We’ve used it to find 30+ CVEs in projects like Ollama, Gradio, and Ragflow (https://www.gecko.security/research). You can try it yourself on any OSS repo at (https://app.gecko.security).Anyone who’s used SAST (Static Application Security Testing) tools knows the issues of high false positives while missing entire classes of vulnerabilities like AuthN/Z bypasses or privilege escalations. This limitation is a result of their core architecture. By design, SAST tools parse code into a simplistic model like an AST or call graph, which quickly loses context in dynamically typed languages or across microservice boundaries, and limits coverage to only resolving basic call chains. When detecting vulnerabilities they rely on pattern matching with Regex or YAML rules, which can be effective for basic technical classes like (XSS, SQLi) but inadequate for logic flaws that don’t conform to well-known shapes and need long sequences of dependent operations to reach an exploitable state.My co-founder and I saw these limitations throughout our careers in national intelligence and military cyber forces, where we built automated tooling to defend critical infrastructure. We realised that LLMs, with the right architecture, could finally solve them.Vulnerabilities are contextual. What's exploitable depends entirely on each application's security model. We realized accurate detection requires understanding what's supposed to be protected and why breaking it matters. This meant embedding threat modeling directly into our analysis, not treating it as an afterthought.To achieve this, we first had to solve the code parsing problem. Our solution was to build a custom, compiler-accurate indexer inspired by GitHub's stack graphs approach to precisely navigate code, like an IDE. We build on the LSIF approach (https://lsif.dev/) but replace the verbose JSON with a compact protobuf schema to serialise symbol definitions and references in a binary format. We use language‑specific tools to parse and type‑check code, emitting a sequence of Protobuf messages that record a symbol’s position, definition, and reference information. By using Protobuf’s efficiency and strong typing, we can produce smaller indexes, but also preserve the compiler‑accurate semantic information required for detecting complex call chains.This is why most "SAST + LLM" tools that use AST parsing fail - they feed LLMs incomplete or incorrect code information from traditional parsers, making it difficult to accurately reason about security issues with missing context.With our indexer providing accurate code structure, we use an LLM to perform threat modeling by analyzing developer intent, data and trust boundaries, and exposed endpoints to generate potential attack scenarios. This is where LLMs' tendency to hallucinate becomes a breakthrough feature.For each potential attack path generated, we perform a systematic search, querying the indexer to gather all necessary context and reconstruct the full call chain from source to sink. To validate the vulnerability we use a Monte Carlo Tree Self-refine (MCTSr) algorithm and a 'win function' to determine the likelihood that a hypothesized attack could work. Once a finding is above a set practicality threshold it is confirmed as a true positive.Using this approach, we discovered vulnerabilities like CVE-2025-51479 in ONYX (an OSS enterprise search platform) where Curators could modify any group instead of just their assigned ones. The user-group API had a user parameter that should check permissions but never used it. Gecko inferred developers intended to restrict Curator access because both the UI and similar API functions properly validated this permission. This established "curators have limited scope" as a security invariant that this specific API violated. Traditional SAST can't detect this. Any rule to flag unused user parameters would drown you in false positives since many functions legitimately keep unused parameters. And more importantly, detecting this requires knowing which functions handle authorization, understanding ONYX's Curator permission model, and recognizing the validation pattern across multiple files - contextual reasoning that SAST simply cannot do.We have several enterprise customers using Gecko because it solves problems they couldn't address with traditional SAST tools. They're seeing 50% fewer false positives on the same codebases and finding vulnerabilities that previously only showed up in manual pentests.Digging into false positives, no static analysis tool will ever achieve perfect accuracy, AI or otherwise. We reduce them at two key points. First, our indexer eliminates any programmatic parsing errors that create incorrect call chains that traditional AST tools are susceptible to. Second, we avoid unwanted LLM hallucinations and reasoning errors by asking specific, contextual questions rather than open-ended ones. The LLM knows which security invariants need to hold and can make deterministic assessments based on the context. When we do flag something, manual review is quick because we provide complete source-to-sink dataflow analysis with proof-of-concept code and output findings based on confidence scores.We’d love to get any feedback from the community, ideas for future direction, or experiences in this space. I’ll be in the comments to respond! Comments URL: https://news.ycombinator.com/item?id=44747204 Points: 59 # Comments: 30</description>
-      <pubDate>Thu, 31 Jul 2025 16:23:09 +0000</pubDate>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=44747204</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>Do AI coding tools help with imposter syndrome or make it worse?</title>
       <link>https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/</link>
       <description>Spoiler: Yes.</description>
@@ -144,52 +208,12 @@
       <source url="https://stackoverflow.blog/feed/">Stack Overflow Blog</source>
     </item>
     <item>
-      <title>QUIC for the kernel</title>
-      <link>https://lwn.net/Articles/1029851/</link>
-      <description>Article URL: https://lwn.net/Articles/1029851/ Comments URL: https://news.ycombinator.com/item?id=44746948 Points: 292 # Comments: 197</description>
-      <pubDate>Thu, 31 Jul 2025 15:57:32 +0000</pubDate>
-      <guid isPermaLink="true">https://lwn.net/Articles/1029851/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Ubiquiti launches UniFi OS Server for self-hosting</title>
-      <link>https://lazyadmin.nl/home-network/unifi-os-server/</link>
-      <description>Article URL: https://lazyadmin.nl/home-network/unifi-os-server/ Comments URL: https://news.ycombinator.com/item?id=44746603 Points: 336 # Comments: 264</description>
-      <pubDate>Thu, 31 Jul 2025 15:24:05 +0000</pubDate>
-      <guid isPermaLink="true">https://lazyadmin.nl/home-network/unifi-os-server/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>Which One Are You?</title>
       <link>https://www.youtube.com/shorts/3D9uIn2oBLI</link>
       <description>One pulls everything in and never lets go. The other refuses to let anything in at all. They’re cosmic opposites: mysterious, extreme, and maybe even connected in strange ways we still don’t understand. But which one are you more like? #kurzgesagt #inanutshell #kurzgesagt_inanutshell #learnwithshorts #science Sources &amp; further reading: https://sites.google.com/view/kgs-tiktok-sources Follow us for more sciencey content! 🦆 OUR CHANNELS ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ German: https://kgs.link/youtubeDE Spanish: https://kgs.link/youtubeES French: https://kgs.link/youtubeFR Portuguese: https://kgs.link/youtubePT Arabic: https://kgs.link/youtubeAR Hindi: https://kgs.link/youtubeHI Japanese: https://kgs.link/youtubeJA Korean: https://kgs.link/youtubeKO HOW CAN YOU SUPPORT US? ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ This is how we make our living and it would be a pleasure if you support us! Get Products designed with ❤ https://shop.kgs.link/shorts Become a Part of kurzgesagt by joining the Patreon Bird Army 🐧 https://kgs.link/patreon DISCUSSIONS &amp; SOCIAL MEDIA ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ Instagram: https://kgs.link/instagram TikTok: https://kgs.link/tiktok Reddit: https://kgs.link/reddit Discord: https://kgs.link/discord Twitter: https://kgs.link/twitter Bluesky: https://kgs.link/bluesky Facebook: https://kgs.link/facebook Newsletter: https://kgs.link/newsletter OUR VOICE ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ The Kurzgesagt voice is from Steve Taylor: https://kgs.link/youtube-voice OUR MUSIC ♬♪ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ 700+ minutes of Kurzgesagt Soundtracks by Epic Mountain: Spotify: https://kgs.link/music-spotify Soundcloud: https://kgs.link/music-soundcloud Bandcamp: https://kgs.link/music-bandcamp Youtube: https://kgs.link/music-youtube Facebook: https://kgs.link/music-facebook</description>
       <pubDate>2025-07-31T15:05:22+00:00</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/shorts/3D9uIn2oBLI</guid>
       <source url="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q">Kurzgesagt – In a Nutshell</source>
-    </item>
-    <item>
-      <title>MacBook Pro Insomnia</title>
-      <link>https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia</link>
-      <description>Article URL: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia Comments URL: https://news.ycombinator.com/item?id=44745897 Points: 443 # Comments: 204</description>
-      <pubDate>Thu, 31 Jul 2025 14:16:07 +0000</pubDate>
-      <guid isPermaLink="true">https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Show HN: AgentMail – Email infra for AI agents</title>
-      <link>https://chat.agentmail.to/</link>
-      <description>Hey HN, we're Haakam, Michael, and Adi. We're building AgentMail (https://agentmail.to/), an API to give AI agents their own email inboxes. We’re not talking about AI for your email, this is email for your AI.We started building email agents because they can converse with users in their inboxes, automate email-based workflows, and authenticate with third-party applications. Given these unique capabilities, we think email will be a core interface for agents.But we were building on top of Gmail, which was a struggle: poor API support, expensive subscriptions, rate limits, sending limits, GCP Pub/Sub, OAuth, crappy keyword search, and an overall terrible developer experience.Gmail and other providers didn’t work for us. So we decided to bite the bullet and build our own.AgentMail is like Gmail, but API-first, with programmatic inbox creation, events over webhooks and websockets, simple API key auth, organization-wide semantic search, structured data extraction, and usage-based pricing that scales with emails sent/received.Here’s a demo of building an email agent: https://youtu.be/1V7BISeFUTM, and here’s a demo of a voice agent with its own email inbox: https://youtu.be/eG2fCsRK4RYSo far AgentMail has been deployed to use cases such as apps with dedicated inboxes for each user, voice agents that receive documents in real time, automated account provisioning and QA testing, cold outbound platforms with thousands of inboxes, automations for processing invoices, and agents that coordinate work with humans and other agents.We would love to hear your thoughts and feedback. You can try our playground at https://chat.agentmail.to Comments URL: https://news.ycombinator.com/item?id=44745820 Points: 96 # Comments: 59</description>
-      <pubDate>Thu, 31 Jul 2025 14:08:33 +0000</pubDate>
-      <guid isPermaLink="true">https://chat.agentmail.to/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Releasing weights for FLUX.1 Krea</title>
-      <link>https://www.krea.ai/blog/flux-krea-open-source-release</link>
-      <description>Article URL: https://www.krea.ai/blog/flux-krea-open-source-release Comments URL: https://news.ycombinator.com/item?id=44745555 Points: 320 # Comments: 92</description>
-      <pubDate>Thu, 31 Jul 2025 13:41:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.krea.ai/blog/flux-krea-open-source-release</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
       <title>Anxiety gives you an advantage. Unlock it with neuroplasticity | Wendy Suzuki</title>
@@ -214,14 +238,6 @@
       <pubDate>2025-07-31T12:11:02Z</pubDate>
       <guid isPermaLink="true">https://world.hey.com/dhh/executives-should-be-the-least-busy-people-bb94fb18</guid>
       <source url="https://world.hey.com/dhh/feed.atom">David Heinemeier Hansson</source>
-    </item>
-    <item>
-      <title>Many countries that said no to ChatControl in 2024 are now undecided</title>
-      <link>https://digitalcourage.social/@echo_pbreyer/114946559233051667</link>
-      <description>Article URL: https://digitalcourage.social/@echo_pbreyer/114946559233051667 Comments URL: https://news.ycombinator.com/item?id=44744715 Points: 421 # Comments: 305</description>
-      <pubDate>Thu, 31 Jul 2025 11:54:22 +0000</pubDate>
-      <guid isPermaLink="true">https://digitalcourage.social/@echo_pbreyer/114946559233051667</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
       <title>The innovation, leadership, and team agility inside U.S. Bank’s cloud journey</title>
@@ -254,14 +270,6 @@
       <pubDate>Wed, 30 Jul 2025 23:14:44 GMT</pubDate>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cvg8z2mx508o?at_medium=RSS&amp;at_campaign=rss</guid>
       <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
-    </item>
-    <item>
-      <title>The Math Is Haunted</title>
-      <link>https://overreacted.io/the-math-is-haunted/</link>
-      <description>Article URL: https://overreacted.io/the-math-is-haunted/ Comments URL: https://news.ycombinator.com/item?id=44739315 Points: 389 # Comments: 181</description>
-      <pubDate>Wed, 30 Jul 2025 20:46:49 +0000</pubDate>
-      <guid isPermaLink="true">https://overreacted.io/the-math-is-haunted/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
       <title>TikTok removes video by Huda Beauty boss over anti-Israel conspiracy theories</title>
@@ -398,14 +406,6 @@
       <pubDate>2025-07-28T10:31:34Z</pubDate>
       <guid isPermaLink="true">https://world.hey.com/dhh/the-beauty-of-ideals-b3dccf72</guid>
       <source url="https://world.hey.com/dhh/feed.atom">David Heinemeier Hansson</source>
-    </item>
-    <item>
-      <title>Google failed to warn 10 million of Turkey earthquake severity</title>
-      <link>https://www.bbc.com/news/articles/c77v2kx304go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The tech giant said only 469 serious warnings were sent out ahead of the 7.8 magnitude quake.</description>
-      <pubDate>Sun, 27 Jul 2025 23:16:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c77v2kx304go?at_medium=RSS&amp;at_campaign=rss</guid>
-      <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
     </item>
   </channel>
 </rss>

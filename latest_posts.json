@@ -6,12 +6,72 @@
   "feed_url": "./latest_posts.json",
   "items": [
     {
-      "id": "https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback",
-      "title": "Contrarian climate assessment from U.S. government draws pushback",
-      "content_text": "Article URL: https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback Comments URL: https://news.ycombinator.com/item?id=44763965 Points: 16 # Comments: 4",
-      "url": "https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback",
-      "date_published": "Sat, 02 Aug 2025 00:40:38 +0000",
-      "external_url": "https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback",
+      "id": "https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/",
+      "title": "At $250M, top AI salaries dwarf the Manhattan Project and the Space Race",
+      "content_text": "Article URL: https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/ Comments URL: https://news.ycombinator.com/item?id=44765193 Points: 8 # Comments: 0",
+      "url": "https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/",
+      "date_published": "Sat, 02 Aug 2025 06:03:23 +0000",
+      "external_url": "https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary",
+      "title": "Robert Wilson has died",
+      "content_text": "https://www.nytimes.com/2025/07/31/theater/robert-wilson-dea... (https://archive.ph/VnwA0) Comments URL: https://news.ycombinator.com/item?id=44764568 Points: 37 # Comments: 10",
+      "url": "https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary",
+      "date_published": "Sat, 02 Aug 2025 02:57:27 +0000",
+      "external_url": "https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660",
+      "title": "Hardening mode for the compiler",
+      "content_text": "Article URL: https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660 Comments URL: https://news.ycombinator.com/item?id=44764376 Points: 71 # Comments: 5",
+      "url": "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660",
+      "date_published": "Sat, 02 Aug 2025 02:12:05 +0000",
+      "external_url": "https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660",
+      "tags": [
+        "Technology"
+      ],
+      "_source": {
+        "feed_title": "Hacker News",
+        "feed_url": "https://hnrss.org/frontpage"
+      }
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/ce3jl1kgyv0o?at_medium=RSS&at_campaign=rss",
+      "title": "Chess grandmaster Carlsen wins at Esports World Cup",
+      "content_text": "World number one Magnus Carlsen takes home $250,000 (£188,000) for winning the online competition.",
+      "url": "https://www.bbc.com/news/articles/ce3jl1kgyv0o?at_medium=RSS&at_campaign=rss",
+      "date_published": "Sat, 02 Aug 2025 01:49:02 GMT",
+      "external_url": "https://www.bbc.com/news/articles/ce3jl1kgyv0o?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "News"
+      ],
+      "_source": {
+        "feed_title": "BBC Technology",
+        "feed_url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+      }
+    },
+    {
+      "id": "https://rickovercorpus.org/",
+      "title": "The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos",
+      "content_text": "Article URL: https://rickovercorpus.org/ Comments URL: https://news.ycombinator.com/item?id=44764077 Points: 45 # Comments: 9",
+      "url": "https://rickovercorpus.org/",
+      "date_published": "Sat, 02 Aug 2025 00:59:57 +0000",
+      "external_url": "https://rickovercorpus.org/",
       "tags": [
         "Technology"
       ],
@@ -23,7 +83,7 @@
     {
       "id": "https://blog.poisson.chat/posts/2025-08-01-twentyseven.html",
       "title": "Twentyseven 1.0",
-      "content_text": "Article URL: https://blog.poisson.chat/posts/2025-08-01-twentyseven.html Comments URL: https://news.ycombinator.com/item?id=44763016 Points: 23 # Comments: 2",
+      "content_text": "Article URL: https://blog.poisson.chat/posts/2025-08-01-twentyseven.html Comments URL: https://news.ycombinator.com/item?id=44763016 Points: 30 # Comments: 3",
       "url": "https://blog.poisson.chat/posts/2025-08-01-twentyseven.html",
       "date_published": "Fri, 01 Aug 2025 22:10:07 +0000",
       "external_url": "https://blog.poisson.chat/posts/2025-08-01-twentyseven.html",
@@ -38,7 +98,7 @@
     {
       "id": "https://www.cerebras.ai/blog/introducing-cerebras-code",
       "title": "Cerebras Code",
-      "content_text": "Article URL: https://www.cerebras.ai/blog/introducing-cerebras-code Comments URL: https://news.ycombinator.com/item?id=44762959 Points: 165 # Comments: 78",
+      "content_text": "Article URL: https://www.cerebras.ai/blog/introducing-cerebras-code Comments URL: https://news.ycombinator.com/item?id=44762959 Points: 264 # Comments: 106",
       "url": "https://www.cerebras.ai/blog/introducing-cerebras-code",
       "date_published": "Fri, 01 Aug 2025 22:04:38 +0000",
       "external_url": "https://www.cerebras.ai/blog/introducing-cerebras-code",
@@ -53,7 +113,7 @@
     {
       "id": "https://www.dougmacdowell.com/coffeematic-pc.html",
       "title": "Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU",
-      "content_text": "Article URL: https://www.dougmacdowell.com/coffeematic-pc.html Comments URL: https://news.ycombinator.com/item?id=44762880 Points: 101 # Comments: 24",
+      "content_text": "Article URL: https://www.dougmacdowell.com/coffeematic-pc.html Comments URL: https://news.ycombinator.com/item?id=44762880 Points: 155 # Comments: 39",
       "url": "https://www.dougmacdowell.com/coffeematic-pc.html",
       "date_published": "Fri, 01 Aug 2025 21:53:13 +0000",
       "external_url": "https://www.dougmacdowell.com/coffeematic-pc.html",
@@ -68,7 +128,7 @@
     {
       "id": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
       "title": "Anthropic revokes OpenAI's access to Claude",
-      "content_text": "Article URL: https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/ Comments URL: https://news.ycombinator.com/item?id=44762856 Points: 92 # Comments: 37",
+      "content_text": "Article URL: https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/ Comments URL: https://news.ycombinator.com/item?id=44762856 Points: 180 # Comments: 58",
       "url": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
       "date_published": "Fri, 01 Aug 2025 21:50:28 +0000",
       "external_url": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
@@ -83,7 +143,7 @@
     {
       "id": "https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff",
       "title": "Researchers map where solar energy delivers the biggest climate payoff",
-      "content_text": "Article URL: https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff Comments URL: https://news.ycombinator.com/item?id=44762026 Points: 54 # Comments: 28",
+      "content_text": "Article URL: https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff Comments URL: https://news.ycombinator.com/item?id=44762026 Points: 80 # Comments: 42",
       "url": "https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff",
       "date_published": "Fri, 01 Aug 2025 20:21:42 +0000",
       "external_url": "https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff",
@@ -98,7 +158,7 @@
     {
       "id": "https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html",
       "title": "Does the Bitter Lesson Have Limits?",
-      "content_text": "Article URL: https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html Comments URL: https://news.ycombinator.com/item?id=44762022 Points: 90 # Comments: 47",
+      "content_text": "Article URL: https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html Comments URL: https://news.ycombinator.com/item?id=44762022 Points: 117 # Comments: 62",
       "url": "https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html",
       "date_published": "Fri, 01 Aug 2025 20:21:29 +0000",
       "external_url": "https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html",
@@ -111,27 +171,12 @@
       }
     },
     {
-      "id": "https://arxiv.org/abs/2502.11089",
-      "title": "DeepSeek won the best paper award at ACL 2025",
-      "content_text": "Article URL: https://arxiv.org/abs/2502.11089 Comments URL: https://news.ycombinator.com/item?id=44761548 Points: 54 # Comments: 6",
-      "url": "https://arxiv.org/abs/2502.11089",
+      "id": "https://aclanthology.org/2025.acl-long.1126/",
+      "title": "Native Sparse Attention",
+      "content_text": "Was submitted as \"DeepSeek won the best paper award at ACL 2025\"Here is the awards page: https://cspaper.org/topic/116/record-breaking-acl-2025-crown... Comments URL: https://news.ycombinator.com/item?id=44761548 Points: 105 # Comments: 13",
+      "url": "https://aclanthology.org/2025.acl-long.1126/",
       "date_published": "Fri, 01 Aug 2025 19:48:06 +0000",
-      "external_url": "https://arxiv.org/abs/2502.11089",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
-      "id": "https://blog.langchain.com/deep-agents/",
-      "title": "Deep Agents",
-      "content_text": "Article URL: https://blog.langchain.com/deep-agents/ Comments URL: https://news.ycombinator.com/item?id=44761299 Points: 103 # Comments: 33",
-      "url": "https://blog.langchain.com/deep-agents/",
-      "date_published": "Fri, 01 Aug 2025 19:28:45 +0000",
-      "external_url": "https://blog.langchain.com/deep-agents/",
+      "external_url": "https://aclanthology.org/2025.acl-long.1126/",
       "tags": [
         "Technology"
       ],
@@ -143,7 +188,7 @@
     {
       "id": "https://www.selfref.com/self-signed-jwts",
       "title": "Self-Signed JWTs",
-      "content_text": "Article URL: https://www.selfref.com/self-signed-jwts Comments URL: https://news.ycombinator.com/item?id=44760561 Points: 79 # Comments: 37",
+      "content_text": "Article URL: https://www.selfref.com/self-signed-jwts Comments URL: https://news.ycombinator.com/item?id=44760561 Points: 97 # Comments: 59",
       "url": "https://www.selfref.com/self-signed-jwts",
       "date_published": "Fri, 01 Aug 2025 18:27:59 +0000",
       "external_url": "https://www.selfref.com/self-signed-jwts",
@@ -158,7 +203,7 @@
     {
       "id": "https://blog.google/technology/developers/googl-link-shortening-update/",
       "title": "Google shifts goo.gl policy: Inactive links deactivated, active links preserved",
-      "content_text": "Article URL: https://blog.google/technology/developers/googl-link-shortening-update/ Comments URL: https://news.ycombinator.com/item?id=44759918 Points: 185 # Comments: 138",
+      "content_text": "Article URL: https://blog.google/technology/developers/googl-link-shortening-update/ Comments URL: https://news.ycombinator.com/item?id=44759918 Points: 211 # Comments: 156",
       "url": "https://blog.google/technology/developers/googl-link-shortening-update/",
       "date_published": "Fri, 01 Aug 2025 17:43:02 +0000",
       "external_url": "https://blog.google/technology/developers/googl-link-shortening-update/",
@@ -171,24 +216,9 @@
       }
     },
     {
-      "id": "https://www.coveragecat.com/careers/engineering/software-engineer",
-      "title": "Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer",
-      "content_text": "Article URL: https://www.coveragecat.com/careers/engineering/software-engineer Comments URL: https://news.ycombinator.com/item?id=44759432 Points: 0 # Comments: 0",
-      "url": "https://www.coveragecat.com/careers/engineering/software-engineer",
-      "date_published": "Fri, 01 Aug 2025 17:01:08 +0000",
-      "external_url": "https://www.coveragecat.com/careers/engineering/software-engineer",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://www.skeptrune.com/posts/doing-the-little-things/",
       "title": "I couldn't submit a PR, so I got hired and fixed it myself",
-      "content_text": "Article URL: https://www.skeptrune.com/posts/doing-the-little-things/ Comments URL: https://news.ycombinator.com/item?id=44759417 Points: 184 # Comments: 98",
+      "content_text": "Article URL: https://www.skeptrune.com/posts/doing-the-little-things/ Comments URL: https://news.ycombinator.com/item?id=44759417 Points: 225 # Comments: 136",
       "url": "https://www.skeptrune.com/posts/doing-the-little-things/",
       "date_published": "Fri, 01 Aug 2025 16:59:51 +0000",
       "external_url": "https://www.skeptrune.com/posts/doing-the-little-things/",
@@ -203,7 +233,7 @@
     {
       "id": "https://github.com/traceroot-ai/traceroot",
       "title": "Show HN: TraceRoot – Open-source agentic debugging for distributed services",
-      "content_text": "Hey Xinwei and Zecheng here, we are the authors of TraceRoot (https://github.com/traceroot-ai/traceroot).TraceRoot (https://traceroot.ai) is an open-source debugging platform that helps engineers fix production issues faster by combining structured traces, logs, source code contexts and discussions in Github PRs, issues and Slack channels, etc. with AI Agents.At the heart are our lightweight Python (https://github.com/traceroot-ai/traceroot-sdk) and TypeScript (https://github.com/traceroot-ai/traceroot-sdk-ts) SDKs - they can hook into your app using OpenTelemetry and captures logs and traces. These are either sent to a local Jaeger (https://www.jaegertracing.io/) + SQLite backend or to our cloud backend, where we correlate them into a single view. From there, our custom agent takes over.The agent builds a heterogeneous execution tree that merges spans, logs, and GitHub context into one internal structure. This allows it to model the control and data flow of a request across services. It then uses LLMs to reason over this tree - pruning irrelevant branches, surfacing anomalous spans, and identifying likely root causes. You can ask questions like “what caused this timeout?” or “summarize the errors in these 3 spans”, and it can trace the failure back to a specific commit, summarize the chain of events, or even propose a fix via a draft PR.We also built a debugging UI that ties everything together - you explore traces visually, pick spans of interest, and get AI-assisted insights with full context: logs, timings, metadata, and surrounding code. Unlike most tools, TraceRoot stores long-term debugging history and builds structured context for each company - something we haven’t seen many others do in this space.What’s live today:- Python and TypeScript SDKs for structured logs and traces.- AI summaries, GitHub issue generation, and PR creation.- Debugging UI that ties everything togetherTraceRoot is MIT licensed and easy to self-host (via Docker). We support both local mode (Jaeger + SQLite) and cloud mode. Inspired by OSS projects like PostHog and Supabase - core is free, enterprise features like agent mode multi-tenant and slack integration are paid.If you find it interesting, you can see a demo video here: https://www.youtube.com/watch?v=nb-D3LM0sJMWe’d love you to try TraceRoot (https://traceroot.ai) and share any feedback. If you're interested, our code is available here: https://github.com/traceroot-ai/traceroot. If we don’t have something, let us know and we’d be happy to build it for you. We look forward to your comments! Comments URL: https://news.ycombinator.com/item?id=44759406 Points: 24 # Comments: 4",
+      "content_text": "Hey Xinwei and Zecheng here, we are the authors of TraceRoot (https://github.com/traceroot-ai/traceroot).TraceRoot (https://traceroot.ai) is an open-source debugging platform that helps engineers fix production issues faster by combining structured traces, logs, source code contexts and discussions in Github PRs, issues and Slack channels, etc. with AI Agents.At the heart are our lightweight Python (https://github.com/traceroot-ai/traceroot-sdk) and TypeScript (https://github.com/traceroot-ai/traceroot-sdk-ts) SDKs - they can hook into your app using OpenTelemetry and captures logs and traces. These are either sent to a local Jaeger (https://www.jaegertracing.io/) + SQLite backend or to our cloud backend, where we correlate them into a single view. From there, our custom agent takes over.The agent builds a heterogeneous execution tree that merges spans, logs, and GitHub context into one internal structure. This allows it to model the control and data flow of a request across services. It then uses LLMs to reason over this tree - pruning irrelevant branches, surfacing anomalous spans, and identifying likely root causes. You can ask questions like “what caused this timeout?” or “summarize the errors in these 3 spans”, and it can trace the failure back to a specific commit, summarize the chain of events, or even propose a fix via a draft PR.We also built a debugging UI that ties everything together - you explore traces visually, pick spans of interest, and get AI-assisted insights with full context: logs, timings, metadata, and surrounding code. Unlike most tools, TraceRoot stores long-term debugging history and builds structured context for each company - something we haven’t seen many others do in this space.What’s live today:- Python and TypeScript SDKs for structured logs and traces.- AI summaries, GitHub issue generation, and PR creation.- Debugging UI that ties everything togetherTraceRoot is MIT licensed and easy to self-host (via Docker). We support both local mode (Jaeger + SQLite) and cloud mode. Inspired by OSS projects like PostHog and Supabase - core is free, enterprise features like agent mode multi-tenant and slack integration are paid.If you find it interesting, you can see a demo video here: https://www.youtube.com/watch?v=nb-D3LM0sJMWe’d love you to try TraceRoot (https://traceroot.ai) and share any feedback. If you're interested, our code is available here: https://github.com/traceroot-ai/traceroot. If we don’t have something, let us know and we’d be happy to build it for you. We look forward to your comments! Comments URL: https://news.ycombinator.com/item?id=44759406 Points: 33 # Comments: 8",
       "url": "https://github.com/traceroot-ai/traceroot",
       "date_published": "Fri, 01 Aug 2025 16:58:51 +0000",
       "external_url": "https://github.com/traceroot-ai/traceroot",
@@ -218,7 +248,7 @@
     {
       "id": "https://twey.io/hci/svalboard/",
       "title": "Ergonomic keyboarding with the Svalboard: a half-year retrospective",
-      "content_text": "Article URL: https://twey.io/hci/svalboard/ Comments URL: https://news.ycombinator.com/item?id=44759171 Points: 69 # Comments: 35",
+      "content_text": "Article URL: https://twey.io/hci/svalboard/ Comments URL: https://news.ycombinator.com/item?id=44759171 Points: 95 # Comments: 46",
       "url": "https://twey.io/hci/svalboard/",
       "date_published": "Fri, 01 Aug 2025 16:36:51 +0000",
       "external_url": "https://twey.io/hci/svalboard/",
@@ -233,7 +263,7 @@
     {
       "id": "https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/",
       "title": "At 17, Hannah Cairo solved a major math mystery",
-      "content_text": "Related: https://news.ycombinator.com/item?id=44481441 - July 2025 (105 comments) Comments URL: https://news.ycombinator.com/item?id=44759152 Points: 203 # Comments: 108",
+      "content_text": "Related: https://news.ycombinator.com/item?id=44481441 - July 2025 (105 comments) Comments URL: https://news.ycombinator.com/item?id=44759152 Points: 284 # Comments: 129",
       "url": "https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/",
       "date_published": "Fri, 01 Aug 2025 16:35:40 +0000",
       "external_url": "https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/",
@@ -246,24 +276,9 @@
       }
     },
     {
-      "id": "https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/",
-      "title": "Supporting the BEAM community with free CI/CD security audits",
-      "content_text": "Article URL: https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/ Comments URL: https://news.ycombinator.com/item?id=44758957 Points: 81 # Comments: 16",
-      "url": "https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/",
-      "date_published": "Fri, 01 Aug 2025 16:20:07 +0000",
-      "external_url": "https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/",
-      "tags": [
-        "Technology"
-      ],
-      "_source": {
-        "feed_title": "Hacker News",
-        "feed_url": "https://hnrss.org/frontpage"
-      }
-    },
-    {
       "id": "https://news.ycombinator.com/item?id=44757794",
       "title": "Ask HN: Who is hiring? (August 2025)",
-      "content_text": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does.Please only post if you are actively filling a position and are committed to responding to applicants.Commenters: please don't reply to job posts to complain about something. It's off topic here.Readers: please only email if you are personally interested in the job.Searchers: try https://dheerajck.github.io/hnwhoishiring/, https://amber-williams.github.io/hackernews-whos-hiring/, http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com, https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com, or this (unofficial) Chrome extension: https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....Don't miss these other fine threads:Who wants to be hired? https://news.ycombinator.com/item?id=44757792Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=44757793 Comments URL: https://news.ycombinator.com/item?id=44757794 Points: 149 # Comments: 191",
+      "content_text": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does.Please only post if you are actively filling a position and are committed to responding to applicants.Commenters: please don't reply to job posts to complain about something. It's off topic here.Readers: please only email if you are personally interested in the job.Searchers: try https://dheerajck.github.io/hnwhoishiring/, https://amber-williams.github.io/hackernews-whos-hiring/, http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com, https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com, or this (unofficial) Chrome extension: https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....Don't miss these other fine threads:Who wants to be hired? https://news.ycombinator.com/item?id=44757792Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=44757793 Comments URL: https://news.ycombinator.com/item?id=44757794 Points: 174 # Comments: 201",
       "url": "https://news.ycombinator.com/item?id=44757794",
       "date_published": "Fri, 01 Aug 2025 15:00:05 +0000",
       "external_url": "https://news.ycombinator.com/item?id=44757794",
@@ -278,7 +293,7 @@
     {
       "id": "https://news.ycombinator.com/item?id=44757792",
       "title": "Ask HN: Who wants to be hired? (August 2025)",
-      "content_text": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.There's a site for searching these posts at https://www.wantstobehired.com. Comments URL: https://news.ycombinator.com/item?id=44757792 Points: 67 # Comments: 167",
+      "content_text": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.There's a site for searching these posts at https://www.wantstobehired.com. Comments URL: https://news.ycombinator.com/item?id=44757792 Points: 77 # Comments: 183",
       "url": "https://news.ycombinator.com/item?id=44757792",
       "date_published": "Fri, 01 Aug 2025 15:00:05 +0000",
       "external_url": "https://news.ycombinator.com/item?id=44757792",
@@ -308,7 +323,7 @@
     {
       "id": "https://news.ycombinator.com/item?id=44755654",
       "title": "Launch HN: Societies.io (YC W25) – AI simulations of your target audience",
-      "content_text": "Hi HN, we’re Patrick and James! Artificial Societies (https://societies.io) lets you simulate your target audience so you can test marketing, messaging and content before you launch them.Here’s a quick product demo: https://www.loom.com/share/c0ce8ab860c044c586c13a24b6c9b391?...Marketers always say that half their spend will be wasted - they just don’t know which half. Real-world experiments help, but they’re too slow and expensive to run at scale. So, we’re building simulations that let you test rapidly and cheaply to find the best version of your message.How it works:- We create AI personas based on real-world data from actual individuals, collected from publicly available social media profiles and web sources.- For each audience, we retrieve relevant personas from our database and map them out on an interactive social network graph, which is designed to replicate patterns of social influence.- Once you’ve drafted your message, each experiment runs a multi-agent simulation where the personas react to your content and interact with each other - these take 30s to 2 minutes to run. Then, we then surface results and insights to help you improve your messaging.Our two biggest challenges are accuracy and UI. We’ve tested our performance at predicting how LinkedIn posts perform, and the initial results have been promising. Our model has an R2 of 0.78 and we’ve found that “message spread” in our simulations is the single most important predictor of actual engagements when looking at posts made by the same authors. But there’s a long way to go in generalising these simulations to other contexts, and finding ground truth data for evals. We have some more info on accuracy here: https://societies.io/#accuracyIn terms of UI, our biggest challenge is figuring out whether the ‘experiment’ form factor is attractive to users. We’ve deliberately focused on this (over AI surveys) as experiments leverage our expertise in social influence and how ideas spread between personas.James and I are both behavioral scientists by training but took different paths to get here. I helped businesses run A/B tests to boost sales and retention. Meanwhile, James became a data scientist and, in his spare time, hooked together 33,000 LLM chatbots and wrote a paper about it (https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10....). He showed me the simulations and we decided to make a startup out of it.Pricing: Artificial Societies is free to try. New users get 3 free credits and then a two week free trial. Pro accounts get unlimited simulations for $40/month. We’re planning on introducing teams later, and enterprise pricing for custom-built audiences.We’d love you to give the tool a try and share your thoughts! Comments URL: https://news.ycombinator.com/item?id=44755654 Points: 74 # Comments: 45",
+      "content_text": "Hi HN, we’re Patrick and James! Artificial Societies (https://societies.io) lets you simulate your target audience so you can test marketing, messaging and content before you launch them.Here’s a quick product demo: https://www.loom.com/share/c0ce8ab860c044c586c13a24b6c9b391?...Marketers always say that half their spend will be wasted - they just don’t know which half. Real-world experiments help, but they’re too slow and expensive to run at scale. So, we’re building simulations that let you test rapidly and cheaply to find the best version of your message.How it works:- We create AI personas based on real-world data from actual individuals, collected from publicly available social media profiles and web sources.- For each audience, we retrieve relevant personas from our database and map them out on an interactive social network graph, which is designed to replicate patterns of social influence.- Once you’ve drafted your message, each experiment runs a multi-agent simulation where the personas react to your content and interact with each other - these take 30s to 2 minutes to run. Then, we then surface results and insights to help you improve your messaging.Our two biggest challenges are accuracy and UI. We’ve tested our performance at predicting how LinkedIn posts perform, and the initial results have been promising. Our model has an R2 of 0.78 and we’ve found that “message spread” in our simulations is the single most important predictor of actual engagements when looking at posts made by the same authors. But there’s a long way to go in generalising these simulations to other contexts, and finding ground truth data for evals. We have some more info on accuracy here: https://societies.io/#accuracyIn terms of UI, our biggest challenge is figuring out whether the ‘experiment’ form factor is attractive to users. We’ve deliberately focused on this (over AI surveys) as experiments leverage our expertise in social influence and how ideas spread between personas.James and I are both behavioral scientists by training but took different paths to get here. I helped businesses run A/B tests to boost sales and retention. Meanwhile, James became a data scientist and, in his spare time, hooked together 33,000 LLM chatbots and wrote a paper about it (https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10....). He showed me the simulations and we decided to make a startup out of it.Pricing: Artificial Societies is free to try. New users get 3 free credits and then a two week free trial. Pro accounts get unlimited simulations for $40/month. We’re planning on introducing teams later, and enterprise pricing for custom-built audiences.We’d love you to give the tool a try and share your thoughts! Comments URL: https://news.ycombinator.com/item?id=44755654 Points: 86 # Comments: 47",
       "url": "https://news.ycombinator.com/item?id=44755654",
       "date_published": "Fri, 01 Aug 2025 12:13:12 +0000",
       "external_url": "https://news.ycombinator.com/item?id=44755654",
@@ -738,21 +753,6 @@
       "_source": {
         "feed_title": "GitHub Blog",
         "feed_url": "https://github.blog/feed/"
-      }
-    },
-    {
-      "id": "https://world.hey.com/dhh/the-beauty-of-ideals-b3dccf72",
-      "title": "The beauty of ideals",
-      "content_text": "Ideals are supposed to be unattainable for the great many. If everyone could be the smartest, strongest, prettiest, or best, there would be no need for ideals — we'd all just be perfect. But we're not, so ideals exist to show us the peak of humanity and to point our ambition and appreciation toward it.This is what I always hated about the 90s. It was a decade that made it cool to be a loser. It was the decade of MTV's Beavis and Butt-Head. It was the age of grunge. I'm generationally obliged to like Nirvana, but what a perfectly depressive, suicidal soundtrack to loser culture.Naomi Wolf's The Beauty Myth was published in 1990. It took a critical theory-like lens on beauty ideals, and finding it all so awfully oppressive. Because, actually, seeing beautiful, slim people in advertising or media is bad. Because we don't all look like that! And who's even to say what \"beauty\" is, anyway? It's all just socially constructed! The final stage of that dead-end argument appeared as an ad here in Copenhagen thirty years later during the 2020 insanity: I passed it every day biking the boys to school for weeks. Next to other slim, fit Danes also riding their bikes. None of whom resembled the grotesque display of obesity towering over them on their commute from Calvin Klein.While this campaign was laughably out of place in Copenhagen, it's possible that it brought recognition and representation in some parts of America. But a celebration of ideals it was not.That's the problem with the whole \"representation\" narrative. It proposes we're all better off if all we see is a mirror of ourselves, however obese, lazy, ignorant, or incompetent, because at least it won't be \"unrealistic\". Screw that. The last thing we need is a patronizing message that however little you try, you're perfect just the way you are.No, the beauty of ideals is that they ask more of us. Ask us to pursue knowledge, fitness, and competence by taking inspiration from the best human specimens.Thankfully, no amount of post-modern deconstruction or academic theory babble seems capable of suppressing the intrinsic human yearning for excellence forever. The ideals are finally starting to emerge again.",
-      "url": "https://world.hey.com/dhh/the-beauty-of-ideals-b3dccf72",
-      "date_published": "2025-07-28T10:31:34Z",
-      "external_url": "https://world.hey.com/dhh/the-beauty-of-ideals-b3dccf72",
-      "tags": [
-        "Blogs"
-      ],
-      "_source": {
-        "feed_title": "David Heinemeier Hansson",
-        "feed_url": "https://world.hey.com/dhh/feed.atom"
       }
     }
   ]

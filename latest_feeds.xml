@@ -1,24 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feeds updated="2025-08-02T01:45:37.116999+00:00" count="8">
-  <feed>
-    <title>Python.org Jobs</title>
-    <url>https://www.python.org/jobs/feed/rss/</url>
-    <link>https://www.python.org/jobs/</link>
-    <description>Python jobs from Python.org</description>
-    <updated>Sat, 02 Aug 2025 01:45:33 +0000</updated>
-    <entry_count>20</entry_count>
-    <category>Technology</category>
-    <language>en-us</language>
-  </feed>
+<feeds updated="2025-08-02T06:29:17.249774+00:00" count="8">
   <feed>
     <title>Hacker News</title>
     <url>https://hnrss.org/frontpage</url>
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News RSS</description>
-    <updated>Sat, 02 Aug 2025 01:41:09 +0000</updated>
+    <updated>Sat, 02 Aug 2025 06:27:44 +0000</updated>
     <entry_count>20</entry_count>
     <category>Technology</category>
     <language>en</language>
+  </feed>
+  <feed>
+    <title>Python.org Jobs</title>
+    <url>https://www.python.org/jobs/feed/rss/</url>
+    <link>https://www.python.org/jobs/</link>
+    <description>Python jobs from Python.org</description>
+    <updated>Sat, 02 Aug 2025 05:46:03 +0000</updated>
+    <entry_count>20</entry_count>
+    <category>Technology</category>
+    <language>en-us</language>
+  </feed>
+  <feed>
+    <title>BBC Technology</title>
+    <url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
+    <link>https://www.bbc.co.uk/news/technology</link>
+    <description>BBC News - Technology</description>
+    <updated>Sat, 02 Aug 2025 06:29:07 GMT</updated>
+    <entry_count>60</entry_count>
+    <category>News</category>
+    <language>en-gb</language>
   </feed>
   <feed>
     <title>Big Think</title>
@@ -39,16 +49,6 @@
     <entry_count>40</entry_count>
     <category>Technology</category>
     <language>en-US</language>
-  </feed>
-  <feed>
-    <title>BBC Technology</title>
-    <url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
-    <link>https://www.bbc.co.uk/news/technology</link>
-    <description>BBC News - Technology</description>
-    <updated>Sat, 02 Aug 2025 01:45:33 GMT</updated>
-    <entry_count>60</entry_count>
-    <category>News</category>
-    <language>en-gb</language>
   </feed>
   <feed>
     <title>GitHub Blog</title>

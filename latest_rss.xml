@@ -4,55 +4,167 @@
     <title>lovelyRSS - Latest Posts</title>
     <description>Latest posts from all subscribed feeds</description>
     <link>https://github.com</link>
-    <lastBuildDate>2025-08-02 12:40:25 UTC</lastBuildDate>
+    <lastBuildDate>2025-08-02 18:29:00 UTC</lastBuildDate>
     <generator>lovelyRSS/1.0</generator>
     <ns0:link href="./latest_rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Show HN: Wordle-style game for Fermi questions</title>
+      <link>https://www.fermiquestions.org/</link>
+      <description>Some months ago @andrewrn tried to create a Wordle-style site for order-of-magnitude thinking. This was a wonderful idea, but the actual site was somewhat over-engineered and confusing. (https://news.ycombinator.com/item?id=43632278)In the past week, I looked at this idea again and built a very simple site which gives you a new Fermi estimation question every day:How many new cars were sold in the US in 2024?; How many humans have ever lived (including those currently alive)?; How many chickens are slaughtered for meat every year?To win, you need a guess within ±10% of the correct answer. For this you have a maximum of 6 tries and after each guess, you can see if your answer was too high or too low.Fermi questions are, by the way, a wonderful way to build up your own numeracy and sense for order-of-magnitude differences. Douglas Hofstadter proposed using them for exactly this reason in his essay "Number Numbness, or Why Innumeracy May Be Just as Dangerous as Illiteracy" (https://gwern.net/doc/math/1982-hofstadter-2.pdf) Comments URL: https://news.ycombinator.com/item?id=44769338 Points: 3 # Comments: 3</description>
+      <pubDate>Sat, 02 Aug 2025 17:11:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.fermiquestions.org/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Great Question (YC W21) Is Hiring a VP of Engineering (Remote)</title>
+      <link>https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering</link>
+      <description>Article URL: https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering Comments URL: https://news.ycombinator.com/item?id=44769231 Points: 0 # Comments: 0</description>
+      <pubDate>Sat, 02 Aug 2025 17:00:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>The unreasonable likelihood of being: origin of life, terraforming, and AI</title>
+      <link>https://arxiv.org/abs/2507.18545</link>
+      <description>Article URL: https://arxiv.org/abs/2507.18545 Comments URL: https://news.ycombinator.com/item?id=44769170 Points: 7 # Comments: 4</description>
+      <pubDate>Sat, 02 Aug 2025 16:55:14 +0000</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.18545</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Telo MT1</title>
+      <link>https://www.telotrucks.com/</link>
+      <description>Article URL: https://www.telotrucks.com/ Comments URL: https://news.ycombinator.com/item?id=44769039 Points: 41 # Comments: 30</description>
+      <pubDate>Sat, 02 Aug 2025 16:40:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.telotrucks.com/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Browser extension and local backend that automatically archives YouTube videos</title>
+      <link>https://github.com/andrewarrow/starchive</link>
+      <description>Article URL: https://github.com/andrewarrow/starchive Comments URL: https://news.ycombinator.com/item?id=44768714 Points: 16 # Comments: 3</description>
+      <pubDate>Sat, 02 Aug 2025 16:03:31 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/andrewarrow/starchive</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Why Exercise Is a Miracle Drug</title>
+      <link>https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise</link>
+      <description>Article URL: https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise Comments URL: https://news.ycombinator.com/item?id=44768704 Points: 166 # Comments: 134</description>
+      <pubDate>Sat, 02 Aug 2025 16:02:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>How to reverse engineer an analog chip: the TDA7000 FM radio receiver</title>
+      <link>https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html</link>
+      <description>Article URL: https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html Comments URL: https://news.ycombinator.com/item?id=44768677 Points: 10 # Comments: 2</description>
+      <pubDate>Sat, 02 Aug 2025 15:59:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Hiding secret codes in light protects against fake videos</title>
+      <link>https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos</link>
+      <description>Article URL: https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos Comments URL: https://news.ycombinator.com/item?id=44768513 Points: 35 # Comments: 24</description>
+      <pubDate>Sat, 02 Aug 2025 15:40:27 +0000</pubDate>
+      <guid isPermaLink="true">https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>VSCode extension for syntax highlighting multi-line YAML strings</title>
+      <link>https://github.com/harrydowning/vscode-yaml-embedded-languages</link>
+      <description>Article URL: https://github.com/harrydowning/vscode-yaml-embedded-languages Comments URL: https://news.ycombinator.com/item?id=44768048 Points: 16 # Comments: 1</description>
+      <pubDate>Sat, 02 Aug 2025 14:47:54 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/harrydowning/vscode-yaml-embedded-languages</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>The /o in Ruby regex stands for "oh the humanity "</title>
+      <link>https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html</link>
+      <description>Article URL: https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html Comments URL: https://news.ycombinator.com/item?id=44767959 Points: 60 # Comments: 19</description>
+      <pubDate>Sat, 02 Aug 2025 14:37:51 +0000</pubDate>
+      <guid isPermaLink="true">https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Unikernel Guide: Build and Deploy Lightweight, Secure Apps</title>
+      <link>https://tallysolutions.com/technology/introduction-to-unikernel-2/</link>
+      <description>Article URL: https://tallysolutions.com/technology/introduction-to-unikernel-2/ Comments URL: https://news.ycombinator.com/item?id=44767947 Points: 32 # Comments: 6</description>
+      <pubDate>Sat, 02 Aug 2025 14:36:04 +0000</pubDate>
+      <guid isPermaLink="true">https://tallysolutions.com/technology/introduction-to-unikernel-2/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>The Rubik's Cube Perfect Scramble</title>
+      <link>https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble</link>
+      <description>Article URL: https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble Comments URL: https://news.ycombinator.com/item?id=44767928 Points: 49 # Comments: 17</description>
+      <pubDate>Sat, 02 Aug 2025 14:31:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Iceberg, the Right Idea – The Wrong Spec – Part 2 of 2: The Spec</title>
+      <link>https://www.database-doctor.com/posts/iceberg-is-wrong-2.html</link>
+      <description>Article URL: https://www.database-doctor.com/posts/iceberg-is-wrong-2.html Comments URL: https://news.ycombinator.com/item?id=44767888 Points: 9 # Comments: 1</description>
+      <pubDate>Sat, 02 Aug 2025 14:26:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.database-doctor.com/posts/iceberg-is-wrong-2.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>WebGPU enables local LLM in the browser. Demo site with AI chat</title>
+      <link>https://andreinwald.github.io/browser-llm/</link>
+      <description>Article URL: https://andreinwald.github.io/browser-llm/ Comments URL: https://news.ycombinator.com/item?id=44767775 Points: 82 # Comments: 26</description>
+      <pubDate>Sat, 02 Aug 2025 14:09:12 +0000</pubDate>
+      <guid isPermaLink="true">https://andreinwald.github.io/browser-llm/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Financial Lessons from My Family's Experience with Long-Term Care Insurance</title>
+      <link>https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/</link>
+      <description>Article URL: https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/ Comments URL: https://news.ycombinator.com/item?id=44767702 Points: 48 # Comments: 44</description>
+      <pubDate>Sat, 02 Aug 2025 14:00:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>The Art of Multiprocessor Programming 2nd Edition Book Club</title>
+      <link>https://eatonphil.com/2025-art-of-multiprocessor-programming.html</link>
+      <description>Article URL: https://eatonphil.com/2025-art-of-multiprocessor-programming.html Comments URL: https://news.ycombinator.com/item?id=44767555 Points: 155 # Comments: 23</description>
+      <pubDate>Sat, 02 Aug 2025 13:43:10 +0000</pubDate>
+      <guid isPermaLink="true">https://eatonphil.com/2025-art-of-multiprocessor-programming.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Character Bitmap Graphics on the Pet 2001</title>
+      <link>https://www.masswerk.at/nowgobang/2025/character-bitmaps-on-the-pet2001</link>
+      <description>Article URL: https://www.masswerk.at/nowgobang/2025/character-bitmaps-on-the-pet2001 Comments URL: https://news.ycombinator.com/item?id=44767488 Points: 14 # Comments: 5</description>
+      <pubDate>Sat, 02 Aug 2025 13:36:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.masswerk.at/nowgobang/2025/character-bitmaps-on-the-pet2001</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>ThinkPad designer David Hill spills secrets, designs that never made it</title>
+      <link>https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/</link>
+      <description>Article URL: https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/ Comments URL: https://news.ycombinator.com/item?id=44767125 Points: 96 # Comments: 30</description>
+      <pubDate>Sat, 02 Aug 2025 12:40:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theregister.com/2025/08/02/thinkpad_david_hill_interview/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>6 Weeks of Claude Code</title>
+      <link>https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/</link>
+      <description>Article URL: https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ Comments URL: https://news.ycombinator.com/item?id=44767003 Points: 157 # Comments: 67</description>
+      <pubDate>Sat, 02 Aug 2025 12:20:59 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
       <title>Compressing Icelandic name declension patterns into a 3.27 kB trie</title>
       <link>https://alexharri.com/blog/icelandic-name-declension-trie</link>
-      <description>Article URL: https://alexharri.com/blog/icelandic-name-declension-trie Comments URL: https://news.ycombinator.com/item?id=44766718 Points: 32 # Comments: 3</description>
+      <description>Article URL: https://alexharri.com/blog/icelandic-name-declension-trie Comments URL: https://news.ycombinator.com/item?id=44766718 Points: 159 # Comments: 64</description>
       <pubDate>Sat, 02 Aug 2025 11:28:33 +0000</pubDate>
       <guid isPermaLink="true">https://alexharri.com/blog/icelandic-name-declension-trie</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>The First Widespread Cure for HIV Could Be in Children</title>
-      <link>https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/</link>
-      <description>Article URL: https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/ Comments URL: https://news.ycombinator.com/item?id=44765981 Points: 23 # Comments: 4</description>
-      <pubDate>Sat, 02 Aug 2025 09:20:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>This Month in Ladybird</title>
-      <link>https://ladybird.org/newsletter/2025-07-31/</link>
-      <description>Article URL: https://ladybird.org/newsletter/2025-07-31/ Comments URL: https://news.ycombinator.com/item?id=44765292 Points: 258 # Comments: 73</description>
-      <pubDate>Sat, 02 Aug 2025 06:34:25 +0000</pubDate>
-      <guid isPermaLink="true">https://ladybird.org/newsletter/2025-07-31/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>At $250M, top AI salaries dwarf the Manhattan Project and the Space Race</title>
-      <link>https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/</link>
-      <description>Article URL: https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/ Comments URL: https://news.ycombinator.com/item?id=44765193 Points: 57 # Comments: 66</description>
-      <pubDate>Sat, 02 Aug 2025 06:03:23 +0000</pubDate>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Robert Wilson has died</title>
-      <link>https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary</link>
-      <description>https://www.nytimes.com/2025/07/31/theater/robert-wilson-dea... (https://archive.ph/VnwA0) Comments URL: https://news.ycombinator.com/item?id=44764568 Points: 61 # Comments: 15</description>
-      <pubDate>Sat, 02 Aug 2025 02:57:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Hardening mode for the compiler</title>
-      <link>https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660</link>
-      <description>Article URL: https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660 Comments URL: https://news.ycombinator.com/item?id=44764376 Points: 127 # Comments: 36</description>
-      <pubDate>Sat, 02 Aug 2025 02:12:05 +0000</pubDate>
-      <guid isPermaLink="true">https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
@@ -64,124 +176,12 @@
       <source url="http://feeds.bbci.co.uk/news/technology/rss.xml">BBC Technology</source>
     </item>
     <item>
-      <title>The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos</title>
-      <link>https://rickovercorpus.org/</link>
-      <description>Article URL: https://rickovercorpus.org/ Comments URL: https://news.ycombinator.com/item?id=44764077 Points: 66 # Comments: 12</description>
-      <pubDate>Sat, 02 Aug 2025 00:59:57 +0000</pubDate>
-      <guid isPermaLink="true">https://rickovercorpus.org/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Cerebras Code</title>
-      <link>https://www.cerebras.ai/blog/introducing-cerebras-code</link>
-      <description>Article URL: https://www.cerebras.ai/blog/introducing-cerebras-code Comments URL: https://news.ycombinator.com/item?id=44762959 Points: 372 # Comments: 144</description>
-      <pubDate>Fri, 01 Aug 2025 22:04:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.cerebras.ai/blog/introducing-cerebras-code</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU</title>
-      <link>https://www.dougmacdowell.com/coffeematic-pc.html</link>
-      <description>Article URL: https://www.dougmacdowell.com/coffeematic-pc.html Comments URL: https://news.ycombinator.com/item?id=44762880 Points: 219 # Comments: 67</description>
-      <pubDate>Fri, 01 Aug 2025 21:53:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.dougmacdowell.com/coffeematic-pc.html</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Anthropic revokes OpenAI's access to Claude</title>
-      <link>https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/</link>
-      <description>Article URL: https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/ Comments URL: https://news.ycombinator.com/item?id=44762856 Points: 245 # Comments: 92</description>
-      <pubDate>Fri, 01 Aug 2025 21:50:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers map where solar energy delivers the biggest climate payoff</title>
-      <link>https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff</link>
-      <description>Article URL: https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff Comments URL: https://news.ycombinator.com/item?id=44762026 Points: 99 # Comments: 61</description>
-      <pubDate>Fri, 01 Aug 2025 20:21:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Does the Bitter Lesson Have Limits?</title>
-      <link>https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html</link>
-      <description>Article URL: https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html Comments URL: https://news.ycombinator.com/item?id=44762022 Points: 149 # Comments: 72</description>
-      <pubDate>Fri, 01 Aug 2025 20:21:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Native Sparse Attention</title>
-      <link>https://aclanthology.org/2025.acl-long.1126/</link>
-      <description>Was submitted as "DeepSeek won the best paper award at ACL 2025"Here is the awards page: https://cspaper.org/topic/116/record-breaking-acl-2025-crown... Comments URL: https://news.ycombinator.com/item?id=44761548 Points: 125 # Comments: 24</description>
-      <pubDate>Fri, 01 Aug 2025 19:48:06 +0000</pubDate>
-      <guid isPermaLink="true">https://aclanthology.org/2025.acl-long.1126/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>I couldn't submit a PR, so I got hired and fixed it myself</title>
-      <link>https://www.skeptrune.com/posts/doing-the-little-things/</link>
-      <description>Article URL: https://www.skeptrune.com/posts/doing-the-little-things/ Comments URL: https://news.ycombinator.com/item?id=44759417 Points: 278 # Comments: 170</description>
-      <pubDate>Fri, 01 Aug 2025 16:59:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.skeptrune.com/posts/doing-the-little-things/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>At 17, Hannah Cairo solved a major math mystery</title>
-      <link>https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/</link>
-      <description>Related: https://news.ycombinator.com/item?id=44481441 - July 2025 (105 comments) Comments URL: https://news.ycombinator.com/item?id=44759152 Points: 370 # Comments: 156</description>
-      <pubDate>Fri, 01 Aug 2025 16:35:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Ask HN: Who is hiring? (August 2025)</title>
-      <link>https://news.ycombinator.com/item?id=44757794</link>
-      <description>Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does.Please only post if you are actively filling a position and are committed to responding to applicants.Commenters: please don't reply to job posts to complain about something. It's off topic here.Readers: please only email if you are personally interested in the job.Searchers: try https://dheerajck.github.io/hnwhoishiring/, https://amber-williams.github.io/hackernews-whos-hiring/, http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com, https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com, or this (unofficial) Chrome extension: https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....Don't miss these other fine threads:Who wants to be hired? https://news.ycombinator.com/item?id=44757792Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=44757793 Comments URL: https://news.ycombinator.com/item?id=44757794 Points: 202 # Comments: 230</description>
-      <pubDate>Fri, 01 Aug 2025 15:00:05 +0000</pubDate>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=44757794</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Ask HN: Who wants to be hired? (August 2025)</title>
-      <link>https://news.ycombinator.com/item?id=44757792</link>
-      <description>Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.There's a site for searching these posts at https://www.wantstobehired.com. Comments URL: https://news.ycombinator.com/item?id=44757792 Points: 102 # Comments: 217</description>
-      <pubDate>Fri, 01 Aug 2025 15:00:05 +0000</pubDate>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=44757792</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>Michio Kaku: This could finally solve Einstein's unfinished equation | Full Interview</title>
       <link>https://www.youtube.com/watch?v=PYgJkTL5MRg</link>
       <description>“An equation, perhaps no more than one inch long, that would allow us to, quote, 'Read the mind of God.'” Subscribe to Big Think on YouTube ► https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg?sub_confirmation=1 Up next, Michio Kaku: The Universe in a Nutshell (Full Presentation) ► https://www.youtube.com/watch?v=0NbBjNiw4tk What if everything we know about computing is on the verge of collapsing? Physicist Michio Kaku explores the next wave that could render traditional tech obsolete: Quantum computing. Quantum computers, Kaku argues, could unlock the secrets of life itself: and could allow us to finally advance Albert Einstein’s quest for a theory of everything. 00:00:00 Quantum computing and Michio’s book Quantum Supremacy00:01:19 Einstein’s unfinished theory 00:03:45 String theory as the "theory of everything" and quantum computers 00:06:20 Quantum computers vs. digital computers 00:08:55 Real-world applications: Fertilizers, fusion energy, and medicine00:11:30 The global race for quantum supremacy 00:14:05 Moore’s Law collapsing 00:16:40 Quantum encryption and cybersecurity threats 00:19:15 How quantum computers work 00:21:50 The future of quantum biology 00:24:30 Alan Turing’s legacy 00:27:45 The history of computing 00:31:10 Quantum supremacy achieved: What’s next? 00:33:50 String theory explained00:38:20 Is the universe a simulation? 00:41:40 UFOs and extraterrestrial intelligence 00:45:15 Civilizations beyond Earth Read the video transcript ► https://bigthink.com/series/full-interview/michio-kaku-quantum/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=youtube_description ---------------------------------------------------------------------------------- Go Deeper with Big Think: ►Become a Big Think Member Get exclusive content, early, ad-free access to new releases, and more. https://www.youtube.com/@bigthink/membership/ ►Subscribe to Big Think on Substack Explore content that enlightens, inspires, and transforms. https://bigthinkmedia.substack.com/subscribe/ ►Get Big Think+ for Business Engage learners like never before with high-impact video microlearning from the biggest thinkers in the world. https://bigthink.com/plus/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=youtube_description ---------------------------------------------------------------------------------- About Dr. Michio Kaku: Dr. Michio Kaku is the co-founder of string field theory, and is one of the most widely recognized scientists in the world today. He has written 4 New York Times Best Sellers, is the science correspondent for CBS This Morning and has hosted numerous science specials for BBC-TV, the Discovery/Science Channel. His radio show broadcasts to 100 radio stations every week. Dr. Kaku holds the Henry Semat Chair and Professorship in theoretical physics at the City College of New York (CUNY), where he has taught for over 25 years. He has also been a visiting professor at the Institute for Advanced Study as well as New York University (NYU)</description>
       <pubDate>2025-08-01T13:00:49+00:00</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PYgJkTL5MRg</guid>
       <source url="https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg">Big Think</source>
-    </item>
-    <item>
-      <title>Launch HN: Societies.io (YC W25) – AI simulations of your target audience</title>
-      <link>https://news.ycombinator.com/item?id=44755654</link>
-      <description>Hi HN, we’re Patrick and James! Artificial Societies (https://societies.io) lets you simulate your target audience so you can test marketing, messaging and content before you launch them.Here’s a quick product demo: https://www.loom.com/share/c0ce8ab860c044c586c13a24b6c9b391?...Marketers always say that half their spend will be wasted - they just don’t know which half. Real-world experiments help, but they’re too slow and expensive to run at scale. So, we’re building simulations that let you test rapidly and cheaply to find the best version of your message.How it works:- We create AI personas based on real-world data from actual individuals, collected from publicly available social media profiles and web sources.- For each audience, we retrieve relevant personas from our database and map them out on an interactive social network graph, which is designed to replicate patterns of social influence.- Once you’ve drafted your message, each experiment runs a multi-agent simulation where the personas react to your content and interact with each other - these take 30s to 2 minutes to run. Then, we then surface results and insights to help you improve your messaging.Our two biggest challenges are accuracy and UI. We’ve tested our performance at predicting how LinkedIn posts perform, and the initial results have been promising. Our model has an R2 of 0.78 and we’ve found that “message spread” in our simulations is the single most important predictor of actual engagements when looking at posts made by the same authors. But there’s a long way to go in generalising these simulations to other contexts, and finding ground truth data for evals. We have some more info on accuracy here: https://societies.io/#accuracyIn terms of UI, our biggest challenge is figuring out whether the ‘experiment’ form factor is attractive to users. We’ve deliberately focused on this (over AI surveys) as experiments leverage our expertise in social influence and how ideas spread between personas.James and I are both behavioral scientists by training but took different paths to get here. I helped businesses run A/B tests to boost sales and retention. Meanwhile, James became a data scientist and, in his spare time, hooked together 33,000 LLM chatbots and wrote a paper about it (https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10....). He showed me the simulations and we decided to make a startup out of it.Pricing: Artificial Societies is free to try. New users get 3 free credits and then a two week free trial. Pro accounts get unlimited simulations for $40/month. We’re planning on introducing teams later, and enterprise pricing for custom-built audiences.We’d love you to give the tool a try and share your thoughts! Comments URL: https://news.ycombinator.com/item?id=44755654 Points: 101 # Comments: 52</description>
-      <pubDate>Fri, 01 Aug 2025 12:13:12 +0000</pubDate>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=44755654</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Our Farewell from Google Play</title>
-      <link>https://secuso.aifb.kit.edu/english/2809.php</link>
-      <description>Article URL: https://secuso.aifb.kit.edu/english/2809.php Comments URL: https://news.ycombinator.com/item?id=44754523 Points: 301 # Comments: 112</description>
-      <pubDate>Fri, 01 Aug 2025 09:08:59 +0000</pubDate>
-      <guid isPermaLink="true">https://secuso.aifb.kit.edu/english/2809.php</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Replacing tmux in my dev workflow</title>
-      <link>https://bower.sh/you-might-not-need-tmux</link>
-      <description>Article URL: https://bower.sh/you-might-not-need-tmux Comments URL: https://news.ycombinator.com/item?id=44754492 Points: 286 # Comments: 315</description>
-      <pubDate>Fri, 01 Aug 2025 09:04:16 +0000</pubDate>
-      <guid isPermaLink="true">https://bower.sh/you-might-not-need-tmux</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
       <title>Diving into the results of the 2025 Developer Survey</title>

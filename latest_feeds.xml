@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feeds updated="2025-08-02T12:40:25.108756+00:00" count="8">
+<feeds updated="2025-08-02T18:29:00.965606+00:00" count="8">
   <feed>
     <title>Python.org Jobs</title>
     <url>https://www.python.org/jobs/feed/rss/</url>
     <link>https://www.python.org/jobs/</link>
     <description>Python jobs from Python.org</description>
-    <updated>Sat, 02 Aug 2025 11:47:11 +0000</updated>
+    <updated>Sat, 02 Aug 2025 17:47:44 +0000</updated>
     <entry_count>20</entry_count>
     <category>Technology</category>
     <language>en-us</language>
@@ -15,7 +15,7 @@
     <url>https://hnrss.org/frontpage</url>
     <link>https://news.ycombinator.com/</link>
     <description>Hacker News RSS</description>
-    <updated>Sat, 02 Aug 2025 12:29:20 +0000</updated>
+    <updated>Sat, 02 Aug 2025 18:15:54 +0000</updated>
     <entry_count>20</entry_count>
     <category>Technology</category>
     <language>en</language>
@@ -25,7 +25,7 @@
     <url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
     <link>https://www.bbc.co.uk/news/technology</link>
     <description>BBC News - Technology</description>
-    <updated>Sat, 02 Aug 2025 12:40:08 GMT</updated>
+    <updated>Sat, 02 Aug 2025 18:28:48 GMT</updated>
     <entry_count>60</entry_count>
     <category>News</category>
     <language>en-gb</language>

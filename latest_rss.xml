@@ -4,13 +4,93 @@
     <title>lovelyRSS - Latest Posts</title>
     <description>Latest posts from all subscribed feeds</description>
     <link>https://github.com</link>
-    <lastBuildDate>2025-08-01 18:31:04 UTC</lastBuildDate>
+    <lastBuildDate>2025-08-02 01:45:37 UTC</lastBuildDate>
     <generator>lovelyRSS/1.0</generator>
     <ns0:link href="./latest_rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google Shifts goo.gl Policy: Inactive Links Deactivated, Active Links Preserved</title>
+      <title>Contrarian climate assessment from U.S. government draws pushback</title>
+      <link>https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback</link>
+      <description>Article URL: https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback Comments URL: https://news.ycombinator.com/item?id=44763965 Points: 16 # Comments: 4</description>
+      <pubDate>Sat, 02 Aug 2025 00:40:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.science.org/content/article/contrarian-climate-assessment-u-s-government-draws-swift-pushback</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Twentyseven 1.0</title>
+      <link>https://blog.poisson.chat/posts/2025-08-01-twentyseven.html</link>
+      <description>Article URL: https://blog.poisson.chat/posts/2025-08-01-twentyseven.html Comments URL: https://news.ycombinator.com/item?id=44763016 Points: 23 # Comments: 2</description>
+      <pubDate>Fri, 01 Aug 2025 22:10:07 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.poisson.chat/posts/2025-08-01-twentyseven.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Cerebras Code</title>
+      <link>https://www.cerebras.ai/blog/introducing-cerebras-code</link>
+      <description>Article URL: https://www.cerebras.ai/blog/introducing-cerebras-code Comments URL: https://news.ycombinator.com/item?id=44762959 Points: 165 # Comments: 78</description>
+      <pubDate>Fri, 01 Aug 2025 22:04:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cerebras.ai/blog/introducing-cerebras-code</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU</title>
+      <link>https://www.dougmacdowell.com/coffeematic-pc.html</link>
+      <description>Article URL: https://www.dougmacdowell.com/coffeematic-pc.html Comments URL: https://news.ycombinator.com/item?id=44762880 Points: 101 # Comments: 24</description>
+      <pubDate>Fri, 01 Aug 2025 21:53:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.dougmacdowell.com/coffeematic-pc.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic revokes OpenAI's access to Claude</title>
+      <link>https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/</link>
+      <description>Article URL: https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/ Comments URL: https://news.ycombinator.com/item?id=44762856 Points: 92 # Comments: 37</description>
+      <pubDate>Fri, 01 Aug 2025 21:50:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers map where solar energy delivers the biggest climate payoff</title>
+      <link>https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff</link>
+      <description>Article URL: https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff Comments URL: https://news.ycombinator.com/item?id=44762026 Points: 54 # Comments: 28</description>
+      <pubDate>Fri, 01 Aug 2025 20:21:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.rutgers.edu/news/researchers-map-where-solar-energy-delivers-biggest-climate-payoff</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Does the Bitter Lesson Have Limits?</title>
+      <link>https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html</link>
+      <description>Article URL: https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html Comments URL: https://news.ycombinator.com/item?id=44762022 Points: 90 # Comments: 47</description>
+      <pubDate>Fri, 01 Aug 2025 20:21:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>DeepSeek won the best paper award at ACL 2025</title>
+      <link>https://arxiv.org/abs/2502.11089</link>
+      <description>Article URL: https://arxiv.org/abs/2502.11089 Comments URL: https://news.ycombinator.com/item?id=44761548 Points: 54 # Comments: 6</description>
+      <pubDate>Fri, 01 Aug 2025 19:48:06 +0000</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/2502.11089</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Deep Agents</title>
+      <link>https://blog.langchain.com/deep-agents/</link>
+      <description>Article URL: https://blog.langchain.com/deep-agents/ Comments URL: https://news.ycombinator.com/item?id=44761299 Points: 103 # Comments: 33</description>
+      <pubDate>Fri, 01 Aug 2025 19:28:45 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.langchain.com/deep-agents/</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Self-Signed JWTs</title>
+      <link>https://www.selfref.com/self-signed-jwts</link>
+      <description>Article URL: https://www.selfref.com/self-signed-jwts Comments URL: https://news.ycombinator.com/item?id=44760561 Points: 79 # Comments: 37</description>
+      <pubDate>Fri, 01 Aug 2025 18:27:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.selfref.com/self-signed-jwts</guid>
+      <source url="https://hnrss.org/frontpage">Hacker News</source>
+    </item>
+    <item>
+      <title>Google shifts goo.gl policy: Inactive links deactivated, active links preserved</title>
       <link>https://blog.google/technology/developers/googl-link-shortening-update/</link>
-      <description>Article URL: https://blog.google/technology/developers/googl-link-shortening-update/ Comments URL: https://news.ycombinator.com/item?id=44759918 Points: 38 # Comments: 26</description>
+      <description>Article URL: https://blog.google/technology/developers/googl-link-shortening-update/ Comments URL: https://news.ycombinator.com/item?id=44759918 Points: 185 # Comments: 138</description>
       <pubDate>Fri, 01 Aug 2025 17:43:02 +0000</pubDate>
       <guid isPermaLink="true">https://blog.google/technology/developers/googl-link-shortening-update/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -26,23 +106,23 @@
     <item>
       <title>I couldn't submit a PR, so I got hired and fixed it myself</title>
       <link>https://www.skeptrune.com/posts/doing-the-little-things/</link>
-      <description>Article URL: https://www.skeptrune.com/posts/doing-the-little-things/ Comments URL: https://news.ycombinator.com/item?id=44759417 Points: 13 # Comments: 2</description>
+      <description>Article URL: https://www.skeptrune.com/posts/doing-the-little-things/ Comments URL: https://news.ycombinator.com/item?id=44759417 Points: 184 # Comments: 98</description>
       <pubDate>Fri, 01 Aug 2025 16:59:51 +0000</pubDate>
       <guid isPermaLink="true">https://www.skeptrune.com/posts/doing-the-little-things/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>Corporation for Public Broadcasting Ceasing Operations</title>
-      <link>https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding</link>
-      <description>Article URL: https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding Comments URL: https://news.ycombinator.com/item?id=44759382 Points: 245 # Comments: 196</description>
-      <pubDate>Fri, 01 Aug 2025 16:56:40 +0000</pubDate>
-      <guid isPermaLink="true">https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding</guid>
+      <title>Show HN: TraceRoot – Open-source agentic debugging for distributed services</title>
+      <link>https://github.com/traceroot-ai/traceroot</link>
+      <description>Hey Xinwei and Zecheng here, we are the authors of TraceRoot (https://github.com/traceroot-ai/traceroot).TraceRoot (https://traceroot.ai) is an open-source debugging platform that helps engineers fix production issues faster by combining structured traces, logs, source code contexts and discussions in Github PRs, issues and Slack channels, etc. with AI Agents.At the heart are our lightweight Python (https://github.com/traceroot-ai/traceroot-sdk) and TypeScript (https://github.com/traceroot-ai/traceroot-sdk-ts) SDKs - they can hook into your app using OpenTelemetry and captures logs and traces. These are either sent to a local Jaeger (https://www.jaegertracing.io/) + SQLite backend or to our cloud backend, where we correlate them into a single view. From there, our custom agent takes over.The agent builds a heterogeneous execution tree that merges spans, logs, and GitHub context into one internal structure. This allows it to model the control and data flow of a request across services. It then uses LLMs to reason over this tree - pruning irrelevant branches, surfacing anomalous spans, and identifying likely root causes. You can ask questions like “what caused this timeout?” or “summarize the errors in these 3 spans”, and it can trace the failure back to a specific commit, summarize the chain of events, or even propose a fix via a draft PR.We also built a debugging UI that ties everything together - you explore traces visually, pick spans of interest, and get AI-assisted insights with full context: logs, timings, metadata, and surrounding code. Unlike most tools, TraceRoot stores long-term debugging history and builds structured context for each company - something we haven’t seen many others do in this space.What’s live today:- Python and TypeScript SDKs for structured logs and traces.- AI summaries, GitHub issue generation, and PR creation.- Debugging UI that ties everything togetherTraceRoot is MIT licensed and easy to self-host (via Docker). We support both local mode (Jaeger + SQLite) and cloud mode. Inspired by OSS projects like PostHog and Supabase - core is free, enterprise features like agent mode multi-tenant and slack integration are paid.If you find it interesting, you can see a demo video here: https://www.youtube.com/watch?v=nb-D3LM0sJMWe’d love you to try TraceRoot (https://traceroot.ai) and share any feedback. If you're interested, our code is available here: https://github.com/traceroot-ai/traceroot. If we don’t have something, let us know and we’d be happy to build it for you. We look forward to your comments! Comments URL: https://news.ycombinator.com/item?id=44759406 Points: 24 # Comments: 4</description>
+      <pubDate>Fri, 01 Aug 2025 16:58:51 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/traceroot-ai/traceroot</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
       <title>Ergonomic keyboarding with the Svalboard: a half-year retrospective</title>
       <link>https://twey.io/hci/svalboard/</link>
-      <description>Article URL: https://twey.io/hci/svalboard/ Comments URL: https://news.ycombinator.com/item?id=44759171 Points: 16 # Comments: 2</description>
+      <description>Article URL: https://twey.io/hci/svalboard/ Comments URL: https://news.ycombinator.com/item?id=44759171 Points: 69 # Comments: 35</description>
       <pubDate>Fri, 01 Aug 2025 16:36:51 +0000</pubDate>
       <guid isPermaLink="true">https://twey.io/hci/svalboard/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -50,7 +130,7 @@
     <item>
       <title>At 17, Hannah Cairo solved a major math mystery</title>
       <link>https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/</link>
-      <description>Article URL: https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/ Comments URL: https://news.ycombinator.com/item?id=44759152 Points: 70 # Comments: 28</description>
+      <description>Related: https://news.ycombinator.com/item?id=44481441 - July 2025 (105 comments) Comments URL: https://news.ycombinator.com/item?id=44759152 Points: 203 # Comments: 108</description>
       <pubDate>Fri, 01 Aug 2025 16:35:40 +0000</pubDate>
       <guid isPermaLink="true">https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -58,47 +138,15 @@
     <item>
       <title>Supporting the BEAM community with free CI/CD security audits</title>
       <link>https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/</link>
-      <description>Article URL: https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/ Comments URL: https://news.ycombinator.com/item?id=44758957 Points: 40 # Comments: 5</description>
+      <description>Article URL: https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/ Comments URL: https://news.ycombinator.com/item?id=44758957 Points: 81 # Comments: 16</description>
       <pubDate>Fri, 01 Aug 2025 16:20:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
-      <title>Rollercoaster Tycoon (Or, MicroProse's Last Hurrah)</title>
-      <link>https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/</link>
-      <description>Article URL: https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/ Comments URL: https://news.ycombinator.com/item?id=44758842 Points: 68 # Comments: 20</description>
-      <pubDate>Fri, 01 Aug 2025 16:10:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI Leaks 120B Open Model on Hugging Face</title>
-      <link>https://twitter.com/main_horse/status/1951201925778776530</link>
-      <description>Article URL: https://twitter.com/main_horse/status/1951201925778776530 Comments URL: https://news.ycombinator.com/item?id=44758511 Points: 73 # Comments: 28</description>
-      <pubDate>Fri, 01 Aug 2025 15:44:27 +0000</pubDate>
-      <guid isPermaLink="true">https://twitter.com/main_horse/status/1951201925778776530</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Show HN: Pontoon – Open-source customer data syncs</title>
-      <link>https://github.com/pontoon-data/Pontoon</link>
-      <description>Hi HN,We’re Alex and Kalan, the creators of Pontoon (https://github.com/pontoon-data/Pontoon). Pontoon is an open-source data export platform that makes it really easy to create data syncs and send data to your enterprise customers. Check out our demo here: https://app.storylane.io/share/onova7c23ai6 or try it out with docker: https://pontoon-data.github.io/Pontoon/getting-started/quick...While at our prior roles as data engineers, we’ve both felt the pain of data APIs. We either had to spend weeks building out data pipelines in house or spend a lot on ETL tools like Fivetran (https://www.fivetran.com/). However, there were a few companies that offered data syncs that would sync directly to our data warehouse (eg. Redshift, Snowflake, etc.), and when that was an option, we always chose it. This led us to wonder “Why don’t more companies offer data syncs?”. It turns out, building reliable cross-cloud data syncs is difficult. That’s why we built Pontoon.We designed Pontoon to be:- Easily deployed: we provide a single, self-contained Docker image for easy deployment and Docker Compose for larger workloads (https://pontoon-data.github.io/Pontoon/getting-started/quick...)- Support modern data warehouses: we support syncing to/from Snowflake, BigQuery, Redshift, and Postgres.- Sync cross cloud: sync from BigQuery to Redshift, Snowflake to BigQuery, Postgres to Redshift, etc.- Developer friendly: data syncs can also be built via the API- Open source: Pontoon is free to use by anyoneUnder the hood, we use Apache Arrow (https://arrow.apache.org/) to move data between sources and destinations. Arrow is very performant - we wanted to use a library that could handle the scale of moving millions of records per minute.In the shorter-term, there are several improvements we want to make, like:- Adding support for DBT models to make adding data models easier- UX improvements like better error messaging and monitoring of data syncs- More sources and destinations (S3, GCS, Databricks, etc.)- Improve the API for a more developer friendly experience (it’s currently tied pretty closely to the front end)In the longer-term, we want to make data sharing as easy as possible. As data engineers, we sometimes felt like second class citizens with how we were told to get the data we needed - “just loop through this api 1000 times”, “you probably won’t get rate limited” (we did), “we can schedule an email to send you a csv every day”. We want to change how modern data sharing is done and make it simple for everyone.Give it a try https://github.com/pontoon-data/Pontoon. Cheers! Comments URL: https://news.ycombinator.com/item?id=44758281 Points: 26 # Comments: 5</description>
-      <pubDate>Fri, 01 Aug 2025 15:28:53 +0000</pubDate>
-      <guid isPermaLink="true">https://github.com/pontoon-data/Pontoon</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Fast (2019)</title>
-      <link>https://patrickcollison.com/fast</link>
-      <description>Article URL: https://patrickcollison.com/fast Comments URL: https://news.ycombinator.com/item?id=44758132 Points: 56 # Comments: 8</description>
-      <pubDate>Fri, 01 Aug 2025 15:19:43 +0000</pubDate>
-      <guid isPermaLink="true">https://patrickcollison.com/fast</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>Ask HN: Who is hiring? (August 2025)</title>
       <link>https://news.ycombinator.com/item?id=44757794</link>
-      <description>Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does.Please only post if you are actively filling a position and are committed to responding to applicants.Commenters: please don't reply to job posts to complain about something. It's off topic here.Readers: please only email if you are personally interested in the job.Searchers: try https://dheerajck.github.io/hnwhoishiring/, https://amber-williams.github.io/hackernews-whos-hiring/, http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com, https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com, or this (unofficial) Chrome extension: https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....Don't miss these other fine threads:Who wants to be hired? https://news.ycombinator.com/item?id=44757792Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=44757793 Comments URL: https://news.ycombinator.com/item?id=44757794 Points: 62 # Comments: 93</description>
+      <description>Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does.Please only post if you are actively filling a position and are committed to responding to applicants.Commenters: please don't reply to job posts to complain about something. It's off topic here.Readers: please only email if you are personally interested in the job.Searchers: try https://dheerajck.github.io/hnwhoishiring/, https://amber-williams.github.io/hackernews-whos-hiring/, http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com, https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com, or this (unofficial) Chrome extension: https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal....Don't miss these other fine threads:Who wants to be hired? https://news.ycombinator.com/item?id=44757792Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=44757793 Comments URL: https://news.ycombinator.com/item?id=44757794 Points: 149 # Comments: 191</description>
       <pubDate>Fri, 01 Aug 2025 15:00:05 +0000</pubDate>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=44757794</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
@@ -106,25 +154,9 @@
     <item>
       <title>Ask HN: Who wants to be hired? (August 2025)</title>
       <link>https://news.ycombinator.com/item?id=44757792</link>
-      <description>Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.There's a site for searching these posts at https://www.wantstobehired.com. Comments URL: https://news.ycombinator.com/item?id=44757792 Points: 26 # Comments: 67</description>
+      <description>Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.There's a site for searching these posts at https://www.wantstobehired.com. Comments URL: https://news.ycombinator.com/item?id=44757792 Points: 67 # Comments: 167</description>
       <pubDate>Fri, 01 Aug 2025 15:00:05 +0000</pubDate>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=44757792</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Hyrum's Law</title>
-      <link>https://www.hyrumslaw.com</link>
-      <description>Article URL: https://www.hyrumslaw.com Comments URL: https://news.ycombinator.com/item?id=44757755 Points: 54 # Comments: 19</description>
-      <pubDate>Fri, 01 Aug 2025 14:58:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hyrumslaw.com</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Long Term Support</title>
-      <link>https://www.sqlite.org/lts.html</link>
-      <description>Article URL: https://www.sqlite.org/lts.html Comments URL: https://news.ycombinator.com/item?id=44757316 Points: 129 # Comments: 41</description>
-      <pubDate>Fri, 01 Aug 2025 14:28:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.sqlite.org/lts.html</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>
@@ -136,43 +168,11 @@
       <source url="https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg">Big Think</source>
     </item>
     <item>
-      <title>Live coding interviews measure stress, not coding skills</title>
-      <link>https://hadid.dev/posts/living-coding/</link>
-      <description>Article URL: https://hadid.dev/posts/living-coding/ Comments URL: https://news.ycombinator.com/item?id=44756045 Points: 392 # Comments: 403</description>
-      <pubDate>Fri, 01 Aug 2025 12:51:38 +0000</pubDate>
-      <guid isPermaLink="true">https://hadid.dev/posts/living-coding/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
       <title>Launch HN: Societies.io (YC W25) – AI simulations of your target audience</title>
       <link>https://news.ycombinator.com/item?id=44755654</link>
-      <description>Hi HN, we’re Patrick and James! Artificial Societies (https://societies.io) lets you simulate your target audience so you can test marketing, messaging and content before you launch them.Here’s a quick product demo: https://www.loom.com/share/c0ce8ab860c044c586c13a24b6c9b391?...Marketers always say that half their spend will be wasted - they just don’t know which half. Real-world experiments help, but they’re too slow and expensive to run at scale. So, we’re building simulations that let you test rapidly and cheaply to find the best version of your message.How it works:- We create AI personas based on real-world data from actual individuals, collected from publicly available social media profiles and web sources.- For each audience, we retrieve relevant personas from our database and map them out on an interactive social network graph, which is designed to replicate patterns of social influence.- Once you’ve drafted your message, each experiment runs a multi-agent simulation where the personas react to your content and interact with each other - these take 30s to 2 minutes to run. Then, we then surface results and insights to help you improve your messaging.Our two biggest challenges are accuracy and UI. We’ve tested our performance at predicting how LinkedIn posts perform, and the initial results have been promising. Our model has an R2 of 0.78 and we’ve found that “message spread” in our simulations is the single most important predictor of actual engagements when looking at posts made by the same authors. But there’s a long way to go in generalising these simulations to other contexts, and finding ground truth data for evals. We have some more info on accuracy here: https://societies.io/#accuracyIn terms of UI, our biggest challenge is figuring out whether the ‘experiment’ form factor is attractive to users. We’ve deliberately focused on this (over AI surveys) as experiments leverage our expertise in social influence and how ideas spread between personas.James and I are both behavioral scientists by training but took different paths to get here. I helped businesses run A/B tests to boost sales and retention. Meanwhile, James became a data scientist and, in his spare time, hooked together 33,000 LLM chatbots and wrote a paper about it (https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10....). He showed me the simulations and we decided to make a startup out of it.Pricing: Artificial Societies is free to try. New users get 3 free credits and then a two week free trial. Pro accounts get unlimited simulations for $40/month. We’re planning on introducing teams later, and enterprise pricing for custom-built audiences.We’d love you to give the tool a try and share your thoughts! Comments URL: https://news.ycombinator.com/item?id=44755654 Points: 39 # Comments: 31</description>
+      <description>Hi HN, we’re Patrick and James! Artificial Societies (https://societies.io) lets you simulate your target audience so you can test marketing, messaging and content before you launch them.Here’s a quick product demo: https://www.loom.com/share/c0ce8ab860c044c586c13a24b6c9b391?...Marketers always say that half their spend will be wasted - they just don’t know which half. Real-world experiments help, but they’re too slow and expensive to run at scale. So, we’re building simulations that let you test rapidly and cheaply to find the best version of your message.How it works:- We create AI personas based on real-world data from actual individuals, collected from publicly available social media profiles and web sources.- For each audience, we retrieve relevant personas from our database and map them out on an interactive social network graph, which is designed to replicate patterns of social influence.- Once you’ve drafted your message, each experiment runs a multi-agent simulation where the personas react to your content and interact with each other - these take 30s to 2 minutes to run. Then, we then surface results and insights to help you improve your messaging.Our two biggest challenges are accuracy and UI. We’ve tested our performance at predicting how LinkedIn posts perform, and the initial results have been promising. Our model has an R2 of 0.78 and we’ve found that “message spread” in our simulations is the single most important predictor of actual engagements when looking at posts made by the same authors. But there’s a long way to go in generalising these simulations to other contexts, and finding ground truth data for evals. We have some more info on accuracy here: https://societies.io/#accuracyIn terms of UI, our biggest challenge is figuring out whether the ‘experiment’ form factor is attractive to users. We’ve deliberately focused on this (over AI surveys) as experiments leverage our expertise in social influence and how ideas spread between personas.James and I are both behavioral scientists by training but took different paths to get here. I helped businesses run A/B tests to boost sales and retention. Meanwhile, James became a data scientist and, in his spare time, hooked together 33,000 LLM chatbots and wrote a paper about it (https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10....). He showed me the simulations and we decided to make a startup out of it.Pricing: Artificial Societies is free to try. New users get 3 free credits and then a two week free trial. Pro accounts get unlimited simulations for $40/month. We’re planning on introducing teams later, and enterprise pricing for custom-built audiences.We’d love you to give the tool a try and share your thoughts! Comments URL: https://news.ycombinator.com/item?id=44755654 Points: 74 # Comments: 45</description>
       <pubDate>Fri, 01 Aug 2025 12:13:12 +0000</pubDate>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=44755654</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>The untold impact of cancellation</title>
-      <link>https://pretty.direct/impact</link>
-      <description>Article URL: https://pretty.direct/impact Comments URL: https://news.ycombinator.com/item?id=44755644 Points: 241 # Comments: 250</description>
-      <pubDate>Fri, 01 Aug 2025 12:12:04 +0000</pubDate>
-      <guid isPermaLink="true">https://pretty.direct/impact</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Gemini 2.5 Deep Think</title>
-      <link>https://blog.google/products/gemini/gemini-2-5-deep-think/</link>
-      <description>Article URL: https://blog.google/products/gemini/gemini-2-5-deep-think/ Comments URL: https://news.ycombinator.com/item?id=44755279 Points: 283 # Comments: 141</description>
-      <pubDate>Fri, 01 Aug 2025 11:10:38 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.google/products/gemini/gemini-2-5-deep-think/</guid>
-      <source url="https://hnrss.org/frontpage">Hacker News</source>
-    </item>
-    <item>
-      <title>Our Farewell from Google Play</title>
-      <link>https://secuso.aifb.kit.edu/english/2809.php</link>
-      <description>Article URL: https://secuso.aifb.kit.edu/english/2809.php Comments URL: https://news.ycombinator.com/item?id=44754523 Points: 147 # Comments: 53</description>
-      <pubDate>Fri, 01 Aug 2025 09:08:59 +0000</pubDate>
-      <guid isPermaLink="true">https://secuso.aifb.kit.edu/english/2809.php</guid>
       <source url="https://hnrss.org/frontpage">Hacker News</source>
     </item>
     <item>

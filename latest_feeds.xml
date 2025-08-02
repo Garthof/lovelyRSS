@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feeds updated="2025-08-01T18:31:04.443048+00:00" count="8">
-  <feed>
-    <title>Hacker News</title>
-    <url>https://hnrss.org/frontpage</url>
-    <link>https://news.ycombinator.com/</link>
-    <description>Hacker News RSS</description>
-    <updated>Fri, 01 Aug 2025 18:24:27 +0000</updated>
-    <entry_count>20</entry_count>
-    <category>Technology</category>
-    <language>en</language>
-  </feed>
+<feeds updated="2025-08-02T01:45:37.116999+00:00" count="8">
   <feed>
     <title>Python.org Jobs</title>
     <url>https://www.python.org/jobs/feed/rss/</url>
     <link>https://www.python.org/jobs/</link>
     <description>Python jobs from Python.org</description>
-    <updated>Fri, 01 Aug 2025 17:42:07 +0000</updated>
+    <updated>Sat, 02 Aug 2025 01:45:33 +0000</updated>
     <entry_count>20</entry_count>
     <category>Technology</category>
     <language>en-us</language>
+  </feed>
+  <feed>
+    <title>Hacker News</title>
+    <url>https://hnrss.org/frontpage</url>
+    <link>https://news.ycombinator.com/</link>
+    <description>Hacker News RSS</description>
+    <updated>Sat, 02 Aug 2025 01:41:09 +0000</updated>
+    <entry_count>20</entry_count>
+    <category>Technology</category>
+    <language>en</language>
   </feed>
   <feed>
     <title>Big Think</title>
@@ -35,7 +35,7 @@
     <url>https://stackoverflow.blog/feed/</url>
     <link>https://stackoverflow.blog/</link>
     <description>Essays, opinions, and advice on the act of computer programming from Stack Overflow.</description>
-    <updated>Fri, 01 Aug 2025 15:10:02 GMT</updated>
+    <updated>Fri, 01 Aug 2025 19:12:32 GMT</updated>
     <entry_count>40</entry_count>
     <category>Technology</category>
     <language>en-US</language>
@@ -45,7 +45,7 @@
     <url>http://feeds.bbci.co.uk/news/technology/rss.xml</url>
     <link>https://www.bbc.co.uk/news/technology</link>
     <description>BBC News - Technology</description>
-    <updated>Fri, 01 Aug 2025 18:30:59 GMT</updated>
+    <updated>Sat, 02 Aug 2025 01:45:33 GMT</updated>
     <entry_count>60</entry_count>
     <category>News</category>
     <language>en-gb</language>
@@ -55,7 +55,7 @@
     <url>https://github.blog/feed/</url>
     <link>https://github.blog/</link>
     <description>Updates, ideas, and inspiration from GitHub to help developers build and design software.</description>
-    <updated>Thu, 31 Jul 2025 18:07:52 +0000</updated>
+    <updated>Fri, 01 Aug 2025 22:52:04 +0000</updated>
     <entry_count>10</entry_count>
     <category>Technology</category>
     <language>en-US</language>
